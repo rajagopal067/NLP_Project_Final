@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="jars/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="jars/joda-time-2.1-sources.jar"/>
+	<classpathentry kind="lib" path="jars/joda-time.jar"/>
+	<classpathentry kind="lib" path="jars/jollyday-0.4.7-sources.jar"/>
+	<classpathentry kind="lib" path="jars/jollyday.jar"/>
+	<classpathentry kind="lib" path="jars/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="jars/protobuf.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-3.5.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-3.5.2-models.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-3.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-corenlp-3.5.2.jar" sourcepath="jars/stanford-corenlp-3.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="jars/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="jars/xom-1.2.10-src.jar"/>
+	<classpathentry kind="lib" path="jars/xom.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,127 @@
+{
+    "reviews": [
+        {
+            "count": 1, 
+            "sentences": [
+                {
+                    "sent": "First of all I would like to confirm that You made a right choice if you have bought this phone."
+                }, 
+                {
+                    "sent": "While decided to buy a new phone i was so confused between the Moto G (2nd Gen) and ASUS ZenFone 5 (16GB)."
+                }, 
+                {
+                    "sent": "After doing a lot of research online i found Asus ZenFone 5 Battery is not good when you use 3G Internet or Play Games."
+                }, 
+                {
+                    "sent": "So Here I am not going to share the specification of this phone rather i will focus on some hidden features and known issues and their solutions."
+                }, 
+                {
+                    "sent": "FOR YOUR INFORMATION:"
+                }, 
+                {
+                    "sent": "1) This phone support 3g network in only SIM Slot 1."
+                }, 
+                {
+                    "sent": "2) No File Manager installed (You need to download ES File Explorer from Play Store)"
+                }, 
+                {
+                    "sent": "3) Simple Stock UI result in Smooth performance."
+                }, 
+                {
+                    "sent": "4) No Lags at all."
+                }, 
+                {
+                    "sent": "5) Guaranteed Android and Security Updates for 18 Months."
+                }, 
+                {
+                    "sent": "6) Battery average (12 Hour Backup with wifi and 3g network on, 1 hour of internet surfing, 30 minutes of gaming, 1 hour of whatsapp, 2 hour of music, some phone calls and 10 minutes of camera use)."
+                }, 
+                {
+                    "sent": "7) Fast Startup & ShutDown."
+                }, 
+                {
+                    "sent": "8) Premium Look and Display."
+                }, 
+                {
+                    "sent": "THINGS TO DO AFTER BUYING THIS PHONE?"
+                }, 
+                {
+                    "sent": "1) Go to Settings>>About Phone and tap 5 times on Build number to enable developer mode."
+                }, 
+                {
+                    "sent": "2) Go to Settings>>Developer options and Select runtime: Use ART. This will help you save more ram and longer battery life. Doing this will ask you restart the phone.. it may take some times depends on the number of apps you have installed. (You will not lose any of your apps.)"
+                }, 
+                {
+                    "sent": "3) Once ART runtime mode is enabled, again navigate to Settings>>Developer options and UNcheck Don't keep activities.. This will help you if you do multitasking."
+                }, 
+                {
+                    "sent": "Note: Do not use ART runtime if you restart your phone very frequently as everytime it will take time to optimize apps on the startup."
+                }, 
+                {
+                    "sent": "4) Disable System Apps if you don't use them. For me these includes: Drive, Email, Gmail, Google Korean Keyboard, Google Pinyin Input, Google Play Books, Google Play Games, Google Play Movies, Google Play Newsstand, Google+, Maps, Motorola Alert, Motorola Migrate."
+                }, 
+                {
+                    "sent": "Note: You may install K-9 mail as default mail app. i am sure you are gonna love it. Dont forget to disable sync and notifications."
+                }, 
+                {
+                    "sent": "KNOWN ISSUES AND SOLUTIONS"
+                }, 
+                {
+                    "sent": "1) This phone lacks an option for WCDMA ONLY mode. To force stay on 3g network, Download \"NETWORK\" by \"PHILIPP MANGELOW\" from play store and select WCDMA ONLY."
+                }, 
+                {
+                    "sent": "2) Notification Bar does not contain quick toggle and it redirects you to the setting menu. To enable quick toggle in notification bar, Download \"NOTIFICATION TOGGLE\" by \"J4VELIN\" from Play Store and customize it according to your needs. There is an option for radio toggles too, so if you install this app then you do not need to install NETWORK from play store."
+                }, 
+                {
+                    "sent": "3) If your music sound goes wired on full volume then use 320 KBPS Original Music files only and / or Go to Settings>>Sound>>Audio Effect and Turn it OFF."
+                }, 
+                {
+                    "sent": "TIPS AND TRICKS"
+                }, 
+                {
+                    "sent": "1) Before installing any application, make sure you read all the permission ask by the app developer."
+                }, 
+                {
+                    "sent": "2) Never ever install TrueCaller on your phone because this app sends your contacts to their server and voids the privacy."
+                }, 
+                {
+                    "sent": "3) Always keep Notifications OFF for any app, this will help you save more ram and longer battery backup. You can do it in two ways: (i) Go to particular app>>settings turn all notification off. (ii) Go to Settings>>Apps, select app and UNcheck Show Notifications."
+                }, 
+                {
+                    "sent": "4) Keep your WiFi and Data OFF when you don't need it."
+                }, 
+                {
+                    "sent": "5) Do not install Facebook App and FB Messenger as they will eat more than 110mb of ram."
+                }, 
+                {
+                    "sent": "WHY MOTO G (2ND GEN) AND WHY NOT ASUS ZENFONE 5 (16GB)"
+                }, 
+                {
+                    "sent": "1) OPERATING SYSTEM: Moto G Comes with Android 4.4.4 KitKat and is Upgradable to Android 5.0 Lollipop or later for 1.5 years. ASUS ZenFone 5 comes with Android 4.3 JellyBean and is Upgradable to 4.4.2. An update from ASUS confirms that Lollipop will arrive later in June 2015 but no guarantee."
+                }, 
+                {
+                    "sent": "2) PROCESSOR: Moto G Runs on 1.2 GHZ SnapDragon ARM based Processor, On the other hand ASUS runs on 1.6 GHZ Intel x86 based processor. The point here is most of the (99%)android apps are designed to run on an ARM based cpu."
+                }, 
+                {
+                    "sent": "3) RAM: Moto G has 1 GB of RAM and runs on simple stock android and contains no junkware. ASUS has 2GB of ram in which 800 MB is already used by the heavy UI and preinstalled apps that can not be disabled."
+                }, 
+                {
+                    "sent": "4) UI: ASUS wins in the case of User Interface because its ZEN UI is very very beautiful and user friendly. Moto G has Simple stock UI."
+                }, 
+                {
+                    "sent": "5) GPU: Moto is FAR Better in gaming than the Asus as its contains Aderno GPU."
+                }, 
+                {
+                    "sent": "FLIPKART SERVICE"
+                }, 
+                {
+                    "sent": "Paid Extra 90 Rupees and Get phone after 2 day. POOR SERVICE."
+                }, 
+                {
+                    "sent": "So friends, if you find this review useful then spread this review so that all the users of Moto G can take advantage."
+                }
+            ], 
+            "desc": "First of all I would like to confirm that You made a right choice if you have bought this phone.\n\nWhile decided to buy a new phone i was so confused between the Moto G (2nd Gen) and ASUS ZenFone 5 (16GB).\n\nAfter doing a lot of research online i found Asus ZenFone 5 Battery is not good when you use 3G Internet or Play Games.\n\nSo Here I am not going to share the specification of this phone rather i will focus on some hidden features and known issues and their solutions.\n\nFOR YOUR INFORMATION:\n1) This phone support 3g network in only SIM Slot 1.\n2) No File Manager installed (You need to download ES File Explorer from Play Store)\n3) Simple Stock UI result in Smooth performance.\n4) No Lags at all.\n5) Guaranteed Android and Security Updates for 18 Months.\n6) Battery average (12 Hour Backup with wifi and 3g network on, 1 hour of internet surfing, 30 minutes of gaming, 1 hour of whatsapp, 2 hour of music, some phone calls and 10 minutes of camera use).\n7) Fast Startup & ShutDown.\n8) Premium Look and Display.\n\nTHINGS TO DO AFTER BUYING THIS PHONE?\n1) Go to Settings>>About Phone and tap 5 times on Build number to enable developer mode.\n2) Go to Settings>>Developer options and Select runtime: Use ART. This will help you save more ram and longer battery life. Doing this will ask you restart the phone.. it may take some times depends on the number of apps you have installed. (You will not lose any of your apps.)\n3) Once ART runtime mode is enabled, again navigate to Settings>>Developer options and UNcheck Don't keep activities.. This will help you if you do multitasking.\nNote: Do not use ART runtime if you restart your phone very frequently as everytime it will take time to optimize apps on the startup.\n4) Disable System Apps if you don't use them. For me these includes: Drive, Email, Gmail, Google Korean Keyboard, Google Pinyin Input, Google Play Books, Google Play Games, Google Play Movies, Google Play Newsstand, Google+, Maps, Motorola Alert, Motorola Migrate.\nNote: You may install K-9 mail as default mail app. i am sure you are gonna love it. Dont forget to disable sync and notifications.\n\nKNOWN ISSUES AND SOLUTIONS\n1) This phone lacks an option for WCDMA ONLY mode. To force stay on 3g network, Download \"NETWORK\" by \"PHILIPP MANGELOW\" from play store and select WCDMA ONLY.\n2) Notification Bar does not contain quick toggle and it redirects you to the setting menu. To enable quick toggle in notification bar, Download \"NOTIFICATION TOGGLE\" by \"J4VELIN\" from Play Store and customize it according to your needs. There is an option for radio toggles too, so if you install this app then you do not need to install NETWORK from play store.\n3) If your music sound goes wired on full volume then use 320 KBPS Original Music files only and / or Go to Settings>>Sound>>Audio Effect and Turn it OFF.\n\nTIPS AND TRICKS\n1) Before installing any application, make sure you read all the permission ask by the app developer.\n2) Never ever install TrueCaller on your phone because this app sends your contacts to their server and voids the privacy.\n3) Always keep Notifications OFF for any app, this will help you save more ram and longer battery backup. You can do it in two ways: (i) Go to particular app>>settings turn all notification off. (ii) Go to Settings>>Apps, select app and UNcheck Show Notifications.\n4) Keep your WiFi and Data OFF when you don't need it.\n5) Do not install Facebook App and FB Messenger as they will eat more than 110mb of ram.\n\nWHY MOTO G (2ND GEN) AND WHY NOT ASUS ZENFONE 5 (16GB)\n1) OPERATING SYSTEM: Moto G Comes with Android 4.4.4 KitKat and is Upgradable to Android 5.0 Lollipop or later for 1.5 years. ASUS ZenFone 5 comes with Android 4.3 JellyBean and is Upgradable to 4.4.2. An update from ASUS confirms that Lollipop will arrive later in June 2015 but no guarantee.\n2) PROCESSOR: Moto G Runs on 1.2 GHZ SnapDragon ARM based Processor, On the other hand ASUS runs on 1.6 GHZ Intel x86 based processor. The point here is most of the (99%)android apps are designed to run on an ARM based cpu.\n3) RAM: Moto G has 1 GB of RAM and runs on simple stock android and contains no junkware. ASUS has 2GB of ram in which 800 MB is already used by the heavy UI and preinstalled apps that can not be disabled.\n4) UI: ASUS wins in the case of User Interface because its ZEN UI is very very beautiful and user friendly. Moto G has Simple stock UI.\n5) GPU: Moto is FAR Better in gaming than the Asus as its contains Aderno GPU.\n\nFLIPKART SERVICE\nPaid Extra 90 Rupees and Get phone after 2 day. POOR SERVICE.\n\nSo friends, if you find this review useful then spread this review so that all the users of Moto G can take advantage."
+        }
+        ]
+        }
