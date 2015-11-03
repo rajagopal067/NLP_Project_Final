@@ -1,0 +1,22 @@
+from ..items.items import AragogItem
+from scrapy.exceptions import DropItem
+from scrapy.selector import Selector
+
+
+class FilterAmazonProductReviews(object):
+	def isValidPage(self,item):
+		valid = False
+
+		baseLineURL = "amazon.com/Motorola-Moto-generation-Cellphone-Black/product-reviews/B00MWI4HW0"
+		    
+		url = item["url"]
+		if url.find(baseLineURL) > -1  and url.find("filterByStar") < 0 :
+			return True
+		return False
+
+	def process_item(self, item, spider):
+		if self.isValidPage(item) :
+			print "[DEBUG] Item ACCEPTED!!!",item.url
+			return item
+		else :
+			raise DropItem("[DROP] Page did not meet Amazon product review Criteria - Dropping")
