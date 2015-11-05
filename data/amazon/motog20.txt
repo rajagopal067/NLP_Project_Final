@@ -1,0 +1,2998 @@
+{
+    "amazon": [
+        {
+            "comment": "I wanted to provide a quick review for the Moto G 2nd Gen. Specific model is the US GSM Black 8gb. I purchased this for my wife here on Amazon. We use AT&T and I wanted to replace my wife's aging iPhone4 off contract. This is the best phone for the price I found. I charged the phone, inserted her AT&T sim card from her iphone4, inserted the 16gb micro sd card (can use up to 32gb), and everything worked flawlessly.Pros: lovely 5\" screen, quick and responsive touch, perfect size screen, Gorilla Glass! micro-usb charging (common), stock Android Kit Kat, upgradeable to Android L when released, MicroSD card slot, front stereo speakers, great call quality, great reception, price, unlocked (great for travel), no contract! Blutooth and Wifi work fine. No issues connecting to our home network and my wifes work wifi.Cons: No 4GLTE, Non Removable battery, No included headset/ear buds, LIMITED accessories so far(cases)Build Quality: Nothing to complain about. Perfect weight, feels solid, very tight, does NOT feel flimsy. The back phone cover is easily swappable. The black color is a deep matte black. Not slippery hard plastic, but a more rubberized feel.Battery life is very good. Not stellar, but easily lasts a complete day for my wife who is a average smartphone user. I just wish the battery was replaceable to increase longevity of the phone.This phone is perfect for the non-power user, average user, someone new to android, or is replacing their phone off contract. The specs are slightly above average for a phone in this price category! It is an amazing phone for under $200 off contract. 4G LTE would have been greatly appreciated, but it is not necessary because my wife's iphone 4 never had it either (and she is almost always connected to wifi anyways).I personally use the flagship LG G3 on AT&T (another AMAZING phone). so I set everything up for my wife (iphone4 user). I imported her contacts from her iphone which was simple after watching a few youtube videos on how to do it. Just search on youtube \"iPhone to Android Contact list\". The entire process after watching the video took 2 minutes lol. Of course this phone cannot compare to my LG G3, BUT, I was very impressed with this MotoG 2nd Gen.Contents: Box, Manuals, phone, and charging cable with plug. It is a wall plug with long microusb cable attached to the plug itself. Basically the wall plug adapter and the microusb cable cannot be separated. It is built as one single unit.NOTE* If you live in the UNITED STATES, buy the US GSM version. The Global version will work fine.... BUT the US GSM version is better suited for US cellular signals. I can confirm this phone works perfectly with AT&T and should work perfectly with T-mobile.I would order this phone again in a heartbeat for my wife. She loves it. I hope this review helps!****Minor Update****This phone continues to impress me. The screen is very bright and the colors are vivid and punchy. The screen resolution is more than adequate, it is very similar to the iphone 4 retina display. If you look closely, you can barely see pixels. Don't worry, the screen is very sharp and small text can be read with ease.After playing with the phone for over 12 hours, installing apps, configuring the phone, browsing the web, facebook, spotify, etc.. I still show 30% battery remaining from a full charge this morning! This was an intensive day of usage setting everything up. I easily downloaded 20+ apps, and probably 100 songs on spotify.,Do not be concerned about the lack of \"dual sim\". Unless you are a frequent traveler going overseas this is not an important feature. Dual sim is used so that when traveling, you can buy a foreign sim card and insert it into your phone without needing to remove your primary sim card (hence, dual sim). With this single sim US GSM model, just remove your sim and swap it out for the foreign sim card, no big deal. Just don't lose your primary sim card lol.*********************", 
+            "date": "September 19, 2014", 
+            "stars": "5", 
+            "author": "Amazon Customer"
+        }, 
+        {
+            "comment": "Edit 9/18/14: fixed error about SIM cards and wifi specsAlso, here is a useful link to information about SD card usage in android: https://forums.motorola.com/posts/7e59cc7bafEdit 9/21/14: Yesterday I used my phone indoors with standard usage. The screen brightness was manually set between around 20-40% the entire day. When I plugged in the phone when going to bed, I had 14h and 45 min of battery time, and 5 hours of screen on time. I still had 20% battery left. The battery is as awesome as before!(Note: Because this global version is the same as the US version, and only differs by having different 3G bands, I've copied my review from the US version.)----------------------------------------------------------------------------------The Moto G was a huge hit for Motorola in 2013, as it provided many people with a fast, new smartphone at an extremely affordable price. Now in 2014, Motorola has updated the Moto G with its second iteration. There are many similarities with the first generation, and a few important changes/improvements.Similarities:-Same screen resolution, 1280x720-Same CPU, Snapdragon 400 (1.2ghz quad core)-Same, 3G only connectivity (no LTE in this model)-Same 2070mah batteryImprovements/Changes:-Screen size changed from 4.5\" to 5\"-Front camera upgraded from 1.3MP to 2MP-Rear camera upgraded from 5MP to 8MP-Speaker upgraded from mono rear speaker to front stereo speakers-MicroSD card slotDisadvantages compared to first generation:-Some dislike the bigger screen-Slightly worse battery life due to bigger screen size with same battery size-Pixel density dropped from 326ppi to 294ppiWhile this second generation Moto G has slightly worse battery life and pixel density than the first generation, these are minute differences that will most likely go unnoticed. What does matter, though, is that the second generation Moto G builds on the successes of the first Moto G, and adds multiple improvements to make this a truly excellent low budget phone. My main complaints about the first gen Moto G focused on the poor camera performance and lack of SD card slot. Now, this and more has been improved with the second generation. Rather than an revolution, this is an evolution of the previous Moto G, making it better than ever.The first thing you notice when picking up the second generation Moto G is that it's bigger. I'll admit it, it's harder to hold this phone with one hand when compared to the first generation. However, the big beautiful screen makes up for it. While I no longer own the first gen for side to side comparison, the screen feels like it's brighter and more color accurate. The front facing speakers are a huge plus if you watch videos or your phone, as you no longer have to cup your hand around the back of the phone to \"reflect\" the sound towards your face. Probably as a result of them facing you all the time, the speakers also seem to be louder. This also brings around an advantage if you use the speakers to play music, since you no longer have to put the phone face down for the sound to remain unmuffled.The cameras are also a HUGE improvement. As a a college student, I use the front camera quite a lot to communicate with friends. The previous front facing camera (FFC) was very splotchy and muddy. The new FFC honestly feels like it's better than the rear facing camera on the first gen. Although I didn't use the rear camera on the first gen very often, the one in this phone seems to have better color reproduction and dynamic range. To put the camera upgrade into perspective, it's roughly like going from an iPhone 4 to an iPhone 5.All these improvements are available for the same MSRP ($179.99) as before, which is an excellent deal; especially considering the fact that the phone now has a Micro SD card slot, the 8GB onboard memory poses less of an issue. I will keep this review updated if I face anything that changes my opinion of this phone; but for now, it deserves a 5/5.", 
+            "date": "September 16, 2014", 
+            "stars": "5", 
+            "author": "wowsuchprofile"
+        }, 
+        {
+            "comment": "Wonderful phone. Switched from a Nexus 4 to this because I was fed up with poor battery life. The screen is absolutely gorgeous. Its vivid and bright and puts my nexus 4 screen to shame. The phone has a premium feel with a nice weight and soft touch back. Certainly doesn't feel like a sub $200 phone and in my opinion feels better than some plasticy flagship phones. Battery life so far has been excellent easily lasting a full day with average usage and screen set to 75% brightness. The performance is snappy with no noticeable lag whatsoever. Front speakers are nice upgrade- youtube videos and calls on speaker sound crisp and clear. I threw in an micro SD and transferred pictures, videos, and music to it quickly in the storage settings. I am not sure how installing apps to the SD card will work but I am not sure I will need to do that if I keep all my media on the SD card.The only hesitation I had about buying this phone was lack of LTE. HSPA+ speeds on Tmobile have been around 5 Mbs down which is more than adequate for browsing mobile sites, youtube videos, streaming music, and navigation. I am able to do all of these things without noticeable delay so I personally don't mind the lack of LTE. I contemplated this model vs the 2013 Moto G with LTE and decided to go with this for the larger display and better camera.In all, if you are on a cell phone plan that does not offer phone subsidy or use a prepaid service, this really is an incredible value. It does not feel like a cheap phone. Sure there are some deficiencies like lack of LTE and 1 GB of ram, but if those things aren't crucial to you, then there is little to differentiate this $180 phone from phones that are priced over $600 in terms of user experience.", 
+            "date": "September 20, 2014", 
+            "stars": "5", 
+            "author": "revaldo"
+        }, 
+        {
+            "comment": "Quick review: This is the best value phone there is, and more!Disclosure: I am upgrading from Samsung S4...yes, you heard it right!Pros:1. 180$ unlocked. I mean you can't get better than that for these specs.2. Surprisingly has gyroscope...So, all those VR games work fine. And work well. First Gen did not have that.3. Its not as low end as you might think. Powered by 1.2Ghz quad core, 1GB RAM (which is more than sufficient for most applications) and decent graphics, its no slouch! Everything is super fluid so far. In fact, I am surprised how fluid this device is. Samsung S4 got slouchy because of the buttload of Samsung applications running in the background.4. 5\" 720p screen is awesome! There was a time when Apple sold 540p screen and advertised it as retina display and everybody went gaga. Well, even at 5\" 720p, this is still a retina display, with close to 300ppi. So, people clamouring for 1080p screen on Moto G, shut up...:-)5. Battery life. What can I say! This was a surprise for me. Excellent standby time and great daytime use time. I slept with battery at 81% and woke up with 80%, that's 1% consumed in 8+ hours. During the day, for my normal use, it drains at around 1-3% per hour as per \"better battery stats\" program. It stays in deep sleep most of the times. I use Assist's \"Battery Saver\" feature and have wifi ON all the time. Bluetooth and GPS are off, most of the time.6. Digging the sound coming out of front speakers. So much better than my crappy Samsung S4's rear speaker!7. GPS locks in less than 2 seconds. So much better than Samsung S4, where I had to wait for 5 mins sometimes.8. Works with MicroSD cards of 64GB size. It was advertised as only upto 32GB but it works fine if you format with vfat before hand in your PC or Linux OS (my preference: command is mkfs.msdos -F 32 /dev/sdi, assuming /dev/sdi is the card).9. Kitkat 4.4.4 and the ability to unlock bootloader (good for folks who don't care about warranty!) without jumping through hoops. Pure android experience!10. Ability to move apps to SD card, unless an app specifically insist on not being allowed to move.Cons:1. Cheap ass buttons. What Motorola! They are really cheap. Put in better power and volume buttons in Gen3. Please...:-)2. Heavy. Coming from S4, this was heavier but it feels solid in my hands and there is no chance of this slipping out of my hands like S4 because its not as slippery as S4 in the back. I don't mind the weight but some people might.3. Non-removable battery. This is not execusable. Since the cover is removable, the battery should be too. If it was one piece like Apple iPhone, I would grant this but its not. Anyway, this is minor. I can carry a spare charger for it. And longterm, I hope, the battery keeps working until I am ready to upgrade again.Update 1 (Oct 3, 2014): Some folks have asked how much internal storage we have left after we install typical apps: I have about 3.4GB left after about 35 apps I use. I don't have big time games (apart from Angry birds) but typical apps like whatsapp, firefox, outlook, yahoo, banking apps, skype, sudoku, tetris, vlc, vim, netflix and many others I don't recall etc. This includes about 200MB of history I imported from my old phone for whatsapp. I think 5.5GB of space is plenty for a typical install and there is no need to worry. Moreover, this phone DOES allow to move apps (some apps may block this operation) to SD card. So, you can free up space if you need to down the road. Its a non-issue IMHO!Update 2 (Oct 4, 2014): Having used the phone for a week now, this phone continues to impress me. Quick update of charging time: I started at around 43% and it charged to 86% in under 2 hours. Using a cable directly attached to the USB port on motherboard *and NOT* to a USB hub. Or else, use the supplied wall charger.", 
+            "date": "October 1, 2014", 
+            "stars": "5", 
+            "author": "devsk"
+        }, 
+        {
+            "comment": "I purchased a white Motorola G 2nd generation to replace my 1st generation Moto G. My main motivation to buy was the improved camera in the 2nd gen over the 1st generation. The bigger screen was a nice side effect. I got used to the screen size quickly. I am disappointment about the quality of the photos though. The pictures can be quite grainy still. If your sole motivation is the improved camera, I don't recommend the upgrade from Moto G to the 2nd gen.A week ago I started having problems with the headphone jack and wasn't able to fully insert the headphone jack and thus unable to make phone calls over my headset. I called in Motorola Customer Care and described the problem. They were quick to say that they can send out a replacement unit since this kind of malfunction cannot be fixed remotely. But, first they had to verify I bought this phone in the US. I was surprised by that request but nonetheless submitted my receipt showing delivery to my place in California. Little did I know. It took me another 3 attempts to resolve this issue over the phone. Every time I called and explained my situation I was put on hold for extended periods of time while the representative was talking to another department. In the end, I even submitted a photo of the box the phone came in including the packaging slip. The last rep I contacted said that my case has been escalated as High Priority in the Department today. That was exactly three days ago and I have yet to hear back from Motorola Customer Service. From a service point of view Motorola gets zero Stars. The phone is ok but since I am not able to use it without the headphone it gets only one star.", 
+            "date": "January 26, 2015", 
+            "stars": "1", 
+            "author": "Martin D."
+        }, 
+        {
+            "comment": "I'm typically not one for buying brand new products, as I like to avoid buying things that are not well-established yet, but I'm glad I decided to pre-order this. To avoid having this sound too much like a sales pitch, I'm just going to say what comes to mind in whatever order it comes to mind...The screen is a good size and is very easy to read. There is a lot of detail for such a small screen, and I was very happy with how it all looked.The phone feels solid in your hand without feeling too bulky. It IS admittedly a pretty sizable phone, so I wouldn't suggest getting this for someone who has tiny hands, but for someone with average size hands or bigger, it feels nice to hold and is easy to use.The touch screen is responsive and accurate. I haven't done much in the way of multi-touch for testing, but the little bit I've encountered has gone just fine, so I expect that it all works pretty well.Having the mSD slot was a fantastic addition over the original Moto G, and frankly, if you get something like a 32GB mSD card, you're never going to feel like you're running out of space.When I first got the phone, I wasn't sure how the camera quality was going to be as I was upgrading from a phone with a 3.2 MP camera, so I didn't think 8MP was going to be a humongous improvement... that was when I realized how much of an effect the phone itself has on how good the pictures it takes are. My old phone was sluggish at the best of times, so even the 2MP front camera on the Moto G takes fantastic pictures by comparison. The 8MP camera on the back focuses well and takes great pictures for the typical person. If you really want high-quality pictures, perhaps you should consider a proper camera, but for a phone, this does a great job.I was also pleasantly surprised by the quality of the speakers. Typically speaking I'd be using headphones for music, but I did check out the stereo speakers for the sake of testing, and they had a much nicer sound than I expected them to have. There's not much bass to speak of, but the rest of the sound spectrum sounds quite nice coming out of the phone, even at higher volumes and with noisier music.Lastly, the connectivity of the phone is pretty solid. It's not 4G, but it does get the higher 3G speeds (HSPA+, etc), and data usage has always felt quite snappy when you're in an area with decent coverage. I use mine with Straight Talk (AT&T service through them), and I'm very happy with it.My only minor qualm with the phone is the battery. If you watch how you use the phone, the battery lasts quite a while and is more than sufficient. However, if you aren't too careful with your usage of the internet and such on the phone, you can drain the battery more quickly than I would like. Still, though - phones weren't designed to be used too extensively, so as long as you're using it sensibly, it's still plenty of battery life.", 
+            "date": "October 7, 2014", 
+            "stars": "5", 
+            "author": "Aaron F."
+        }, 
+        {
+            "comment": "Already many people gave reviews about the specs and technical stuff of this smartphone so I will just limit my review to my first impressions.First, I bought this phone on the Cyber Monday sale here on Amazon at $149, the regular price at the moment was $179 so it was a good deal. The reason I bought it was mainly because my old phone, a Motorola Razr HD was literally dying (the battery was bloated to the point it slowly broke the phone). Amazon delivered this phone 3 days before expected by UPS, so that's a plus.The good part: If you have doubts about this phone forget about it. It looks and feels like a high end expensive one. In addition,  was impressed with how it guided me and helped me to migrate all my old phone stuff (photos, videos, music, apps) smoothly with the Motorola migrate app. I felt I didn\u2019t have to do a thing! I also was impressed with the speakers (the sound is fantastic compared with other phones) and the battery life, that last way more than other phones I used before.The bad part: When I received the package, the box was almost open, like someone wanted to peek inside, but when I finally opened it, everything I bought was there: the  Moto G 2nd gen and a case. When I took the phone out of the box I noticed right away it had a very small dent  in the right side along the border. I looked closely every bit of the phone and have to say that it slightly felt like somebody used this phone already. I couldn't tell for sure. Also, the charger didn\u2019t fit the phone. I tried to connect the charger to the phone and had to stop because I seriously thought I was going to damage the phone if I continued. I'm using another Motorola charger instead. Beside these issues, the phone look good and these are the only bad thing I can say about this phone. I still recommend it.What I'm looking forward: I cant wait for the Lollipop software update as I have seen videos of the improvements. I also wish that this phone doesn't have the same issue as my old Motorola HD (battery bloating). I really don't like that you cant take the battery out.I'm still exploring my new phone. I wrote this review only 24 hours after getting it, so I will give an updated review of my experience with it later.", 
+            "date": "December 13, 2014", 
+            "stars": "4", 
+            "author": "Amazon Customer"
+        }, 
+        {
+            "comment": "I was reading the news on my phone one night when suddenly, the screen went off. I pressed the power button to wake the screen...nothing. The phone went completely dead. I then held down the power button till the notification LED came on about 20 seconds later and then the screen lit up only to show 0% battery. This made no sense because my phone was fully charged when I was using it. And the phone was in no way pressed for resources. I'll let it charge I thought...but what I observed next was: The notification LED lit up again and went off. The screen lit up again only to show 0% charge and then went off. This cycle kept on repeating itself for about 3 hours till I'd had enough.I am disappointed and surprised. Never expected this from a Motorola product.", 
+            "date": "January 15, 2015", 
+            "stars": "1", 
+            "author": "Nikhilkg"
+        }, 
+        {
+            "comment": "I am VERY impressed with the battery life on this phone!!!  after a 14hr day with 2.5 hrs of screen on time and some gaming the phone is still at 60% battery!!  the best battery life I have seen in any phone to date.  also after leaving the phone over night without plugging it in (10hrs)  it seems to only drop about 5% so the standby time is great as well.  being that this phone is stock android it is very fast and no bogging down.  this is a much better phone than my Samsung galaxy s4 all the way around.", 
+            "date": "September 18, 2014", 
+            "stars": "5", 
+            "author": "Carl"
+        }, 
+        {
+            "comment": "I had the Galaxy S4 from ATT, unlocked it and moved over to T-mobile. It was giving me issues so I decided to get a temporary phone until the next big thing comes out in 2015. So I went with this phone. For what it costs, it is a great phone. Coming from an S4, you could tell the difference in speed and processing, as this phone is a bit slower but it isn't a big deal. It moves smoothly and I just make sure not to run crazy amount of apps. I've always done that anyways. Unfortunately, not LTE, but here in the West side of Miami, get decent speeds with T Mobile. Yesterday I actually clocked 9.7 Mbps download speeds at the FIU campus. Not bad at all. Sure, it isn't the 20 plus I would get with LTE but I never needed that much speed anyways. For my social media, browsing, videos, texting, it is all I need, I'm sure hardcore users and developers would need more but this wouldn't be a phone you would look for anyway. This is a budget friendly phone that can do everything the big name phones can do for the average user (and by average I mean you social media addicts).", 
+            "date": "December 8, 2014", 
+            "stars": "5", 
+            "author": "Julio Gutierrez"
+        }, 
+        {
+            "comment": "We've had this phone for a couple months now and it was the best thing we did. Went from a Galaxy 3 and ws considering a new S5 when we first heard about the Moto G 2. For about one third the price you get a phone equal, and in some ways better.The Moto is water resistant, actually it can be briefly submerged with no problem (however it is not made for snorkeling or constant underwater use). The Gorilla glass screen is bright, clear, and really tough. The phone is lightening fast, camera takes great pics, and overall appearance is at least as good as the Samsung.Some fluff features are not present, but I cannot see even using some of those extras, like a million camera adjustments, or tons of unecessary and unwanted software. One thing lacking is a file manager and flashlight app, but they can be easily downloaded from Google Play store for free in minutes. On the upside I'd rather install the apps I want rather then have Samsung fill up the phone with stuff they think I want.All in all a very smart move, you won't go wrong with the Moto G-2, and look on eBay for a myriad of cases and other accessories. As far as some friends turning up their nose because it is not a Galaxy, the extra cash in my pocket plus having a very attractive and more capable phone gives me the last laugh.", 
+            "date": "January 16, 2015", 
+            "stars": "5", 
+            "author": "Syncro"
+        }, 
+        {
+            "comment": "This is a great second iteration to what is arguably the best budget Android smartphone on the market. The screen is perfect, the dual front firing speakers are awesome, the matte back finish feels good in hand, and overall the general Android experience is pretty solid. My only gripe is the home screen tends to re-draw itself a lot after leaving an app. Maybe this will get fixed with the release of Android Lollipop? Either way, this is still a great handset if you're looking for what is essentially the stock Google experience on a phone but without having to pay a premium for the hardware.I use this on T-Mobile and get great downlink speeds on HSPA+, typically around 8-10Mbps. The battery, with my personal usage, lasts about 1-1/2 to 2 days while being to use for checking email, twitter, playing a few games, watching Plex/YouTube/Twitch, and reading a few website forums. I can push it to around 3-4 days on a single charge, possibly more, if I don't play any games or watch video. Really impressed; I can only imagine how crazy the battery life on the 1st generation Moto G was compared to the 2nd gen. That said! This is a great phone. If you're not a power smartphone user, this is the one to get. Need a backup phone to use worldwide? Get the Global GSM version of this. You won't be disappointed.", 
+            "date": "October 18, 2014", 
+            "stars": "5", 
+            "author": "Tim Gonzales"
+        }, 
+        {
+            "comment": "I am wowed by this phone. I have Consumer Cellular and activation with a new mini-SIM card they sent me could not have been easier. I replaced a Samsung Rugby Smart and didn't realize it had a regular sized SIM so I had to wait a day or two to activate it. Consumer Cellular offers a version of this phone but it won't get the new Lollipop android software and this one will. I don't plan on going out of the country but I bought the global version because it was available and it gives no problems with my carrier at all. All my Rugby Smart chargers (car/house/usb) work perfectly with the Moto G so don't try and buy a lot of extra stuff for it. It does need a case in my opinion and I got a nice one from Amazon that protects it well but doesn't add to the size of it much.I've never been one who was interested in watching youtube videos or anything but this Moto G has such a dynamic screen and such great stereo speakers now I can't resist. It is truly light years ahead of the Rugby Smart although it was a good phone for me too.The size is perfect and I wouldn't want any bigger. It can still fit on my belt or in my pocket but any bigger and it wouldn't I don't think. Belt Holsters are available through Amazon too.  Really, I predict you will love this phone!", 
+            "date": "November 22, 2014", 
+            "stars": "5", 
+            "author": "E. Parrish"
+        }, 
+        {
+            "comment": "Buzzing sound in ear piece that I could not overlook. Was sent two replacement phones and they had the same issue. Grateful for the support from Motorola but I had to return the phone after all that.", 
+            "date": "December 28, 2014", 
+            "stars": "1", 
+            "author": "Monifa"
+        }, 
+        {
+            "comment": "I'm really loving it. Soft screen, comfortable and well built. A bit thicker and weightier than expected but still comfortable. Well spent bucks, highly recommended. From Dominican Republic.", 
+            "date": "November 7, 2014", 
+            "stars": "5", 
+            "author": "Alvin Dur\u00e1n"
+        }, 
+        {
+            "comment": "Espa\u00f1ol:Funciona perfectamente en Colombia con Movistar, dura mucho la bater\u00eda, excelente.English:It works perfectly in Colombia with Movistar, long battery, excellent", 
+            "date": "September 29, 2014", 
+            "stars": "5", 
+            "author": "Libardo Corredor"
+        }, 
+        {
+            "comment": "Some thoughts after two weeks of ownership -Great service from Amazon, beat the estimated delivery time by several days.The phone seems to be built very well, doesn't feel cheap at all. The removable back IS plastic but has kind of a soft rubbery 'grippy' feel to it. Somewhat curved, nice. No added chrome trim or any unnecessary clutter.The screen is HUGE compared to the less than four inches that I came from. Bright, clear, plenty of room to navigate. I have a nice big weather widget on my home screen and there's plenty of room for additional app shortcuts.I'm using T-Mobile and so far, so good. Purchased the SIM card from Target for $9.99. I transferred my number from Virgin mobile no problem. $45 a month for unlimited texts and talk, 2GB data. I'm NOT a heavy data user, mainly browsing the web when I'm on a network. At home I use WI-Fi. So far after two weeks I've used 240MB of data, 2GB will be plenty for me. The H+ logo shows on my phone most of the time and pages load up quickly. Voice calls are clear, I used Skype to call my Mom in Germany (I'm in Indiana) and no issues.The phone comes with Motorola's 'Migrate' app and I used this to transfer my contacts and MMS messages from my old Android phone. It just took a couple of minutes and everything was transferred, unbelievably simple.I put a 32GB micro SD card for additional storage. All of my pictures and my apps that are able to be will be kept on the card. About 3GB is left on my internal storage so having that extra space is nice.I haven't used the camera THAT much but seems OK for the basics. I like to run them through Instagram for posting and they seem fine. The camera settings are easily accessible and I suggest you play with them a bit to get the results that you like.The phone shipped with Android 4.4.4 and having read that 5.0 was on it's way this was one main reason I wanted this phone. I was checking for updates daily both on the phone and via Motorola's 'Device Manager' program on my PC, no updates. I finally read on an Android site how to do the update manually, followed all the instructions and was able to install 5.0.1. Half a day later, I was notified that 5.0.2 was ready to install from Motorola, go figure. I've only had a couple of days on the new version but I really do like it's interface. It does seem like it uses less available RAM than what 4.4.4 was using when I check my settings. Smooth as silk so far...There is very little in the way of unneeded 'junk-ware' on the phone. As you may or not may know, most manufacturers put their own software over the top of Android, causing performance issues and making the phone a little less usable. This is almost pure Android and that's the way it should be. In my opinion, this is the way to own a cell phone, you're not tied down to a carrier and you're not paying extra every month for the privilege of using a smart phone.I gave it five stars, what the hell. I figure that it makes up for the one stars posted because the phone  was destroyed in a tragic gardening incident or fell out of a moving car and quit working.Peace", 
+            "date": "January 14, 2015", 
+            "stars": "5", 
+            "author": "Chuck Talley"
+        }, 
+        {
+            "comment": "I purchased this phone through Consumer Cellular (they refer to it as the Moto G EXT) and was was fully impressed with its capabilities. I'd much prefer this phone over any iPhone, and the price is only a fraction the cost.  Its biggest disadvantage is that few accessories are available. However, I did find several acceptable cases, but could not find a charging dock that was made for the phone.  So I looked for any charging dock that might work and found the Belkin PowerHouse Micro USB Charge and Sync Dock.  This dock not only works nicely with the phone, but with a small modification to any case, it will also work with a case on the phone.  The modification requires only widening the hole in the case for the charging port to 1-1/4\" or more so that the case slips over a raised part of the dock. With the \"Daydream\" setting on the phone, combined with the Belkin dock, the phone now acts a convenient clock, even while asleep.", 
+            "date": "January 20, 2015", 
+            "stars": "5", 
+            "author": "djk1940"
+        }, 
+        {
+            "comment": "As the title of this review states, so much bang for the buck on this phone.  I've had no issues at all running the android version of my iphone apps (yes, I'm trying out android),I've read all the reviews and want to address the top three negatives that people have levied against this phone:1. Pixel density of the screen is low: Noticeable if your nose is six inches from the screen and staring hard.  Otherwise a non-issue/2. Battery life: My phone lasts about 2 days between charges with light to moderate use.  I understand that's not bad for an android phone.  Your call.3. Not 4G: I don't stream movies over the phone via cellular so I can't comment on that.  For everything else that I get on line for, I've seen no speed issues whatsoever.  Makes me wonder what the payoff is for 4GLTE...For $180 bucks, it's an easy call to pick this phone up just to try it out.", 
+            "date": "October 3, 2014", 
+            "stars": "5", 
+            "author": "Ken C."
+        }, 
+        {
+            "comment": "Excellent phone, fast, great camera, Good appearence, all you can desire from smartphones. And the best, los price!!Im using it at Guatemala", 
+            "date": "September 29, 2014", 
+            "stars": "5", 
+            "author": "Mario Samuel Soto Ayala"
+        }, 
+        {
+            "comment": "Hi. Tell me please if I will buy Moto G and staying in Germany it will not work after for example 6 months. Can I repair it in Germany? What about warranty of your product in Germany. Thank you. Sorry for my English.", 
+            "date": "January 11, 2015", 
+            "stars": "5", 
+            "author": "Caraman Dmitri"
+        }, 
+        {
+            "comment": "For those not consumed by the hype/status/marketing of the cell phone world, this is a great, no nonsense bargain phone...especially if you're not locked into a contract. $180 gets you plenty, and now has Lollipop.", 
+            "date": "February 2, 2015", 
+            "stars": "5", 
+            "author": "B. McAdams"
+        }, 
+        {
+            "comment": "Good phone for the price. Since upgrading to lollipop, I have experienced random freezing that only a hard boot fixes. Would not recommend doing the lollipop upgrade until this issue is resolved. Hopefully in 5.0.3", 
+            "date": "January 3, 2015", 
+            "stars": "4", 
+            "author": "Jim"
+        }, 
+        {
+            "comment": "Good price and decent feature list. But poor performance. Battery charge level tracking is erratic. The phone hangs up often. The 8 GB internal RAM is really not sufficient. Pay a little more and buy a 16GB phone.", 
+            "date": "May 9, 2015", 
+            "stars": "2", 
+            "author": "Eldo Daniel"
+        }, 
+        {
+            "comment": "the phone works perfectly in Mexico with all the carriers, i just charged it, put the sim and worked, did not had to configure anything.it came in perfect state and i absolutely will buy another for my wife.", 
+            "date": "January 4, 2015", 
+            "stars": "5", 
+            "author": "homero godinez"
+        }, 
+        {
+            "comment": "For the price this is a really good phone. It would be a good replacement for your ageing S3 or Note 2 etc.Also, if you like to listen to FM, this phone has an FM transmitter, which works really well.", 
+            "date": "February 2, 2015", 
+            "stars": "4", 
+            "author": "Saurabh"
+        }, 
+        {
+            "comment": "Everything works fine, except for the front-facing camera. The camera app doesnt detect it, i've tried rebooting, going to safe mode but the option doesnt appears no matter what. So im stuck to rear facing camera", 
+            "date": "January 13, 2015", 
+            "stars": "3", 
+            "author": "Freddy Hung"
+        }, 
+        {
+            "comment": "Does everything I need.  Uncluttered android 5.0 OS, no junk apps since it is unlocked, not from any provider.  Not all apps can be moved to SD card, depends on app writers. Thus can limit phone storage of 8 GB.", 
+            "date": "May 18, 2015", 
+            "stars": "5", 
+            "author": "Marvin Elkin"
+        }, 
+        {
+            "comment": "Motorola is one best smartphone makers. I love this moto g . Amazing features. I love to play games in this phone.Graphics is great for this price. I really like to recommend this phone to my friends and family.", 
+            "date": "February 28, 2015", 
+            "stars": "5", 
+            "author": "david"
+        }, 
+        {
+            "comment": "Good deal on this and my iPhone 4 was pooping out.  I like the Android OS but it takes some getting used to after IOS for so long.  Wish the battery life was a few hours longer but otherwise I am very satisfied.", 
+            "date": "January 20, 2015", 
+            "stars": "4", 
+            "author": "Robert J Stek"
+        }, 
+        {
+            "comment": "excellent seller, recommend", 
+            "date": "November 25, 2014", 
+            "stars": "5", 
+            "author": "Omar C."
+        }, 
+        {
+            "comment": "I loved the original Moto G, but the power button is absolutely terrible on this phone, you have to really mash it to get it to work.  It's a decent phone, but it just feels cheap compared to the first version.", 
+            "date": "April 12, 2015", 
+            "stars": "2", 
+            "author": "P. Demers"
+        }, 
+        {
+            "comment": "I purchased this as a lightning deal for a friend that lives overseas (Ukraine).  They are loving it!  Plus, the cost is fairly low for an unlocked Android phone.  Note that it does use the newer microSIM card.", 
+            "date": "February 11, 2015", 
+            "stars": "4", 
+            "author": "A. Fuller"
+        }, 
+        {
+            "comment": "Excellent price for a really amazing cellphone , the google pure android OS  is just flawless and its lolllipop version is still better Motorola will take  the middle cost segment with this cellphone for sure.", 
+            "date": "April 6, 2015", 
+            "stars": "5", 
+            "author": "Pen Name"
+        }, 
+        {
+            "comment": "I got this phone for my mom and she loved it. It's cheap and comes packed with a lot of features for the price. If you are looking for a cheap unlocked phone with decent features don't look at any other phone.", 
+            "date": "January 10, 2015", 
+            "stars": "5", 
+            "author": "Abiram Balasubramanian"
+        }, 
+        {
+            "comment": "If you don't need the latest and the greatest, this phone is perfect. Very tough, reliable and has a great battery life. Lots of bang for your buck compared to anything else on the market in this price range.", 
+            "date": "August 23, 2015", 
+            "stars": "5", 
+            "author": "Dale Anderson"
+        }, 
+        {
+            "comment": "Aside from the stereo sound its the exact same as the first Gen, processor screen etc. And it accepts SD cards. But if you don't mind those two differences then go with the first Gen and save a hundred bucks!", 
+            "date": "December 30, 2014", 
+            "stars": "2", 
+            "author": "Christopher"
+        }, 
+        {
+            "comment": "Before I begin I will fill you in on why I bought this phone. I downgraded from an iPhone 6 after dropping it in the water. With warranty I thought my best option was to shell out $180 dollars for this phone instead of fixing my iPhone and save $120 dollars by doing so.I read extensive reviews and came to conclusion for the price this phone had the best features. I'm somewhat familiar with the Android Operating system so switching was somewhat exciting for me. This phone does not live up to Androids standards. It will frequently get veeery slow on you. You'll be accustomed to \"Unfortunately, this program had to quit.\" and poof whatever you where just doing is gone. I figured I could live with it but it soon began to eat away at me. Small features you may have become accustomed to will not be prevalent in this phone.Now, this phone isn't horrible but you'll need to learn patience using it. After two months of use I ended up getting my iPhone fixed.If you're looking for a basic phone and use it for minimal purposes, buy this phone.If you're heavy user of your phone or you're expecting a Galaxy or iPhone quality phone, stay away.", 
+            "date": "May 21, 2015", 
+            "stars": "3", 
+            "author": "Tim Keen"
+        }, 
+        {
+            "comment": "Alright, I will start here first that I have had nexus 4 for the past 2.5 years and I am an android fan.  I bought this phone recently for my wife. It worked fine although it got slower as the no. of installed apps increased in a month (~10).  It has android 5.0.2. Almost half of RAM gets occupied by the bare minimum apps you download. But no, that's not it.  The phone has instantly switched off multiple times, even though the battery is full.  INSTANT BATTERY DRAIN! I have tried multiple fixes: factory reset, charging-recharging process etc. Since amazon provides only 1 month warranty, you are left with 1 year manufacturer's warranty with Motorola who doesn't even respond on phone. Plus, their policy says that most likely they will ship you a refurb phone if they cant fix this one. Otherwise, you got to pay them to ship your phone.  Apps like gmail, whatsapp and google maps take forever to open even though its only been a month. Accessing data from the data card is way too slow too.  I have no gaming apps installed. I dont think I made the best decision made in buying this phone.  So, if you dont wanna end up in the same soup as me, dont buy this phone. Buy something better.", 
+            "date": "May 12, 2015", 
+            "stars": "1", 
+            "author": "Gaurav Jain"
+        }, 
+        {
+            "comment": "Really happy with this phone for the price. Updated to the Android 5.0.2 right after I got it. Using on T-Mobile with no problems. The only thing I wish was better is the camera, but it is still pretty good.", 
+            "date": "March 24, 2015", 
+            "stars": "5", 
+            "author": "Donald Spiegel"
+        }, 
+        {
+            "comment": "Very good phone for the money, I got it price matched to 139 when it went on sale right after I bought it. Bought it for someone who is a very light user and he's getting 2 days battery life which is good.", 
+            "date": "July 11, 2015", 
+            "stars": "5", 
+            "author": "HS47"
+        }, 
+        {
+            "comment": "I use my smartphone around the house all the time for browsing and e-mail.  My 2 and 4 year old use it too.  This holds up to them playing phone with it and meets my basic needs.  Good value for the price.", 
+            "date": "February 17, 2015", 
+            "stars": "5", 
+            "author": "RoseyNic"
+        }, 
+        {
+            "comment": "Works great so far. It came in a box, with a white charger also and instructions. Awesome phone for the price.Some apps disappear when I turn it off and on again but that can be fixed for sure.", 
+            "date": "January 16, 2015", 
+            "stars": "5", 
+            "author": "Bernardo"
+        }, 
+        {
+            "comment": "Very good phone! its even better than the previous generation, not too much but yes. So i definitively recomend this! i think its some kind of: The better Mid Range Phone for $200! blazing fast everytime!", 
+            "date": "February 25, 2015", 
+            "stars": "5", 
+            "author": "Imakandy"
+        }, 
+        {
+            "comment": "Haven't confirmed that Speakout sin card can be use for this version of phone, should be fine though.. worked with fido... product arrived earlier than I think.. I recommend this seller...would buy again.", 
+            "date": "January 10, 2015", 
+            "stars": "5", 
+            "author": "ourcsstage"
+        }, 
+        {
+            "comment": "Great phone.... Speaker phone didn't work.... But over all it runs fast... It updates automatically... An to me it better then an iPhone 5 the screen is somewhat big... But the performance is awesome....", 
+            "date": "June 7, 2015", 
+            "stars": "4", 
+            "author": "COCOBSWEET"
+        }, 
+        {
+            "comment": "Excellent value for money!", 
+            "date": "November 18, 2014", 
+            "stars": "4", 
+            "author": "Henda van Schalkwyk"
+        }, 
+        {
+            "comment": "Best cost/beneffit phone !", 
+            "date": "November 17, 2014", 
+            "stars": "5", 
+            "author": "Marcelo G."
+        }, 
+        {
+            "comment": "Great phone for fair price", 
+            "date": "October 27, 2014", 
+            "stars": "5", 
+            "author": "hrvoje"
+        }, 
+        {
+            "comment": "Not abad phone for a price", 
+            "date": "October 22, 2014", 
+            "stars": "5", 
+            "author": "Faizan"
+        }, 
+        {
+            "comment": "Love this phone!! Looks great word great!! Only issue I have is not with the product it's just that it's impossible to find a case for it in stores. But the phone is wonderful. I put it on straight talk", 
+            "date": "October 4, 2015", 
+            "stars": "5", 
+            "author": "Brittany Scarlett"
+        }, 
+        {
+            "comment": "Moto G 2nd Gen is an excellent phone on a budget. It gives you everything you want, and cuts costs cleverly. 1 GB ram is not excellent but it gets the job done with only small amounts of lag / stutter.", 
+            "date": "August 24, 2015", 
+            "stars": "4", 
+            "author": "Fox Trot"
+        }, 
+        {
+            "comment": "I buy 2 of these, 1 died after two days and got a refund and the other one got dead regions on touchscreen,  waste of time and money if you buy from outside the US you don't have guaranty, be careful.", 
+            "date": "September 27, 2015", 
+            "stars": "1", 
+            "author": "Miguel M."
+        }, 
+        {
+            "comment": "I LOVE IT MORE THAN THE IPHONE. GIVES A BETTER PIECE OF MIND WITH THE PRICE TAG. ALONG WITH MY TUDIA CASE... IT SURPASSES ALL EXPECATIONS I HAD FOR A \"TODAY PHONE\". GREAT ... REALLY GREAT BUY!", 
+            "date": "July 17, 2015", 
+            "stars": "5", 
+            "author": "Bryan Mori"
+        }, 
+        {
+            "comment": "Really nice device, easy to use, slim....it has everything you need. The price - unbeatable. It was delivered in 3 days to Canada. I connected with Chatr - works really good. I am happy with purchase.", 
+            "date": "May 25, 2015", 
+            "stars": "5", 
+            "author": "Marina"
+        }, 
+        {
+            "comment": "I got this for my brother and he loves the big screen size and the color. I took off one star because the battery life isn't as great as the first generation smaller Moto G. I have the 1st generation.", 
+            "date": "January 20, 2015", 
+            "stars": "4", 
+            "author": "Saima Haque"
+        }, 
+        {
+            "comment": "What's not to like?  We live deep in the woods, this is the only phone that is able to reach a tower.  And with a near stock Android OS this is smooth running phone.  Simply can't go wrong with this.", 
+            "date": "September 20, 2015", 
+            "stars": "5", 
+            "author": "Zed"
+        }, 
+        {
+            "comment": "Didn't take too long for the battery to start to die quicker. The CPU quickly got bogged down and can barely open and run some streaming apps, crunchyroll, YT, etc. I would not recommend this phone.", 
+            "date": "August 24, 2015", 
+            "stars": "3", 
+            "author": "Luke Daniels"
+        }, 
+        {
+            "comment": "Touch screen isn't responsive at all. Moreover GPS position wasn't accurate while driving, even when location services were switched on along with wifi. Probably the piece we received was defective.", 
+            "date": "July 7, 2015", 
+            "stars": "2", 
+            "author": "Ajeesh Kumar"
+        }, 
+        {
+            "comment": "A very good phone for the price. The screen size nice but not as sharp as the original Moto G. Also, the Lollipop system is buggy and not as fast as Kitkat. All in all, I prefer the original Moto G.", 
+            "date": "July 6, 2015", 
+            "stars": "4", 
+            "author": "William Dickerson"
+        }, 
+        {
+            "comment": "Very good phoneIt's fast. You can play games like asphalt, do work on it, check emails, rarely freezes.  Had it for about two months now.Be sure to get the tudia case with it", 
+            "date": "May 25, 2015", 
+            "stars": "5", 
+            "author": "Sharifa M."
+        }, 
+        {
+            "comment": "Very good phone for the cost.  No it doesn't have LTE but I hardly notice to be honest.  What a steal for under $200 unlocked.  You can pay $650 plus every year and waste money on an iPhone but why?", 
+            "date": "May 6, 2015", 
+            "stars": "4", 
+            "author": "Tech Professional"
+        }, 
+        {
+            "comment": "Fantastic phone, especially for the money.  I would love to see a bit more speed in there as Android 5.0 has begun to hang on me a bit.  But this is a value smart phone that has exceptional quality.", 
+            "date": "April 15, 2015", 
+            "stars": "5", 
+            "author": "Bruce Perry"
+        }, 
+        {
+            "comment": "I'm really impressed with the quality of everything on this phone, nothing negative to add. The global gsm already have OTA update to 5.0.2 and works perfectly, really smooth and fast. Really happy.", 
+            "date": "January 29, 2015", 
+            "stars": "5", 
+            "author": "Jes\u00fas Blanco"
+        }, 
+        {
+            "comment": "Great phone if you don't mind the lack of LTE and occasional freezing (requiring a reboot). Also, good with most games but I am not an avid gamer. My son who is didn't like it for hard-core gaming.", 
+            "date": "January 6, 2015", 
+            "stars": "4", 
+            "author": "Amazon Customer"
+        }, 
+        {
+            "comment": "good phone for this price", 
+            "date": "December 11, 2014", 
+            "stars": "5", 
+            "author": "Selton"
+        }, 
+        {
+            "comment": "Great phone for the price", 
+            "date": "December 9, 2014", 
+            "stars": "5", 
+            "author": "Florin S."
+        }, 
+        {
+            "comment": "Good price and big screen", 
+            "date": "November 22, 2014", 
+            "stars": "4", 
+            "author": "Min-Jung Lo"
+        }, 
+        {
+            "comment": "Perfect smartphone <3", 
+            "date": "November 16, 2014", 
+            "stars": "5", 
+            "author": "Victor Lopez"
+        }, 
+        {
+            "comment": "Great Phone, just love it", 
+            "date": "October 29, 2014", 
+            "stars": "5", 
+            "author": "Miguel De La Rosa"
+        }, 
+        {
+            "comment": "Excellent device, this is our second Moto G and the value is superlative. We don't miss any capability of more expensive rivals.We received the package on time as planned.We recommend", 
+            "date": "May 4, 2015", 
+            "stars": "5", 
+            "author": "hjop"
+        }, 
+        {
+            "comment": "I expected a smart phone with a larger capacity battery than my former iPhone 4 to give me much better time between charges, but have to charge every other day with minimum use during the period.", 
+            "date": "April 12, 2015", 
+            "stars": "3", 
+            "author": "John L. Lapish"
+        }, 
+        {
+            "comment": "Absolutely great phone for the price! A little too big for my personal taste but its not uncomfortable for the pocket. I strongly recommend to buy a microSD card of at least 16gb for this phone.", 
+            "date": "August 12, 2015", 
+            "stars": "5", 
+            "author": "Francisco"
+        }, 
+        {
+            "comment": "excellent phone in terms of its very fast performance, camera perfect night compared to other teams in the same range ..I recommend, I ultilozo currently in Venezuela with line MOVISTAR..", 
+            "date": "March 22, 2015", 
+            "stars": "5", 
+            "author": "willian seferen"
+        }, 
+        {
+            "comment": "given the price, i am pleasantly surprised by the quality and the features. The phone does not get warm unlike my previous LG G2. I also could not notice any speed difference between 3G vs LTE.", 
+            "date": "February 4, 2015", 
+            "stars": "5", 
+            "author": "C. Zhang"
+        }, 
+        {
+            "comment": "Excelente tel\u00e9fono", 
+            "date": "December 7, 2014", 
+            "stars": "5", 
+            "author": "jaime"
+        }, 
+        {
+            "comment": "damaged my phone came only lasted me 15 days of use , then turn off and did not run the software more , get a notification that the software and all applications are stopped, please help me!!", 
+            "date": "April 17, 2015", 
+            "stars": "1", 
+            "author": "jesus cotua"
+        }, 
+        {
+            "comment": "That cell phone did not work since the first day. after two month the phone died completely. I am very disappointed.I bought two... and the other one (the serial ) is assign to somebody.", 
+            "date": "February 2, 2015", 
+            "stars": "2", 
+            "author": "Isa"
+        }, 
+        {
+            "comment": "Great phone!! It's simple to use, cheap, light. I love it, I would never spend note than, $200 for a phone and this gave me all the specifications of a good android phone for a very low price.", 
+            "date": "January 10, 2015", 
+            "stars": "5", 
+            "author": "Clara Capparelli"
+        }, 
+        {
+            "comment": "I made an error when I upgraded my phone.  I purchased a minne Samsung, the first quit after the 1st charge. The 2nd wouldn't pick up my calls.  The moto works great, l haven't missed a call.", 
+            "date": "October 11, 2015", 
+            "stars": "4", 
+            "author": "Amazon Customer"
+        }, 
+        {
+            "comment": "Excelent beautiful phone", 
+            "date": "December 16, 2014", 
+            "stars": "5", 
+            "author": "Alice Argueta"
+        }, 
+        {
+            "comment": "Excellent, I love it !!!", 
+            "date": "December 12, 2014", 
+            "stars": "5", 
+            "author": "Diego Fernando Sena"
+        }, 
+        {
+            "comment": "Very very good i love it", 
+            "date": "December 4, 2014", 
+            "stars": "5", 
+            "author": "jovanessa Luciano A."
+        }, 
+        {
+            "comment": "The phone it's very good", 
+            "date": "December 2, 2014", 
+            "stars": "4", 
+            "author": "Pablo Alas"
+        }, 
+        {
+            "comment": "Thank you. no complaints", 
+            "date": "December 1, 2014", 
+            "stars": "5", 
+            "author": "Wilfredo ferrer"
+        }, 
+        {
+            "comment": "Excelent phone and price", 
+            "date": "November 18, 2014", 
+            "stars": "5", 
+            "author": "Carlos"
+        }, 
+        {
+            "comment": "Nice phone for the price", 
+            "date": "October 11, 2014", 
+            "stars": "4", 
+            "author": "stephen welvaart"
+        }, 
+        {
+            "comment": "What a great phone! Bonus: It has KitKat, but when I started the phone after charging it, there was an upgrade to Lollipop! This is a great phone! Now, to find a good, sturdy case for it.", 
+            "date": "March 14, 2015", 
+            "stars": "5", 
+            "author": "AGS"
+        }, 
+        {
+            "comment": "Great features. Great Screen. Great hardware (if it had LTE it would be perfect). Great Software (latest version of android Lollipop). And best of all a fantastic price (I paid $149.99).", 
+            "date": "March 1, 2015", 
+            "stars": "5", 
+            "author": "chapoec"
+        }, 
+        {
+            "comment": "Upgraded from a Galaxy Nexus. Though the specs are pretty similar, the Moto G is way faster. Lollipop is excellent as well. My only complaints are the battery life and internal storage.", 
+            "date": "January 19, 2015", 
+            "stars": "5", 
+            "author": "linuxlsrjd"
+        }, 
+        {
+            "comment": "Really Great Phone. Even with the 3G limitation it runs almost as fast as my HTC M7 one.Great display, responsive screen. Brought it to Europe as my unlocked phone and bought sim cards.", 
+            "date": "June 23, 2015", 
+            "stars": "5", 
+            "author": "james f"
+        }, 
+        {
+            "comment": "very good phone, just something strange happened to me, I put it to load and too much was heated and the screen broke, after all dema well, I'm going to change motor iphon G, cheaper and cell", 
+            "date": "January 23, 2015", 
+            "stars": "4", 
+            "author": "juan paulino"
+        }, 
+        {
+            "comment": "Got it for my son to replace an old iPhone 4.This phone is great. Solid feel, good screen, OS without unwanted stuff.My son immediately tossed the iphone 4 and never looked back.", 
+            "date": "July 20, 2015", 
+            "stars": "5", 
+            "author": "Yoram"
+        }, 
+        {
+            "comment": "Oh my god this is such an amazing phone!!!! I have nothing to complain about the phone other than I didn't get it sooner. The price is awesome and I love everything about it. I do recommend.", 
+            "date": "April 13, 2015", 
+            "stars": "5", 
+            "author": "sombdy99"
+        }, 
+        {
+            "comment": "Still learning to use it, but very happy with my decision to buy. I have AT&T and took it to my neighborhood AT&T cell shop. They had it up and working in minutes. Couldn't have been easier.", 
+            "date": "March 23, 2015", 
+            "stars": "5", 
+            "author": "GMK"
+        }, 
+        {
+            "comment": "Battery drains within a few hours after Android 5.01 update. It does fine until *something* happens and the battery discharges completely in about 20 minutes with the phone getting very hot.", 
+            "date": "February 25, 2015", 
+            "stars": "1", 
+            "author": "Jan Althaus"
+        }, 
+        {
+            "comment": "excellant bought to take place of 1st gen MOTO X  while x is being repaired broken Gorilla glass. \"G\"up graded to lolly i like the system .maybe the \"X\" 1st genwill get lolly", 
+            "date": "February 12, 2015", 
+            "stars": "4", 
+            "author": "mikey b"
+        }, 
+        {
+            "comment": "Very well built , excellent sharpness and touch screen, very good camera controls and sharpness. Fast processor . Excellent buy probably the best value at around 200$ for an unlocked phone.", 
+            "date": "December 31, 2014", 
+            "stars": "5", 
+            "author": "J. Malaguti"
+        }, 
+        {
+            "comment": "I got this phone yesterday and I'm in love!The Global GSM works perfectly with my T-Mobile plan, so don't worry about that, it's fast, it's easy to use and is big.Great phone!!", 
+            "date": "March 31, 2015", 
+            "stars": "5", 
+            "author": "Aryma"
+        }, 
+        {
+            "comment": "A worthwhile buy. It plays every game I like with no lag. The battery lasts long enough when I'm not home. Aside from having to order a new sim card, I'm 100% satisfied with this purchase.", 
+            "date": "December 24, 2014", 
+            "stars": "5", 
+            "author": "RCB"
+        }, 
+        {
+            "comment": "This smartphone is great. It is not perfect, the camera is regular,  and it has little internal memory. But its fluidity is high-end, its construction is also good. Worth every dollar.", 
+            "date": "February 1, 2015", 
+            "stars": "5", 
+            "author": "Gustavo Sandoval"
+        }, 
+        {
+            "comment": "Best phone you can get with that price. Little bit slow because of 2 GB RAM but not annoying. Very nice looking durable high resolution screen life battery normal. Totally recommending", 
+            "date": "January 19, 2015", 
+            "stars": "5", 
+            "author": "momen"
+        }, 
+        {
+            "comment": "Great price for an unlocked phone. Only thing I wish was better was the picture quality thats why I give it 4 stars but its to be expected for price. Overall very happy with it so far.", 
+            "date": "January 10, 2015", 
+            "stars": "4", 
+            "author": "pedro coelho-torres"
+        }, 
+        {
+            "comment": "Phone is great! This is the 3rd Moto G gen 2 in our family with no problems.However, it took Amazon 10 days to ship my phone. It will be a while before I use Amazon again.", 
+            "date": "August 19, 2015", 
+            "stars": "5", 
+            "author": "orangepew"
+        }, 
+        {
+            "comment": "Great android phone for basic apps without bloatware from a carrier.  Camera isn't great, but it's what to expect for a cheaper phone.  Has a really good weight and feel in the hand.", 
+            "date": "August 17, 2015", 
+            "stars": "4", 
+            "author": "Ak2"
+        }, 
+        {
+            "comment": "Great phone! Picture quality is nice, speakers sound superb, and the speed is well fast enough for everyday tasks (though for gaming I'd pick up a different device). Would recommend!", 
+            "date": "August 6, 2015", 
+            "stars": "4", 
+            "author": "Jonathan"
+        }, 
+        {
+            "comment": "Nice phone. It's my first real venture into the world of smartphones.So far, so good. Love the big screen and the reflexes of the touch screen. My texting just kicked into overdrive!", 
+            "date": "February 28, 2015", 
+            "stars": "5", 
+            "author": "Matthew Presley"
+        }, 
+        {
+            "comment": "Bought it to be used in Chile with Movistar and TMobile here in the US. It works as expected. And it's front camera actually takes better selfies than my Droid Maxx. Would recommend.", 
+            "date": "January 16, 2015", 
+            "stars": "5", 
+            "author": "Daniel W. Chen"
+        }, 
+        {
+            "comment": "I LOVE THIS PHONE ITS THE BEST I ALSO GOT 5.0.2 LOLLIPOP WHICH IS A BIT LAGGY BUT THERE IS NEWS OUT THERE THAT 5.1 WILL BE COMING VERY SOON I REALLY RECOMMEND THIS PHONE TO EVERYONE.", 
+            "date": "January 10, 2015", 
+            "stars": "5", 
+            "author": "norado Rhoden"
+        }, 
+        {
+            "comment": "I love this phone. After three months using this phone I loved it so munch. Then I bought another same phone for my brother-in-law as a gift.Price is really good.... I just love it.", 
+            "date": "February 21, 2015", 
+            "stars": "5", 
+            "author": "Imtiaz"
+        }, 
+        {
+            "comment": "Everything ok. Than you", 
+            "date": "May 21, 2015", 
+            "stars": "5", 
+            "author": "Lucila Piera"
+        }, 
+        {
+            "comment": "Good phone, good price.", 
+            "date": "November 19, 2014", 
+            "stars": "5", 
+            "author": "Lazo de la Vega V"
+        }, 
+        {
+            "comment": "I like the Moto G 2....", 
+            "date": "October 26, 2014", 
+            "stars": "5", 
+            "author": "Rosa Virginia Rivas Villamizar"
+        }, 
+        {
+            "comment": "Wonderful for the price", 
+            "date": "October 24, 2014", 
+            "stars": "5", 
+            "author": "niamh choo"
+        }, 
+        {
+            "comment": "Recognizing that this a 3 G phone, it performs as expected, at a reasonable price.Only have had it activated for less than a month. Will be reassessing if anything changes.", 
+            "date": "March 30, 2015", 
+            "stars": "4", 
+            "author": "J. Tancredi"
+        }, 
+        {
+            "comment": "So Good!!! so clear colors easy to use (even for the tech challenged me :)Still playing around with it to learn all the goodies.just wish it came with the car charger", 
+            "date": "January 10, 2015", 
+            "stars": "4", 
+            "author": "kacey chang"
+        }, 
+        {
+            "comment": "Awesome phone for the price. This phone is not carried in any TMobile store but its definitely just as good but at a much cheaper price. Crisp display and sleek Motorola design.", 
+            "date": "April 10, 2015", 
+            "stars": "5", 
+            "author": "JJJ"
+        }, 
+        {
+            "comment": "Great phone for the price. I have the moto g first gen and this one is quite an upgrade. Bought it for my brother and he loves the phone, it has everything you need in a phone.", 
+            "date": "August 23, 2015", 
+            "stars": "5", 
+            "author": "Jesus Veliz"
+        }, 
+        {
+            "comment": "great phone. cut down our sim card so it would work in phone - no problem to do so. phone works great with Telus in Canada. screen fantastic and great price for a good phone.", 
+            "date": "January 26, 2015", 
+            "stars": "5", 
+            "author": "bill"
+        }, 
+        {
+            "comment": "You owe it to yourself to use Pure Android. And using the Moto G, either last year's or this year's model, is a mighty fine way to experience such Purity. Highly Recommended.", 
+            "date": "December 30, 2014", 
+            "stars": "5", 
+            "author": "Rodrigo E. De Le\u00f3n Plicet"
+        }, 
+        {
+            "comment": "execellent sound, good idea by Motorola include two speakers, HD sound sounds like. The screen is great once you get used to it, it is not too big nor too small. The curvature is excellent accommodates your less easy and perfect grip. Weighs almost nothing not felt. Regarding the battery: I think it is excellent with prolonging cell lasts me 8-9 hours, for example, every day I get up at 7 and disconnect the phone from the charger immediately and lasts me until 8-9 night, if you want to know an example right now is 8:34 and my battery percentage is 26%. The pure android software already know I love. usually difficult to find the available cell but sent it quickly brings the box, manual and charger longer than normal chargers bone .. they say everything in it is excellent, I thoroughly recommend for some reason he is the king of the midrange.", 
+            "date": "November 11, 2014", 
+            "stars": "5", 
+            "author": "JuanNadal"
+        }, 
+        {
+            "comment": "I bought two of these phones, one for my wife (bought directly from Motorola since Amazon was out of stock of white ones) and a black one for myself.  They replaced a HTC Sensation 4G (was a flagship phone for about 15 minutes in 2011) and a cheap LG E-612 Android phone that we picked up in Australia.  Let's just say that these new phones blow our old ones out of the water.  The screens are nice and clear. Who cares if they aren't 1920x1080 pixels, they look fantastic.  They are fast, run all the apps we want and get great signal where our old phones let us down.  We're both on pre-paid plans and we get great connection speeds for our needs.  This is truly the best deal on a smartphone for those who don't wish to sign a contract with the devil to rent to own a phone for two years.", 
+            "date": "November 22, 2014", 
+            "stars": "5", 
+            "author": "James Rose"
+        }, 
+        {
+            "comment": "A friend brought this from the states to Pakistan for me, and I have seriously fallen in love with it! Best phone for the price, by far. The display is gorgeous, and overall its generally very smooth and fluid. The camera is VERY good, and performs very well in sunlight. Battery life is just normal, nothing special.There are some drawbacks , as is to be expected from a budget phone. The battery is non removable so that could be a problem for some people. It also drains pretty quickly using mobile data, but thats true for all phones. It lasts the day for me, so i'm happy. Apart from that, the phone is awesome!This phone doesnt feel like a $180 phone. You can't go wrong with it! Im recommending to all my friends here!", 
+            "date": "October 20, 2014", 
+            "stars": "5", 
+            "author": "Hamza Tahir"
+        }, 
+        {
+            "comment": "Worked well out of the box for Metro PCS/Tmobile.  The phone gets better reception than My OnePlus One and my old Iphone.", 
+            "date": "December 8, 2014", 
+            "stars": "5", 
+            "author": "DAK"
+        }, 
+        {
+            "comment": "Awesome ... Best Budget phone that actually works well.Does the job for me,# Google Maps, Spotify and Accept Calls - through Bluetooth - Car - Works flawlessly - without any lag.# Facebook, whatsapp, messenger , Skype , Youtube,  Flipboard, Hangouts - works real well, without any lag.Best part and surprising for me was the screen .. its really good.Pro's- Android 4.4  - clean OS.- Screen is very good, great viewing angles.- Camera is good. Back and front.- Battery Life.- Memory Expansion.Con's- CPU and Memory could have been upgraded from last year model.- LTE - hopefully in next few months it will be available.", 
+            "date": "October 14, 2014", 
+            "stars": "5", 
+            "author": "Dan"
+        }, 
+        {
+            "comment": "Delivery by Amazon was very fast , I ordered this phone on a Monday and by Friday had it in my hand. I've had it for just 3 days but am already in love with the phone. Just popped my simcard in and it worked great, calls are very clear and reception is great , camera is great and shoots very clear pics, battery isn't incredible but very acceptable even with regular use, wifi connects quickly, videos run smoothly and look great in the big 5\" screen. I will update my review when I have more time with the phone but for now I love it , works great , and for less than $200 it has features than you can find on most bigger  budget phones. You can't ask for much more , for this price.", 
+            "date": "December 14, 2014", 
+            "stars": "5", 
+            "author": "Luis Rodriguez"
+        }, 
+        {
+            "comment": "This phone shakes the smartphone market for the following reasons:1. Uncontract Phone - The phone does not have a phone carrier logo anywhere on it. You are free from the phone companies!  You are independent! Freedom!!2. Excellent Price of $179.99 - Thats all you pay for the phone. Period. No other strings attached. No carrier subsidy.3. Stock Android 4.4.4 - Virgin version of the Android software from Google. Pure software. No carrier customized junkware or bloatware. Carrier customizations of the Android software makes your phone slow, and you don't get the latest version of Android.4. Choice of Carrier is Wide open - You can switch between any carrier in a SPLIT SECOND. No worries of paying a contract termination fee.5.  OK hardware for the steller Price - Great screen. Great specs.This move by Motorola Corp is a smart smart smart smart genius move that customers love. I can't wait to get the Moto G 3rd generation phone to come out in 2015 after purchasing this for my wife.", 
+            "date": "December 8, 2014", 
+            "stars": "5", 
+            "author": "Unanimous"
+        }, 
+        {
+            "comment": "I bought this phone as a good budget option since I am on StraightTalk and needed something to replace my dated iPhone 4.  Since January, I have noticed a significant slow down in my phone's processing ability, even after keeping all apps and Android OS up to date.  The nail in the coffin just came yesterday when after reaching 0% battery (practically a daily occurrence), I was unable to charge the phone.  I have left the phone on the charger overnight and still no sign of life.  My advice: STAY AWAY FROM THIS PHONE!  I used to love my older Motorola phones, but unless they pull some fantastic customer support, consider this my last purchase with their brand!", 
+            "date": "July 21, 2015", 
+            "stars": "1", 
+            "author": "Kyle Greer"
+        }, 
+        {
+            "comment": "This  is really good smart phone and greatprice.battery life; i've used a 3.5 hour on front light .  I was using a web browser and some apps between.battery remaining after 20 hours was 15%!  then cut the 15% when the battery saver start.This phone is great if you can a some compromise on camera function.The  back of the design is a great and cute. i changed shell case it to blue\u3001\uff29'\uff4d\u3000very happy!For use in Japan\uff1b\u3000docomo foma\u30d7\u30e9\u30b9\u30a8\u30ea\u30a2\u3067\u306f\u4f7f\u3048\u306a\u3044\u3088\u3046\u3067\u3059.\u79c1\u306f\uff29\uff29\uff2a\uff2d\uff29\uff2f\u306e\u307f\u304a\u30d5\u30a9\u30f3\u3067\u3064\u304b\u3063\u3066\u307e\u3059\u3002\u3000\u3000A\uff30\uff2e\u8a2d\u5b9a\u3082\u3055\u308c\u3066\u3044\u3066\u30b7\u30e0\u30ab\u30fc\u30c9\u3092\u3055\u3059\u3060\u3051\u3067\u4f7f\u3048\u307e\u3057\u305f\u3002\u65e5\u672c\u8a9e\u3082\u88c5\u5099\u3055\u308c\u3066\u3044\u307e\u3057\u305f\u304c\u5165\u529b\u306fgoogle\u5165\u529b\u30a2\u30d7\u30ea\u306a\u3069\u3092play store\u304b\u3089\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3057\u305f\u3002\u4f59\u8a08\u306a\u30a2\u30d7\u30ea\u304c\u30d7\u30ea\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3055\u308c\u3066\u306a\u3044\u306e\u3067\u52d5\u4f5c\u3082\u8efd\u304f\u5feb\u9069\u306b\u4f7f\u3048\u3066\u3044\u307e\u3059\u3002\u30ab\u30e1\u30e9\u6027\u80fd\u306fiPhone\u306a\u3069\u306e\u9ad8\u7d1a\u6a5f\u3068\u306f\u30b5\u30b9\u30ac\u306b\u9055\u3044\u307e\u3059\u304c\u5927\u5909\u6c17\u306b\u5165\u3063\u3066\u3044\u307e\u3059\uff01", 
+            "date": "November 4, 2014", 
+            "stars": "5", 
+            "author": "Yuji Y."
+        }, 
+        {
+            "comment": "shipped a couple of weeks early.  Looks great - works great.  The 2nd generation is a big improvement!", 
+            "date": "September 30, 2014", 
+            "stars": "4", 
+            "author": "Warren R"
+        }, 
+        {
+            "comment": "I received the phone and it booted up normal but the touchscreen would not respond at all very  disappointed in this purchase", 
+            "date": "July 30, 2015", 
+            "stars": "1", 
+            "author": "Bajanrose"
+        }, 
+        {
+            "comment": "excelent all very nice", 
+            "date": "December 11, 2014", 
+            "stars": "5", 
+            "author": "ALFONSO C."
+        }, 
+        {
+            "comment": "Good one for the price", 
+            "date": "December 8, 2014", 
+            "stars": "5", 
+            "author": "sai"
+        }, 
+        {
+            "comment": "Great, awesome device.", 
+            "date": "November 27, 2014", 
+            "stars": "5", 
+            "author": "Dmitry"
+        }, 
+        {
+            "comment": "I love this smartphone", 
+            "date": "November 26, 2014", 
+            "stars": "5", 
+            "author": "Manzul Gregory Zurita Brito"
+        }, 
+        {
+            "comment": "stuck with ph. problems to many to list... totally worthless, I pd. $865.00 for 1st. ph. had many ph. worst I've ever had...", 
+            "date": "July 28, 2015", 
+            "stars": "1", 
+            "author": "will britton"
+        }, 
+        {
+            "comment": "Its quick, responsive, and a great battery life. How has this phone not received better praise? For the money this phone is better than most that I have messed around with.", 
+            "date": "July 24, 2015", 
+            "stars": "5", 
+            "author": "Amazon Customer"
+        }, 
+        {
+            "comment": "Bought two of these, one of which we had to return as defective since it wouldn't recognize the sim card when placed in there. Other than that it's a great lower end phone.", 
+            "date": "June 1, 2015", 
+            "stars": "4", 
+            "author": "Donald E. Cook"
+        }, 
+        {
+            "comment": "My Moto has been working pretty well since I've bought it with no glitches.  The order arrived before the estimated due date perfectly packaged.  Moto is my new best friend", 
+            "date": "April 6, 2015", 
+            "stars": "5", 
+            "author": "PG"
+        }, 
+        {
+            "comment": "It's a good phone. I think the relation price -quality of this product is super fair. There are still some little issues with some app compatibility but in only a few ones", 
+            "date": "October 17, 2015", 
+            "stars": "4", 
+            "author": "Sergio Reader"
+        }, 
+        {
+            "comment": "I bought it on February and stopped working on April. The screen froze and stopped responding.  I could not return it because Amazon's 30 days return policy. Don't buy it.Update: I called Motorola and they fixed it. Great customer service", 
+            "date": "April 16, 2015", 
+            "stars": "4", 
+            "author": "Viejo almacen"
+        }, 
+        {
+            "comment": "excellent smartphone I can not imagine That would have such striking and good appearance is white luxury I think a balance in power, subtlety, beauty Recommended by 100%.", 
+            "date": "December 26, 2014", 
+            "stars": "5", 
+            "author": "Ronny Parra"
+        }, 
+        {
+            "comment": "Product is good, few fails compared to other androids, no multi wall paper setting, google search dialouge box stays on home screen, so wallpaper is not completely shown", 
+            "date": "May 6, 2015", 
+            "stars": "4", 
+            "author": "vijay"
+        }, 
+        {
+            "comment": "This is a great phone for the price.  Quick, perfect size and cheap. Bought this to replace my s5 temporarily until s6 comes out. Battery lasts a long time. No bloatware", 
+            "date": "March 25, 2015", 
+            "stars": "5", 
+            "author": "SCOTT N."
+        }, 
+        {
+            "comment": "I bought a used, like new version of the phone and it only had a small scratch on the bottom. Great quality and I like how it's a little bigger than the original Moto G.", 
+            "date": "February 10, 2015", 
+            "stars": "5", 
+            "author": "Melanie Z."
+        }, 
+        {
+            "comment": "Well as soon I receive it I tried to encrypt the phone, it took all the night but it only had completed 7 % so I decided to restart the phone, leaving the phone bricked.", 
+            "date": "February 9, 2015", 
+            "stars": "1", 
+            "author": "Tomas S."
+        }, 
+        {
+            "comment": "Similar specs to the iPhone 6, yet $450 cheaper. Apple makes insane profit margins in the iPhone because people are willing to pay for it. Yet, the hardware they put into their phones is mostly on the lower end.  Don't throw your money away.  Screen on G is larger with similar resolution to iPhone. Rear cameras are both 8mp but G has better front camera with 2mp (versus 1.5mp for apple). Both have 1GB of ram.  G only has 8GB internal storage but can easily add more with cheap micro SD card. G has 720p video and iPhone has 1080p.  The biggest difference between the phones is the iPhone has noticeably faster processor with better graphics processor. Games will load and run better on the iPhone.  If games are a priority, get the iPhone. Otherwise, for your everyday tasks the G is just as good and in some ways better. Update to the new Android Lollipop OS and enjoy the fantastic new UI. It's gorgeous and every bit as good as iOS and then some.", 
+            "date": "February 4, 2015", 
+            "stars": "5", 
+            "author": "Jimbo"
+        }, 
+        {
+            "comment": "his product arrived with failure unfortunately I brought to Ecuador and I can not return ... a few days just stopped working and the technicians say it's failed factory", 
+            "date": "August 27, 2015", 
+            "stars": "1", 
+            "author": "Aby G."
+        }, 
+        {
+            "comment": "It' a very nice phone in the price range. Only disadvantage is Battery life is bad.I see few problems after upgrading to Lollipop.Hope it will be fixed very soon.", 
+            "date": "February 9, 2015", 
+            "stars": "4", 
+            "author": "Sumon Chattopadhyay"
+        }, 
+        {
+            "comment": "Love the phone.  It has all the features that any other android that is twice as much has and I am very pleased with it!", 
+            "date": "December 7, 2014", 
+            "stars": "5", 
+            "author": "Martha R."
+        }, 
+        {
+            "comment": "It has a great processor, cool video and graphics resolution, an aceptable memory for saving apps. It's a very fast cell phone that can be useful for all the purpose.", 
+            "date": "May 9, 2015", 
+            "stars": "5", 
+            "author": "Daniel Vinicio Ramos Boone"
+        }, 
+        {
+            "comment": "Great phone, i loveeeee it. Never owned a Android phone nor Motorola, so far loving it, very fast, good quality camera, but little weak battery but overall good phone", 
+            "date": "January 11, 2015", 
+            "stars": "5", 
+            "author": "Jippik"
+        }, 
+        {
+            "comment": "I'm loving it so far.", 
+            "date": "July 23, 2015", 
+            "stars": "4", 
+            "author": "KENEISHA RECKFORD"
+        }, 
+        {
+            "comment": "Economical and great.", 
+            "date": "January 14, 2015", 
+            "stars": "5", 
+            "author": "Anup Singh"
+        }, 
+        {
+            "comment": "Very good, excelente!", 
+            "date": "December 13, 2014", 
+            "stars": "5", 
+            "author": "Rodrigo"
+        }, 
+        {
+            "comment": "everything I expected", 
+            "date": "November 30, 2014", 
+            "stars": "5", 
+            "author": "Jean T."
+        }, 
+        {
+            "comment": "Best phone for money!", 
+            "date": "November 25, 2014", 
+            "stars": "5", 
+            "author": "Aryeh"
+        }, 
+        {
+            "comment": "Best value for money.", 
+            "date": "November 7, 2014", 
+            "stars": "5", 
+            "author": "Ariel P"
+        }, 
+        {
+            "comment": "Exelente experiencia.", 
+            "date": "October 27, 2014", 
+            "stars": "5", 
+            "author": "FRANK"
+        }, 
+        {
+            "comment": "Looks and works great", 
+            "date": "September 29, 2014", 
+            "stars": "5", 
+            "author": "ebu73"
+        }, 
+        {
+            "comment": "wasn't sure about a 5 inch phone, my previous one was a 4.5 inch and I thought it might feel werid, but it took me less than a week to get used to it and it's great.", 
+            "date": "May 20, 2015", 
+            "stars": "5", 
+            "author": "oriol"
+        }, 
+        {
+            "comment": "Love this phone. for the price, you cannot beat it. it;s fast, good screen and with the android version updated to the last one. it feels like a great quality phone!", 
+            "date": "April 26, 2015", 
+            "stars": "5", 
+            "author": "trukis"
+        }, 
+        {
+            "comment": "Super impressed by this phone. I don't regret taking this over the moto 3g considering both come with 1 gig of ram at this price point which is all I needed anyway.", 
+            "date": "October 5, 2015", 
+            "stars": "5", 
+            "author": "jake chapman"
+        }, 
+        {
+            "comment": "Easily the best budget phone in the world right now, sometimes I forget it's a 180 dollar phone, it's built really well and does everything I need it to do and more", 
+            "date": "April 30, 2015", 
+            "stars": "5", 
+            "author": "Howard"
+        }, 
+        {
+            "comment": "I really like Motorola, this is a great mid-range phone. Great feature set and reliable.Sturdy build quality.Installed my T-Mobile sim and we're off and working!", 
+            "date": "July 20, 2015", 
+            "stars": "5", 
+            "author": "Campmaster Tom"
+        }, 
+        {
+            "comment": "Works great. Love it. I was a little worried about only 8GB. But, I got the lollipop upgrade, loaded the phone up w/the things I needed, and still have 3GB left.", 
+            "date": "March 2, 2015", 
+            "stars": "5", 
+            "author": "Gale Force wind"
+        }, 
+        {
+            "comment": "Better size, better processor and camera! And plus: Sd card option! For Venezuelans users: I have digitel with the global versi\u00f3n, without problems connect to 3G", 
+            "date": "March 1, 2015", 
+            "stars": "5", 
+            "author": "Cliente de Amazon"
+        }, 
+        {
+            "comment": "This the perfect phone for someone who wants a phone that just \"works\" and will be reliable. If you fall into this category don't hesitate, just buy it.", 
+            "date": "April 10, 2015", 
+            "stars": "5", 
+            "author": "Reginald Bryant"
+        }, 
+        {
+            "comment": "Awesome smartphone, the screen is absolutely gorgeous, the speaker sound crisp and clear, the Motorola G 2nd. works perfect with Movilnet Operator in Venezuela,", 
+            "date": "March 21, 2015", 
+            "stars": "5", 
+            "author": "CARLOS JOSE"
+        }, 
+        {
+            "comment": "earlier i was thinking, should i but this phone or not.but i ordered it and found... this is nice unlocked phone or should i say bet for the price i paid.", 
+            "date": "January 20, 2015", 
+            "stars": "5", 
+            "author": "Sourabh Garg"
+        }, 
+        {
+            "comment": "It's a great phone for the price but the only bad thing is the camera, way bad if you ask me. If you're not that into the camera, this phone is perfect for you.", 
+            "date": "January 10, 2015", 
+            "stars": "3", 
+            "author": "Jesus Vazquez"
+        }, 
+        {
+            "comment": "excellent phone. I recommend to everyone who doesn't want to spend much money to smart phones. You can get the same performance compared to the expensive ones.", 
+            "date": "July 11, 2015", 
+            "stars": "5", 
+            "author": "Ramazan"
+        }, 
+        {
+            "comment": "Great phone and cheap too. It also has a good 8mp camera considering its under 200 bucks. It works with T-Mobile. Just no LTE. But hspa+ is good enough for me.", 
+            "date": "January 5, 2015", 
+            "stars": "5", 
+            "author": "Steve"
+        }, 
+        {
+            "comment": "Good screen display but has very poor battery life. Plus it freezes once in a while which can become irritating at times. Nevertheless a good phone in general.", 
+            "date": "December 21, 2014", 
+            "stars": "3", 
+            "author": "charles"
+        }, 
+        {
+            "comment": "Would recommend to buy this phone if you'v a short budget. If you're into camera functions & clarity then this isn't the one for you. Rest everything is fine.", 
+            "date": "July 24, 2015", 
+            "stars": "4", 
+            "author": "junaid"
+        }, 
+        {
+            "comment": "Great phone. I got it while Amazon had warehouse deals on it so I paid like $130 on iy. Totally worth imthe buy, great specs and amazing camera for the price.", 
+            "date": "July 19, 2015", 
+            "stars": "5", 
+            "author": "Shalalala"
+        }, 
+        {
+            "comment": "Great phone. I think its really fast. Also this device has a great screen resolution. Im impressed, when I first saw it I didnt thought this was a 180$ phone.", 
+            "date": "December 21, 2014", 
+            "stars": "5", 
+            "author": "Maria Clara Garcia"
+        }, 
+        {
+            "comment": "Couldn't be happier.", 
+            "date": "November 12, 2014", 
+            "stars": "5", 
+            "author": "G. Orlando"
+        }, 
+        {
+            "comment": "\u00a1excelente producto!", 
+            "date": "October 29, 2014", 
+            "stars": "5", 
+            "author": "Eddy"
+        }, 
+        {
+            "comment": "I am absolutely convinced there is not a better unlocked smart phone for under $200. I have had it a few months and couldn't be happier. Motorola... NICE JOB", 
+            "date": "September 6, 2015", 
+            "stars": "5", 
+            "author": "steve"
+        }, 
+        {
+            "comment": "very disappointed, the sim card slot of my phone was damage and does not hold the sim card properly so i can't conect with any cell phone network, just wifi.", 
+            "date": "March 1, 2015", 
+            "stars": "1", 
+            "author": "Antonio Reimundez"
+        }, 
+        {
+            "comment": "We bought it as a gift for my mom and she loves it. We looked for phone with wider screen and easy to use. It's cheaper than other phone with similar specs.", 
+            "date": "March 29, 2015", 
+            "stars": "5", 
+            "author": "Amazon Customer"
+        }, 
+        {
+            "comment": "Still learning the phone. Easy to set up and start using.  Nice screen, great camera.  Enjoy theE phone.  All the functionality I need at a good price", 
+            "date": "January 11, 2015", 
+            "stars": "4", 
+            "author": "Carmelita Bello"
+        }, 
+        {
+            "comment": "as advertised, only slow boot time and bad camera, but it arrived 24 hours late and i had to re ship it to my new address because i had to travel urgently.", 
+            "date": "August 23, 2015", 
+            "stars": "3", 
+            "author": "islam ahmad"
+        }, 
+        {
+            "comment": "Far the best phone by the price. Has nothing to envy to Iphone or Galaxy S5. I recommend it to anyone looking for an excellent phone without getting broke.", 
+            "date": "February 8, 2015", 
+            "stars": "5", 
+            "author": "Jhony By"
+        }, 
+        {
+            "comment": "I am happy with the performance of the Moto 2nd Gen cell phone. It is a bit heavier than my previous Samsung smartphone. The pictures are reasonably good.", 
+            "date": "June 5, 2015", 
+            "stars": "5", 
+            "author": "N. Rao"
+        }, 
+        {
+            "comment": "I received the product on time and exactly as described. I'm very happy with my purchase. My son really likes his new phone and is using it with MetroPCS", 
+            "date": "April 17, 2015", 
+            "stars": "5", 
+            "author": "Mani"
+        }, 
+        {
+            "comment": "Battery life does not last very long, kinda disappointed on this one. The phone itself is great, but volume goes from low to high and battery life sucks!", 
+            "date": "April 9, 2015", 
+            "stars": "2", 
+            "author": "J. Torres"
+        }, 
+        {
+            "comment": "Excellent smartphone at this price. Thnks to the google/motorola optimization it runs smoothly as any medium-end price cellphone, even this is a low-end.", 
+            "date": "January 8, 2015", 
+            "stars": "5", 
+            "author": "Dans000"
+        }, 
+        {
+            "comment": "Best smartphone in under $200 category", 
+            "date": "September 18, 2014", 
+            "stars": "5", 
+            "author": "Sourav Das"
+        }, 
+        {
+            "comment": "very satisfied!this phone totally provides value for the money.very recommended.it doesn't come with earphone which is annoying.", 
+            "date": "February 18, 2015", 
+            "stars": "4", 
+            "author": "Keren E."
+        }, 
+        {
+            "comment": "Great basic phone.  Perfect for me on an AT&T plan but not under contract.In this day and age, no need to buy a subsidized phone ever again.", 
+            "date": "January 9, 2015", 
+            "stars": "5", 
+            "author": "W. Tyler Turner"
+        }, 
+        {
+            "comment": "I was looking for a cell at a good price with good specs and I found this phone which offers me more than I wanted, I had no problems with this product.", 
+            "date": "December 19, 2014", 
+            "stars": "5", 
+            "author": "Edward Pe\u00f1a"
+        }, 
+        {
+            "comment": "The wait for the phone was extremely long, but thankfully, the phone made up for it. It runs smoothly and works with my T-Mobile service. I'm satisfied", 
+            "date": "March 13, 2015", 
+            "stars": "4", 
+            "author": "Curtis Cannon"
+        }, 
+        {
+            "comment": "Everything was good", 
+            "date": "April 5, 2015", 
+            "stars": "5", 
+            "author": "gabriela"
+        }, 
+        {
+            "comment": "Excelente Telefono!", 
+            "date": "November 25, 2014", 
+            "stars": "5", 
+            "author": "Jose M."
+        }, 
+        {
+            "comment": "Amazing Smartphone!", 
+            "date": "October 28, 2014", 
+            "stars": "5", 
+            "author": "Thiago Sales Freire Luz"
+        }, 
+        {
+            "comment": "Excellent product !", 
+            "date": "October 24, 2014", 
+            "stars": "5", 
+            "author": "Amazon Customer"
+        }, 
+        {
+            "comment": "Excelent cellphone.", 
+            "date": "October 10, 2014", 
+            "stars": "5", 
+            "author": "Nicolas B."
+        }, 
+        {
+            "comment": "The phone was as described, and I was easily able to transfer to my pay as you go provider. It has everything I need and more. The size is just right.", 
+            "date": "July 13, 2015", 
+            "stars": "5", 
+            "author": "cdenisen"
+        }, 
+        {
+            "comment": "Best (non over priced) phone I've purchased so far. Only thing I don't like is the battery is part of the phone. Has great sound, screen and features.", 
+            "date": "February 6, 2015", 
+            "stars": "4", 
+            "author": "MDG"
+        }, 
+        {
+            "comment": "Wonderful phone for the price. If you are looking to get a new phone that has great features and don't want to pay obscene prices then get this phone.", 
+            "date": "December 29, 2014", 
+            "stars": "5", 
+            "author": "Timothy Engle"
+        }, 
+        {
+            "comment": "While this is the first smart phone I've owned, I've found it to be easy to operate.  I've had a slow learning curve, but it has met my expectations.", 
+            "date": "July 10, 2015", 
+            "stars": "4", 
+            "author": "T. F. Severance"
+        }, 
+        {
+            "comment": "I couldn't be more happy...Excellent phone, excellent discount (it was an used one)...I would buy from this seller in a heart beat!", 
+            "date": "May 21, 2015", 
+            "stars": "5", 
+            "author": "Ivan Remus"
+        }, 
+        {
+            "comment": "Excellent screen resolution, it came unlocked as described on the title and worked immediately after inserting SIM and configuring regional settings.", 
+            "date": "January 9, 2015", 
+            "stars": "5", 
+            "author": "Andres"
+        }, 
+        {
+            "comment": "A great phone for the money. Motorola has been on a roll with their phones lately. Only annoying thing is that you can't change the ascending tones.", 
+            "date": "August 18, 2015", 
+            "stars": "5", 
+            "author": "Jimmy H."
+        }, 
+        {
+            "comment": "Great phone, even better than the first Moto G, is enable to take pictures even when ins blocked, is fast and friendly. It has the perfect size too!", 
+            "date": "June 19, 2015", 
+            "stars": "5", 
+            "author": "Ysabel Francis"
+        }, 
+        {
+            "comment": "Am in love with this phone. Bought it as a Christmas gift to myself and a much needed upgrade. Have not been disappointed so far. Absolutely love it", 
+            "date": "January 3, 2015", 
+            "stars": "5", 
+            "author": "Amazon Customer"
+        }, 
+        {
+            "comment": "The speakers are great and the screen is awesome. I dropped in in my pool and it worked after 3 days of drying out. Have no complains. Great value.", 
+            "date": "June 15, 2015", 
+            "stars": "5", 
+            "author": "Amazon Customer"
+        }, 
+        {
+            "comment": "Excellent device. Still, the hardware interface is a bit better in Samsung -IMO. I prefer the home button and the back and menu not in the screen.", 
+            "date": "October 11, 2015", 
+            "stars": "5", 
+            "author": "Diego"
+        }, 
+        {
+            "comment": "Excellent Smartphone, work in Movilnet Venezuela perfectly, the cellphone is use but the condition exceed my expectation. I recommend this seller.", 
+            "date": "March 9, 2015", 
+            "stars": "5", 
+            "author": "MDC"
+        }, 
+        {
+            "comment": "This phone is the best value you can get for a budget smartphone. Purchased it for my mother who is in love. Great quality and snappy performance!", 
+            "date": "December 30, 2014", 
+            "stars": "5", 
+            "author": "officiallyjuju"
+        }, 
+        {
+            "comment": "Love my Moto G 2nd Gen! I am an apple man, but I need a contract-free phone at a price and the Moto G has not disappointed. I have no complaints.", 
+            "date": "January 1, 2015", 
+            "stars": "5", 
+            "author": "David A Hughes Jr"
+        }, 
+        {
+            "comment": "It meets all of what I expect from a serious brand like Motorola: stable, great image, excellent performance and good post sale quality support", 
+            "date": "July 20, 2015", 
+            "stars": "5", 
+            "author": "Art R"
+        }, 
+        {
+            "comment": "Its a great phone for it's price . it does freeze up with Facebook sometimes or any app that is large . its not crazy quick . coming  from an s5 b4 this", 
+            "date": "April 12, 2015", 
+            "stars": "5", 
+            "author": "yehuda"
+        }, 
+        {
+            "comment": "Love the phone.  It was a replacement for an older Motorola Bravo.  After much research, I selected this phone and everything about it is great.", 
+            "date": "February 3, 2015", 
+            "stars": "5", 
+            "author": "Bob Vandenberg"
+        }, 
+        {
+            "comment": "It's an excellent phone. I really like it. It is fast, the display is great. It has all the features (at least those I need) of the high-end phones, but his three times less expensive.", 
+            "date": "August 5, 2015", 
+            "stars": "5", 
+            "author": "Iscander"
+        }, 
+        {
+            "comment": "Excellent phone, Ive been using it for 2 weeks only but I can say already that the price/quality ratio is excellent. Nice pictures, big screen.", 
+            "date": "July 4, 2015", 
+            "stars": "5", 
+            "author": "Dar\u00edo Gabriel Flores"
+        }, 
+        {
+            "comment": "The phone is good for the price BUT is #&@&@ slow.... Even when im just using whatsapp it crashes... I'm decide to buy a more reliable phone.", 
+            "date": "May 24, 2015", 
+            "stars": "3", 
+            "author": "Alfredo de la Torre Boj\u00f3rquez"
+        }, 
+        {
+            "comment": "Great phone for the price. Went from a note 2 that started having problems to this and only miss the stylus...but for the price, this is great.", 
+            "date": "May 13, 2015", 
+            "stars": "5", 
+            "author": "Alekz"
+        }, 
+        {
+            "comment": "It's a Great phone", 
+            "date": "February 9, 2015", 
+            "stars": "5", 
+            "author": "Adrian Contreras"
+        }, 
+        {
+            "comment": "It was as good or better than what expected. I wanted a good camera and the Moto G provided that. The phone was in great shape and looked new.", 
+            "date": "October 19, 2015", 
+            "stars": "5", 
+            "author": "Amazon Customer"
+        }, 
+        {
+            "comment": "Probably the best deal for the price - 5 inch screen with nice resolution and 8MP camera. You should probably hold out for the 4G LTE version.", 
+            "date": "February 11, 2015", 
+            "stars": "5", 
+            "author": "babygotsmack"
+        }, 
+        {
+            "comment": "The best that you can get for less 200$. So fast.. Great Camera. Incredible connection. Unlocked factory, function it with any carrier on GPS.", 
+            "date": "January 20, 2015", 
+            "stars": "5", 
+            "author": "Miguel Moreno Cordero"
+        }, 
+        {
+            "comment": "I have had the moto g (2nd generation) for 5 months. I r worked fine until i upgraded to Lollipop. The phone became very sluggish and quirky.", 
+            "date": "May 1, 2015", 
+            "stars": "3", 
+            "author": "Kindred"
+        }, 
+        {
+            "comment": "Once the settings for preferences and then cleaned up, very fast on my home router, so far no glitches,has the android Kit Kat system.", 
+            "date": "June 13, 2015", 
+            "stars": "5", 
+            "author": "Richard Harris"
+        }, 
+        {
+            "comment": "The android runs Very good, sometimes the lag appear but is depend the apps that you have open. Good quality. Always thinking in the price.", 
+            "date": "February 19, 2015", 
+            "stars": "3", 
+            "author": "Jose"
+        }, 
+        {
+            "comment": "Camera doesnt work. Keeps asking to restart camera. Nowadays, taking pictures is one of the main reasons we have smartphones. it's a shame.", 
+            "date": "January 12, 2015", 
+            "stars": "2", 
+            "author": "Silvana Pagliuca"
+        }, 
+        {
+            "comment": "First Smart Phone so nothing to compare it to. Meets expectations. Does everything that more expensive phones do, so what else do you need.", 
+            "date": "January 10, 2015", 
+            "stars": "5", 
+            "author": "Big Lug"
+        }, 
+        {
+            "comment": "Excelent device, meets the expectations you migth have, for a humble and cheaper phone, still great at multitasking and battery performance", 
+            "date": "January 1, 2015", 
+            "stars": "5", 
+            "author": "Andres Hernandez"
+        }, 
+        {
+            "comment": "Was hardcore Samsung and now using S4 until now.From today i am going to switch to motorola.I planning to buu this from long time finally got it I gifted to this my Dad and he was delighted and loved it from the first touch on it.PROS- Price,no one can ever give this kind of piece with this price in this globe- 720p HD screen- Extended memory slot- Faster CPU Quad core Qualcomm- Android 4.4.4- Smooth back to hold(no plastic back but smooth touch rubber kind i think)- 8 MP CAM- FM Radio optionCONS-Little weight-Non removable battery", 
+            "date": "December 12, 2014", 
+            "stars": "5", 
+            "author": "Mahendra"
+        }, 
+        {
+            "comment": "Really great phone for price. I ordered the global gsm and works fine with T-Mobile for those who need to use it in USA and globally. I like the android 5 experience on phone. The phone may get little laggy when you have a lot of ongoing tasks (due to just 1 GB ram) but you can keep on closing unused windows and clear RAM in a timely manner to get good performance. As long as you dont overload the phone with hardware intensive softwares it works great for day to day use on browsing, emails, YouTube, music, and social networking apps. And ya, I enjoy the 5 inch screen on this phone.", 
+            "date": "May 15, 2015", 
+            "stars": "5", 
+            "author": "Rhythm"
+        }, 
+        {
+            "comment": "This is the best value for a phone that I've seen for a long time. I bought this for my dad and he loves the phone to death. The build quality is very fine considering the price, and the increased screen size is very well appreciated. You shouldn't notice a difference between this screen and those Full HD screens on higher end phones. Thanks to Motorola's light skin, the phone doesn't lag one bit. It flies through tasks like a beast. If you are looking for a great smartphone or Android experience and doesn't want to spend too much on it, this is the phone for you.", 
+            "date": "October 22, 2014", 
+            "stars": "5", 
+            "author": "Felix"
+        }, 
+        {
+            "comment": "The moto G improves on what it's predecessor lacked;a micro SD card slot,beautiful 5\" inch display and 8MP camera .Pros-5\" display-front speakers are loud n clear-no network or call drops-8MP camera takes amazing pictures when HDR mode is on-micro SD slot up to 32gbCon'sBattery performance is good but they could have implemented a 2500mah battery instead of 2070mah.watch the detailed review which includes sound,video,gaming,web streaming tests herehttps://www.youtube.com/watch?v=kA9T13UevsA", 
+            "date": "October 27, 2014", 
+            "stars": "5", 
+            "author": "Black Beads"
+        }, 
+        {
+            "comment": "Great. For $180, this phone is outstanding. Incredibly fast and reliable. Comes with 4.4.4 kit Kat. Screen looks gorgeous. (Only 720p but it looks superb.) Speakers sound good. Performance I would say in on par with the s4 or the iPhone 5. 5\" screen, so its decent size but one hand use is still doable. Camera is great! (8mp) front camera is also not too shabby. Comes with LED flash and it works well. Overall. Fantastic device. Would recommend to any teen or really anybody. For how well this device performs, it's pricetag is unbelievable.", 
+            "date": "November 12, 2014", 
+            "stars": "5", 
+            "author": "natertot"
+        }, 
+        {
+            "comment": "so far its sipping the battery which was a major concern with the 2cd generation reviews.. I have only installed a couple things so far, but I think Ill like this for quite some time.. Android on roids! I was still using my G1 which was a great unit..  I am in US and bought the global version.. no worries.. it works fine on ATT network coverage, and I've even read that it works on most of the Sprint network that it was supposed to not cover as well..  I've only had this a few days, so Ill come back if it takes a crap on me", 
+            "date": "October 3, 2014", 
+            "stars": "5", 
+            "author": "Always Right"
+        }, 
+        {
+            "comment": "gave my \"old\" Moto E to my girlfriend and upgraded myself to the Moto G (2nd G). Familiar with the Moto line I think they are one of the best values in their price range. I am using the Moto G now for one month and had no issues at all. Android is running fast enough and the cameras are taking good snapshots as I don't need them to replace my DSRL. Battery keeps up reasonably although I am not a super heavy user who is on his phone all day long. For me, going with another Moto, has been, again, a good decision.", 
+            "date": "July 30, 2015", 
+            "stars": "5", 
+            "author": "Volkhard Neumann"
+        }, 
+        {
+            "comment": "Amazing Phone for the price and moreim Downgrading from Nexus 5 to XT1063 Bcuz it's a phone which worth itCamera Quality is greatphone runs apps very fast and smooth even with games like Clash of clans , boom beachbattery life may is the only problem here , and abt the ram 1gb i didnt needed more even on my old nexus 5no over heatingscreen is big and brilliant very beautiful designsuggested this phone for all of my friends cuz it's really very greatGood Job moto !", 
+            "date": "December 12, 2014", 
+            "stars": "5", 
+            "author": "Bahri"
+        }, 
+        {
+            "comment": "Though I like gadgets, I have strong reservations about spending too much after a phone. So I never ran behind the hypes for iPhone, Galaxy S* etc. But I was always looking for a decent smartphone that serves my purposes.It is not obviously best phone in market but it's genuinely best valued phone, well at least, to me. It meets almost all expectations including the price tag. I can't expect a better phone at this price.I will recommend this to anyone who is looking for a decent smartphone for less than $200.", 
+            "date": "October 4, 2014", 
+            "stars": "5", 
+            "author": "Raju Hossain"
+        }, 
+        {
+            "comment": "I want to like this phone... I really do.  But it's so slow and glitchy.  Apps take a long time to launch, mapping feels almost unusable, the settings for sounds and notifications seem more confusing than most. When I first got it, I liked the screen size and it felt well made. After using it for a few months, I'm just not happy with the performance. It may be my imagination but I think it did work a lot better before the \"upgrade\" to lollipop from kitkat.  Seems a lot slower and clunkier now.", 
+            "date": "May 4, 2015", 
+            "stars": "2", 
+            "author": "CheapDeep"
+        }, 
+        {
+            "comment": "Got phone for my sons.  They love it.  It was not a tough choice between I phone and this.  $400 for unlocked phone or two phones for $300.", 
+            "date": "December 21, 2014", 
+            "stars": "5", 
+            "author": "Lisa Bragg"
+        }, 
+        {
+            "comment": "It worked really well for me.  I didn't have trouble install it.  It adds protection to the phone and it doesn't feel slippery in my hand.", 
+            "date": "July 3, 2015", 
+            "stars": "5", 
+            "author": "GrandmaAl"
+        }, 
+        {
+            "comment": "Love it, excellent price, good quality! Feels and works like much pricier phones. Google play services drain way too much battery, tough.", 
+            "date": "May 11, 2015", 
+            "stars": "5", 
+            "author": "Gonzalo Benites"
+        }, 
+        {
+            "comment": "Definitely the best I ever had. I love it, it is fast, modern, has a big screen to watch videos, and easy to carry. I really recomend it", 
+            "date": "October 15, 2015", 
+            "stars": "5", 
+            "author": "Franciny Fern\u00e1ndez"
+        }, 
+        {
+            "comment": "It is great new phone, my only complaint is it locks up for like 5 seconds randomly. But for the price I guess I cant complain about it.", 
+            "date": "June 3, 2015", 
+            "stars": "4", 
+            "author": "Matthew Stanley"
+        }, 
+        {
+            "comment": "Camera is awesome", 
+            "date": "May 17, 2015", 
+            "stars": "5", 
+            "author": "Bhagyesh Maybhate"
+        }, 
+        {
+            "comment": "excellent product", 
+            "date": "February 9, 2015", 
+            "stars": "5", 
+            "author": "isacri"
+        }, 
+        {
+            "comment": "Muy buen telefono", 
+            "date": "December 15, 2014", 
+            "stars": "5", 
+            "author": "alejandro"
+        }, 
+        {
+            "comment": "Excelente equipo!", 
+            "date": "December 11, 2014", 
+            "stars": "5", 
+            "author": "aristides"
+        }, 
+        {
+            "comment": "worth every penny", 
+            "date": "December 1, 2014", 
+            "stars": "5", 
+            "author": "Luis Reyes"
+        }, 
+        {
+            "comment": "Excelete telefono", 
+            "date": "November 3, 2014", 
+            "stars": "5", 
+            "author": "Carlos Veliz"
+        }, 
+        {
+            "comment": "Every thing is ok", 
+            "date": "October 25, 2014", 
+            "stars": "5", 
+            "author": "Maria Elena Flores Galindez"
+        }, 
+        {
+            "comment": "Good job Motorola", 
+            "date": "October 11, 2014", 
+            "stars": "5", 
+            "author": "NaderKamal"
+        }, 
+        {
+            "comment": "Meet al the expectations, it's just the best price/product relation, it reach te capacities of a much more expensive phone, just great.", 
+            "date": "March 29, 2015", 
+            "stars": "5", 
+            "author": "Alejandro S."
+        }, 
+        {
+            "comment": "The phone doesn't read my SIM card, I tried different ones from different carriers and they did not work, I think I got a broken phone.", 
+            "date": "March 13, 2015", 
+            "stars": "1", 
+            "author": "Carlos Rodriguez"
+        }, 
+        {
+            "comment": "I love this phone, it is just what I wanted, and it just updated to lollipop, the only problem is that I have to charge it twice a day.", 
+            "date": "January 26, 2015", 
+            "stars": "4", 
+            "author": "Gabriel"
+        }, 
+        {
+            "comment": "I am getting lot of issues within a month using this mobile.Battery problem, very slow even though I didn't installed much apps.", 
+            "date": "February 8, 2015", 
+            "stars": "1", 
+            "author": "SELVAM"
+        }, 
+        {
+            "comment": "AFTER ONE WEEK THE PHONE LOCKED AND I WAS UNABLE TO UNLOCK IT.I,VE RETURNDED THE PHONE TO AMAZON  HOPING THAT I WILL RECEIVE A REFUND", 
+            "date": "February 6, 2015", 
+            "stars": "3", 
+            "author": "STUART FRANKS"
+        }, 
+        {
+            "comment": "I bought it in March and it doesn't work properly.  It turns off randomly.  I tried to fast boot and continues doing the same thing.", 
+            "date": "September 24, 2015", 
+            "stars": "1", 
+            "author": "Monica"
+        }, 
+        {
+            "comment": "Best phone ever made its works perfectly and fast, I use it on simple mobile and the calls are really good. Overall a good phone\ud83d\ude0a\ud83d\ude0a", 
+            "date": "May 3, 2015", 
+            "stars": "5", 
+            "author": "Gianluigi"
+        }, 
+        {
+            "comment": "The phone is great. Definitely better than a iPhone. 5 inch HD screen, great camera, stereo speakers, SD card, and android lollipop.", 
+            "date": "May 3, 2015", 
+            "stars": "5", 
+            "author": "Tyran Hardin"
+        }, 
+        {
+            "comment": "Excellent Phone, it is the best Phone you can buy for just 180, but not only the hardware is good also the software is really solt\u00f3.", 
+            "date": "April 16, 2015", 
+            "stars": "5", 
+            "author": "Humilde servidor"
+        }, 
+        {
+            "comment": "A really good Unlocked smart phone at a good price, I use un-limited Talk, Message and Data using Straight Talk's $45 a month card.", 
+            "date": "August 31, 2015", 
+            "stars": "5", 
+            "author": "LJ"
+        }, 
+        {
+            "comment": "This is the best Phone in the middle class. Best performance with the best price!. You dont need a flag ship to have a good phone.", 
+            "date": "June 1, 2015", 
+            "stars": "5", 
+            "author": "WIch"
+        }, 
+        {
+            "comment": "Its the best phone i bought and ever owned, can't complain about the performance and quality. Only wished it came with a earphone.", 
+            "date": "January 10, 2015", 
+            "stars": "5", 
+            "author": "Paul"
+        }, 
+        {
+            "comment": "Not a bad phone, especially for the price.  My only complaint is that it takes a blessing from Motorola to unlock the boot loader.", 
+            "date": "December 28, 2014", 
+            "stars": "4", 
+            "author": "Nick N."
+        }, 
+        {
+            "comment": "I am very pleased with the phone. I am very pleased with the quick delivery and good service. Thank you very much for a good job.", 
+            "date": "January 10, 2015", 
+            "stars": "5", 
+            "author": "roninjax"
+        }, 
+        {
+            "comment": "Why spend $700 for a phone when this one looks and performs just as well. Front stereo speakers, great screen and fast processor.", 
+            "date": "December 21, 2014", 
+            "stars": "5", 
+            "author": "Jim Ferrell"
+        }, 
+        {
+            "comment": "Bought it for my son. Good price. So far no complaints from him. I put a microSD card I had in it to give it more storage space.", 
+            "date": "May 27, 2015", 
+            "stars": "5", 
+            "author": "Dw"
+        }, 
+        {
+            "comment": "The team arrived in good time and well packaged , however it presents manufactures fault with fontal horn which sounds damaged .", 
+            "date": "April 14, 2015", 
+            "stars": "2", 
+            "author": "gabriel carmona"
+        }, 
+        {
+            "comment": "Love this phone. It is easy to use and fast enough for me! I highly recommend this phone. You can't beat the price, great value!", 
+            "date": "February 13, 2015", 
+            "stars": "5", 
+            "author": "Barbara Darco"
+        }, 
+        {
+            "comment": "I like the phone. The size is perfect, the graphics are amazing, screen is crystal clear, and the response is fast and flawless.", 
+            "date": "February 6, 2015", 
+            "stars": "4", 
+            "author": "Benjie"
+        }, 
+        {
+            "comment": "Met expectations", 
+            "date": "December 16, 2014", 
+            "stars": "4", 
+            "author": "Mike"
+        }, 
+        {
+            "comment": "I really like it", 
+            "date": "December 15, 2014", 
+            "stars": "5", 
+            "author": "fm3137"
+        }, 
+        {
+            "comment": "Everything ok !!", 
+            "date": "December 4, 2014", 
+            "stars": "5", 
+            "author": "Patricia Demczylo"
+        }, 
+        {
+            "comment": "love this phone!", 
+            "date": "December 1, 2014", 
+            "stars": "5", 
+            "author": "Fabio Ruiz"
+        }, 
+        {
+            "comment": "Very good Phone!", 
+            "date": "November 26, 2014", 
+            "stars": "5", 
+            "author": "Eddie Acevedo"
+        }, 
+        {
+            "comment": "Super device!!!!", 
+            "date": "November 3, 2014", 
+            "stars": "5", 
+            "author": "Serg"
+        }, 
+        {
+            "comment": "I have enjoyed this phone from the moment I received it. It is a perfect size and is easy to use...great product for the price!", 
+            "date": "May 27, 2015", 
+            "stars": "5", 
+            "author": "Robin Stratton"
+        }, 
+        {
+            "comment": "Best phone i have ever had, although i don't have a lot to compare it to. The phone takes great pictures and looks really cool.", 
+            "date": "January 20, 2015", 
+            "stars": "5", 
+            "author": "julio"
+        }, 
+        {
+            "comment": "Sim card doesn't gets detected. Not satisfied with the mobile. I bought it for a present and feel very bad buying this product.", 
+            "date": "January 2, 2015", 
+            "stars": "1", 
+            "author": "Arunsankar"
+        }, 
+        {
+            "comment": "Definitely the best value for the money smart phone I have purchased. I wish it came default with 16gb internal, but the good news is it takes larger cards than the 32gb cards the description lists as maximum size. I have a 64gb card in it now, which is the largest size I had, and after formating it in phone, it took it with no problems. It is limited a little by the 1gb ram as well, but not extensively. Biggest thing I see is the \"desktop\" page redraws. Every once in a while, the touch screen is glitchy, but more an annoyance than anything serious. I would recommend to anyone wanting an off contract US or International phone. I got an international version for use in Africa.", 
+            "date": "June 16, 2015", 
+            "stars": "4", 
+            "author": "J. Glick"
+        }, 
+        {
+            "comment": "Nice phone! Great screen,acceptable camera's and very smooth performance. It also works fine here in Trinidad on TSTT network.", 
+            "date": "July 13, 2015", 
+            "stars": "4", 
+            "author": "Amar"
+        }, 
+        {
+            "comment": "Unexpected quality at this price. I bought this phone to be used overseas, and no problem whatsoever.Highly recommended.", 
+            "date": "January 10, 2015", 
+            "stars": "5", 
+            "author": "Amazon Customer"
+        }, 
+        {
+            "comment": "This smartphone is amazing and fantastic price, I bought two for gifts at Christmas and are the best.I recommend it 100%", 
+            "date": "January 10, 2015", 
+            "stars": "5", 
+            "author": "Byron Varela PTY 26967"
+        }, 
+        {
+            "comment": "Great product. Very little to no bloatware. Unfortunately the screen died on me within a month. My sister loves her's though.", 
+            "date": "May 17, 2015", 
+            "stars": "5", 
+            "author": "A.D."
+        }, 
+        {
+            "comment": "Remarkable phone. Its body is a masterpiece and its feature are so complete for the price. It's a nice phone and a great buy.", 
+            "date": "December 17, 2014", 
+            "stars": "5", 
+            "author": "Goku"
+        }, 
+        {
+            "comment": "Took it to Canada, working great up here. Good sturdy phone. Suits my needs perfectly! Been using it now for about 3 months.", 
+            "date": "September 13, 2015", 
+            "stars": "5", 
+            "author": "Dean"
+        }, 
+        {
+            "comment": "Great phone and no contract needed! The screen looks clear and the processor has enough power for most daily android tasks.", 
+            "date": "May 3, 2015", 
+            "stars": "4", 
+            "author": "Daniel L."
+        }, 
+        {
+            "comment": "Everything works fine, the product is just as described, the delivery as expected and it works with my Venezuelan sim card.", 
+            "date": "May 2, 2015", 
+            "stars": "4", 
+            "author": "Laura Rivas"
+        }, 
+        {
+            "comment": "You cannot buy an equivalent product for the price.  We did not need higher speed for our usage so this unit fit the bill.", 
+            "date": "May 14, 2015", 
+            "stars": "5", 
+            "author": "Calvin E Reames"
+        }, 
+        {
+            "comment": "I ordered this phone as a replacement for my older smart phone and am very pleased with its performance and functionality.", 
+            "date": "May 9, 2015", 
+            "stars": "5", 
+            "author": "R. S. Kunter"
+        }, 
+        {
+            "comment": "one of the best Phone i buyed in my life, work for the price, srsly you dont need buy a s3 galaxy or other hig cost phone!", 
+            "date": "February 9, 2015", 
+            "stars": "5", 
+            "author": "Angel Padron"
+        }, 
+        {
+            "comment": "I got this phone for my mom and since she isn't too much into tech stuff she likes it for it's simplicity and reliability.", 
+            "date": "February 6, 2015", 
+            "stars": "5", 
+            "author": "robert"
+        }, 
+        {
+            "comment": "Most bang for the buck! Less bloatware, adequate battery life and easy to use for $$ less than comparable unlocked phones.", 
+            "date": "January 20, 2015", 
+            "stars": "5", 
+            "author": "Devil Doc"
+        }, 
+        {
+            "comment": "Very good Android smart phone with an affordable price tag.  It works very well, no problem so far after one month of use.", 
+            "date": "January 12, 2015", 
+            "stars": "5", 
+            "author": "QDT"
+        }, 
+        {
+            "comment": "It has meet all my expectation.It a great phone and I'm convincing all my friends to switch from Samsung to Moto G !", 
+            "date": "January 10, 2015", 
+            "stars": "5", 
+            "author": "Pablo"
+        }, 
+        {
+            "comment": "Made the  switch from Apple to Android. Phone works fine. The OS is somewhat of a learning curve. After a while things are coming together. I like the larger screen. The speakers are great. They are much better than let's say a small transistor radio. I had a iPhone 4s and those speakers were adequate. I like the camera app that comes with the phone. I would do it again. The battery takes somewhat longer to recharge. It seems to last longer than my 4S did. The price was great. I bought it from amazon warehouse. These are returns and open box items. Saved close to $30. I would have a hard time going back to a top of the line phone when this does all I need.", 
+            "date": "April 29, 2015", 
+            "stars": "4", 
+            "author": "Paul Rubsam"
+        }, 
+        {
+            "comment": "Handed it over to my wife since I finally got my Nexus 6 and she loves it just as much as I did. Best bang for your bucks", 
+            "date": "February 20, 2015", 
+            "stars": "5", 
+            "author": "Dayton Harrison"
+        }, 
+        {
+            "comment": "for the price you can't beat it since last June I've purchased 7moto g 1st gen and 2 us gsm 2nd gen as gifts no problemas", 
+            "date": "January 19, 2015", 
+            "stars": "5", 
+            "author": "john"
+        }, 
+        {
+            "comment": "Greattt phone!!", 
+            "date": "October 28, 2014", 
+            "stars": "5", 
+            "author": "Oliver S"
+        }, 
+        {
+            "comment": "Bought it for my son. It works great for all features. Except texting screen is so simple but not colorful like Samsung.", 
+            "date": "June 2, 2015", 
+            "stars": "5", 
+            "author": "bruce trinh"
+        }, 
+        {
+            "comment": "Excellent!  it work perfectly in Argentina and its and its a great phone at a really cheap price, I totally recomend it.", 
+            "date": "February 5, 2015", 
+            "stars": "5", 
+            "author": "jose manuel del campo"
+        }, 
+        {
+            "comment": "I love this phone. I've had no issues with it so far. Very fast and feels good in my hands. Speakers are loud and clear.", 
+            "date": "February 3, 2015", 
+            "stars": "5", 
+            "author": "mike b"
+        }, 
+        {
+            "comment": "Good phone : +4stars. Dead after a month: -3stars. Out of stock so bought another from local store. Crossing my fingers.", 
+            "date": "January 16, 2015", 
+            "stars": "1", 
+            "author": "nel tresnueveuno"
+        }, 
+        {
+            "comment": "Really good phone for a really good price. It works well and it's unlocked which makes it really good to travel abroad.", 
+            "date": "June 30, 2015", 
+            "stars": "4", 
+            "author": "AndresR"
+        }, 
+        {
+            "comment": "Really great phone! Cheap smart phone and the best out there! (In my opinion) when you update to Lollipop, even better!", 
+            "date": "June 11, 2015", 
+            "stars": "5", 
+            "author": "Diva"
+        }, 
+        {
+            "comment": "Having issues using this phone with straight talk. The phone has started getting pretty laggy with only a month of use.", 
+            "date": "March 26, 2015", 
+            "stars": "3", 
+            "author": "Lily b"
+        }, 
+        {
+            "comment": "great phone, great price, the screen is very good, it runs smooth and the camera is ok, its works pefectly in venezuela", 
+            "date": "January 22, 2015", 
+            "stars": "5", 
+            "author": "Gabriel Uzcategui"
+        }, 
+        {
+            "comment": "Really nice phone, which is quite good in the medium range spenders. This phone is definitely worth more than its cost.", 
+            "date": "January 11, 2015", 
+            "stars": "4", 
+            "author": "EJ"
+        }, 
+        {
+            "comment": "I was a bit bummed out to find out its a canadian version..  It still hasnt even received the android 5.0 lollipop.. \ud83d\ude15", 
+            "date": "January 10, 2015", 
+            "stars": "3", 
+            "author": "Adrian Genao"
+        }, 
+        {
+            "comment": "The Moto G is indeed great value for the money and is almost of equal standard to the much more expensive major brands.", 
+            "date": "December 20, 2014", 
+            "stars": "4", 
+            "author": "James Conlon"
+        }, 
+        {
+            "comment": "You can't beat this device for the price. I have this and an iPhone 5s and I prefer using this for media and websites.", 
+            "date": "April 11, 2015", 
+            "stars": "5", 
+            "author": "Victor Chelaru"
+        }, 
+        {
+            "comment": "I bought this phone as a Christmas present for my wife and I ended liking so much that I got another one for myself!!!", 
+            "date": "January 10, 2015", 
+            "stars": "5", 
+            "author": "Ivan Alejandro Almonte"
+        }, 
+        {
+            "comment": "Motorola advises you need a \"streaming media player\"  like Comcast to play moto g recorded videos on your TV.", 
+            "date": "August 7, 2015", 
+            "stars": "5", 
+            "author": "Sherwod Smith"
+        }, 
+        {
+            "comment": "Very dissatisfied!It does not work with WindMobile Canada!!!Eventhough it has the required bands (according to the description), and it is supposed to work. it cannot identify wind network in Canada.Wind is an AWS and requires 1700, and 2100 MHz.. But this phone still doesn't work..Here is what the description says it has:Bands (by model) US GSM Model: GSM/GPRS/EDGE (850, 900, 1800, 1900 MHz) UMTS/HSPA+ (850, 1700 (AWS), 1900 MHz) Global GSM Model: GSM/GPRS/EDGE (850, 900, 1800, 1900 MHz) UMTS/HSPA+ (850, 900, 1900, 2100 MHz)Someone should do something! such a waste of money!", 
+            "date": "January 12, 2015", 
+            "stars": "1", 
+            "author": "Gex"
+        }, 
+        {
+            "comment": "This phone is amazing, I congratulate Motorola for the design and performance of this product. I recommend it widely", 
+            "date": "February 9, 2015", 
+            "stars": "5", 
+            "author": "David T."
+        }, 
+        {
+            "comment": "Best phone on the market in this price range, and with the pure Google Android experience: unlocked and no crapware.", 
+            "date": "February 9, 2015", 
+            "stars": "5", 
+            "author": "Richard"
+        }, 
+        {
+            "comment": "It's soooooooo slow, it crashes constantly, and is almost unusable. Lollipop is a joke for this thing. DONT UPDATE!", 
+            "date": "February 28, 2015", 
+            "stars": "3", 
+            "author": "Jason K."
+        }, 
+        {
+            "comment": "It is an excelent smartphone. Here in Venezuela works in all bands.. Digitel, Movistar y Movilnet. Recomendado 100%", 
+            "date": "January 28, 2015", 
+            "stars": "5", 
+            "author": "Lenin Leonett"
+        }, 
+        {
+            "comment": "Until now, I had been cell phone free since 2006, so I don't have any experience with other current cell phone models and therefore I am unable to compare this phone to others on the market. What I can say is that this phone has been great for me and I have not had any problems with it.Since it currently runs the most recent version of Android (5.0 Lollipop) it has been compatible with every app I have thrown at it and does so with ease.The only complaint that I have with this phone is the average quality of the built-in camera. However that is to be expected with any sub-$200 smart phone.", 
+            "date": "December 16, 2014", 
+            "stars": "5", 
+            "author": "Clint B."
+        }, 
+        {
+            "comment": "This phone is slow, slow, SLOW. I guess this is what I deserve for ordering such a cheap phone. Very disappointed.", 
+            "date": "October 9, 2015", 
+            "stars": "1", 
+            "author": "Lloyd C."
+        }, 
+        {
+            "comment": "The only negative thing - lock and volume buttons. On 1st gen moto g they are better. But this phone is very nice!", 
+            "date": "April 11, 2015", 
+            "stars": "4", 
+            "author": "Yury Aliluyeu"
+        }, 
+        {
+            "comment": "Excellent! Exactly what I had hoped for and more. Shipped fast. Not too much bloatware. The way android should be.", 
+            "date": "February 28, 2015", 
+            "stars": "5", 
+            "author": "Pen Name"
+        }, 
+        {
+            "comment": "The phone has fast down loads and good resolution. Plenty of apps to use. Great value in return for a great phone.", 
+            "date": "December 29, 2014", 
+            "stars": "5", 
+            "author": "Frank Notarianni Jr"
+        }, 
+        {
+            "comment": "Great device for the price, I bought this phone for my daughter for Christmas and she loved it. so yea....5 stars!", 
+            "date": "December 26, 2014", 
+            "stars": "5", 
+            "author": "BearsFan#1"
+        }, 
+        {
+            "comment": "Wouldn't turn back on after 4 months of use. I'd expect something like that from Blu cel phones but not Motorola.", 
+            "date": "July 23, 2015", 
+            "stars": "2", 
+            "author": "Lino Ayala"
+        }, 
+        {
+            "comment": "Excellent overall phone. Reliable OS, decent battery life and good camera. Excellent product in this price range.", 
+            "date": "June 5, 2015", 
+            "stars": "5", 
+            "author": "Neville"
+        }, 
+        {
+            "comment": "The phone seems good, great sized screen, battery last a long time.. it really seems like an overall great phone.... HOWEVER... just two days after getting it fell on the floor as I was opening the door of my house.. the screen is now completely craked now wich is very disappointing to say the least,  .. my previous Samsung Galaxy s3 mini accidentally fell on the floor numerous times and was way more resistant.So now I have to either put on a new screen  on this new cell phone or forget about the purchase and go to my old one. So be extra careful holding it or buy a really good case with it.", 
+            "date": "January 5, 2015", 
+            "stars": "3", 
+            "author": "Gonzalo Suarez"
+        }, 
+        {
+            "comment": "awesome device", 
+            "date": "December 15, 2014", 
+            "stars": "5", 
+            "author": "Amazon Customer"
+        }, 
+        {
+            "comment": "Awesome phone!", 
+            "date": "December 11, 2014", 
+            "stars": "5", 
+            "author": "Carmen"
+        }, 
+        {
+            "comment": "As advertised.", 
+            "date": "November 29, 2014", 
+            "stars": "5", 
+            "author": "Joe Sz."
+        }, 
+        {
+            "comment": "Like the phone", 
+            "date": "October 24, 2014", 
+            "stars": "5", 
+            "author": "Duane M."
+        }, 
+        {
+            "comment": "The mobil phone good for our son. The only problem is, that the glas of the display get a crack after some days.", 
+            "date": "September 2, 2015", 
+            "stars": "4", 
+            "author": "Katharina Brandtner"
+        }, 
+        {
+            "comment": "Excellent. Although at first package delivery was lost in the second chance I received the product as expected .", 
+            "date": "April 6, 2015", 
+            "stars": "5", 
+            "author": "Martin"
+        }, 
+        {
+            "comment": "Great phone, stock Android, Lollipop update, decent camera, only hspa+ but its plenty fast for YouTube and such.", 
+            "date": "April 1, 2015", 
+            "stars": "4", 
+            "author": "Christian A. Keesee"
+        }, 
+        {
+            "comment": "AWESOME PHONE! They just need to put a better battery and more RAM and there you got the perfect budget phone ;)", 
+            "date": "February 5, 2015", 
+            "stars": "5", 
+            "author": "David"
+        }, 
+        {
+            "comment": "I'm very happy with this Moto G 2nd Gen phone. My wife has an IPhone 5 unlocked and she is very jealous of mine.", 
+            "date": "January 11, 2015", 
+            "stars": "5", 
+            "author": "Zino"
+        }, 
+        {
+            "comment": "My wife likes the phone. It is fast enough so that she doesn't have to feel any lag and it is quite responsive.", 
+            "date": "October 1, 2015", 
+            "stars": "5", 
+            "author": "ZanAC"
+        }, 
+        {
+            "comment": "Excellent phone. Has two front speakers, they don't sound very loud, but they sound right and not over powered.", 
+            "date": "September 18, 2015", 
+            "stars": "5", 
+            "author": "Manuel Thevenin"
+        }, 
+        {
+            "comment": "The constant main screen re-draws, only running 1 app at a time without rebooting every other one, and slow everything were bad enough.Now if I do ANYthing at all, it locks up and needs to be rebooted. No, there isn't too much on it. No, nothing weird was downloaded. There's no excuse for the phone. It's just garbage.This is after 2 months. I didn't save the receipt (bought in a store, not Amazon), but I'll be attempting to return this thing this weekend. Miserable experience.", 
+            "date": "June 25, 2015", 
+            "stars": "1", 
+            "author": "Justin"
+        }, 
+        {
+            "comment": "I ordered this phone in March... I didn't activate until a month later in April. It stopped working in June. I hadn't dropped it or damaged it in any way My first gen moto g was subjected to harsher treatments and survived. If you Google moto g2 won't boot you will see this isn't uncommon. When I contacted Motorola their options were less than appealing to me so I opted to get a new phone from a different company. I'm terribly disappointed in Motorola and they have lost one loyal customer.", 
+            "date": "August 8, 2015", 
+            "stars": "1", 
+            "author": "Amazon Customer"
+        }, 
+        {
+            "comment": "Its worth for the money that we pay. its good for someone wanted to experience lolipop and a big screen phone. but if anyone is thinking of doing a multitasking and gaming, please dont buy this phone, you will be disappointed. but worth for every single penny. it value more than the money that we pay. thats for sure. that being said, basic user should also go for this phone like streaming youtube, calls, skype, texting, etc. And one more thing, camera is very poor.", 
+            "date": "March 3, 2015", 
+            "stars": "3", 
+            "author": "Arun"
+        }, 
+        {
+            "comment": "The Moto G is nice phone when it works.  But do not expect Motorola to stand behind their claimed warranty.  On our phone the charging port quit working after 9 months.  We shipped it to Motorola per their instructions.  A month later they have still not repaired or replaced the phone, even after repeatedly contacting them.  Do a search and you will see many others that are having the same frustration with Motorola warranty problems.", 
+            "date": "August 29, 2015", 
+            "stars": "1", 
+            "author": "bookbuckeye"
+        }, 
+        {
+            "comment": "Amazing phone, big display with resolution good enough that you cant identify any pixels. I was surprised with the camera, it is just awesome. And for people who said the stereo speaker quality isnt good, Its just amazing and super loud. The phones built quality is too good , comes with an sd card slot to and the back material is awesome.171$ its the best smartfon available with stock android like skin.", 
+            "date": "July 23, 2015", 
+            "stars": "5", 
+            "author": "shalene vadlamani"
+        }, 
+        {
+            "comment": "I'm very satisfied with the acquisition that I made. At first it was too big but now I can't  keep my hands off it: you can watch movies, browse the internet without a problem. The screen is very good, a 1080p would've been better but in this price range is perfect.I'm using the global version in Romania and everything works fine: the call quality is clear, the internet speed through  3g is pretty fast.", 
+            "date": "October 14, 2014", 
+            "stars": "4", 
+            "author": "SILVIU S."
+        }, 
+        {
+            "comment": "Couldn't ask for a better phone at this price range,I saw quite a few people complain about the battery life but let me tell you the battery life is just amazing,I got nearly 2 day's on 1 charge which is fantastic however you look at it.The phone is solid and there's absolutely no bloatware which in itself is impressive,not much more I can say but top drawer phone at low level price,well done motorola.", 
+            "date": "December 17, 2014", 
+            "stars": "5", 
+            "author": "bigyouth29"
+        }, 
+        {
+            "comment": "Phone is unbelievably slow!  If all you're looking for is a phone to call and text with, then this phone is okay. If you plan on downloading any apps, look elsewhere, it can't handle more than a few apps open at a time. Tried using google maps for directions and it crashes.  The speaker volume is terrible for having two front facing speakers, and my bluetooth won't connect to anything!", 
+            "date": "June 22, 2015", 
+            "stars": "1", 
+            "author": "Douglas Clark"
+        }, 
+        {
+            "comment": "Very impressed with this phone! Love the way it is feels in my hand.I love stock droid. And I bought this phone for my mom, she used to have MotoG 1st generation ( which is good budget phone), now I bought her this one and I am very happy with it. I also very glad that Moto added more system languages, which is the primary reason I switched my mom from 1st gen to 2nd gen.", 
+            "date": "December 6, 2014", 
+            "stars": "5", 
+            "author": "Elizabeth"
+        }, 
+        {
+            "comment": "I love this phone. I bought it on Wednesday and received it on Friday (Amazon Prime Member). The phone is exactly what I expected and even came partially charged so I was able to begin using the phone immediately after switching my SIM card from my Windows phone (I will forever be an Android girl). I downloaded a few apps and had access to my pictures, emails, etc. Great phone.", 
+            "date": "December 6, 2014", 
+            "stars": "5", 
+            "author": "Carmen B"
+        }, 
+        {
+            "comment": "Very good phone , the trouble is that the charger does not last even one year of use and the cables are damaged", 
+            "date": "August 28, 2015", 
+            "stars": "3", 
+            "author": "Eduardo L."
+        }, 
+        {
+            "comment": "Got it for a friend, she is very happy and day-to-day this device provides an experience like a flagship model.", 
+            "date": "August 1, 2015", 
+            "stars": "5", 
+            "author": "R. Quesada"
+        }, 
+        {
+            "comment": "Amazing phone for the price.  I am surprised at how awesome this phone is, definitely exceeded my expectations.", 
+            "date": "March 20, 2015", 
+            "stars": "5", 
+            "author": "Jose Sandoval"
+        }, 
+        {
+            "comment": "The one I bought was damaged, had to return it, but phisicly it looks sleek, light weight and very wide screen.", 
+            "date": "February 16, 2015", 
+            "stars": "3", 
+            "author": "Fidel"
+        }, 
+        {
+            "comment": "I bought this for my girlfriend and she loves it! The size of the phone and the processing power is just great.", 
+            "date": "February 12, 2015", 
+            "stars": "5", 
+            "author": "Manuel Melgar"
+        }, 
+        {
+            "comment": "My daughter loves it!  Nice screen size and after 1 month she thinks its faster with apps than her old Samsung.", 
+            "date": "January 22, 2015", 
+            "stars": "5", 
+            "author": "Troy"
+        }, 
+        {
+            "comment": "The phone received in excellent condition on time and very good over all performance till date . No complains.", 
+            "date": "June 4, 2015", 
+            "stars": "5", 
+            "author": "Gan M."
+        }, 
+        {
+            "comment": "It's a good update to the previous version. The phone arrived as planned and the two day shipping was awesome!", 
+            "date": "May 12, 2015", 
+            "stars": "5", 
+            "author": "Danko"
+        }, 
+        {
+            "comment": "The best mid-range smartphone ever.With a detail with the charger, but Amazon could solve it. 5/5.", 
+            "date": "February 8, 2015", 
+            "stars": "5", 
+            "author": "Aru"
+        }, 
+        {
+            "comment": "I love this moto g, and battery, finally I have a trusty battery, don't let me alone at the end of the day...", 
+            "date": "May 11, 2015", 
+            "stars": "5", 
+            "author": "MARCO ANTONIO MARQUEZ"
+        }, 
+        {
+            "comment": "Excellent phone, excellent price, excellent seller. The only letdown was the poor battery time of the phone.", 
+            "date": "March 26, 2015", 
+            "stars": "5", 
+            "author": "ASDJ"
+        }, 
+        {
+            "comment": "Great phone. Looks amazingly new. Best seller. Will buy again and again. Does not come with original charger.", 
+            "date": "March 26, 2015", 
+            "stars": "5", 
+            "author": "Adeel Qureshi"
+        }, 
+        {
+            "comment": "This was purchased for my preteen.  Has all the necessary features and uses  without the big ticket pricing.", 
+            "date": "March 13, 2015", 
+            "stars": "5", 
+            "author": "D. Sargeant-James"
+        }, 
+        {
+            "comment": "my son had moto x but phone was stolen had phone replaced with moto g and he says its better than his moto x", 
+            "date": "February 2, 2015", 
+            "stars": "5", 
+            "author": "Simone C."
+        }, 
+        {
+            "comment": "Best buy i've done in the last 5 years.  Totally recommended. Fast, nice, good screen and over all reliable.", 
+            "date": "January 6, 2015", 
+            "stars": "5", 
+            "author": "eltopochofeliz"
+        }, 
+        {
+            "comment": "This smartphone is the best choice if you dont want to spend a lot of money! is the best cell phone midrange", 
+            "date": "January 1, 2015", 
+            "stars": "5", 
+            "author": "Gustavo De Longo"
+        }, 
+        {
+            "comment": "So far it has met my expectations ! I like the fact that is unlocked. So I can change providers if need be.", 
+            "date": "January 10, 2015", 
+            "stars": "4", 
+            "author": "Stephen Wolfe"
+        }, 
+        {
+            "comment": "It is a very good , it is accidentally see to find it, it is  very practical to used, and also interesting", 
+            "date": "June 21, 2015", 
+            "stars": "5", 
+            "author": "Adalberto\tLiana"
+        }, 
+        {
+            "comment": "Good seller. Definitely recommend. Charger was not same brand as phone, but that doesn't bother me at all.", 
+            "date": "March 11, 2015", 
+            "stars": "5", 
+            "author": "Kevin Ummel"
+        }, 
+        {
+            "comment": "Great phone, with amazing speed! The screen looks really nice and the water resistant screen is very good.", 
+            "date": "February 12, 2015", 
+            "stars": "5", 
+            "author": "far96"
+        }, 
+        {
+            "comment": "This is now my favorite phone! It has everything I wanted in an Android phone, plus its reasonably priced.", 
+            "date": "January 10, 2015", 
+            "stars": "5", 
+            "author": "Mark A."
+        }, 
+        {
+            "comment": "This is my first love. How can such a cheap devise do so much! Kikkat, android 4.4!!! Motorola is amazing!", 
+            "date": "January 1, 2015", 
+            "stars": "5", 
+            "author": "Timothy Holm"
+        }, 
+        {
+            "comment": "Bought this phone in Sept 2014 and now suddenly has gone completely dead.  Won't charge!  Disappointed!!!", 
+            "date": "April 15, 2015", 
+            "stars": "2", 
+            "author": "Upset"
+        }, 
+        {
+            "comment": "Buen Producto", 
+            "date": "December 16, 2014", 
+            "stars": "5", 
+            "author": "Adelso Troconis"
+        }, 
+        {
+            "comment": "I love it :')", 
+            "date": "December 5, 2014", 
+            "stars": "5", 
+            "author": "Laurie Urena"
+        }, 
+        {
+            "comment": "Super like!!!", 
+            "date": "October 30, 2014", 
+            "stars": "5", 
+            "author": "Subrata Saha"
+        }, 
+        {
+            "comment": "good choice!!", 
+            "date": "October 22, 2014", 
+            "stars": "5", 
+            "author": "Scott"
+        }, 
+        {
+            "comment": "Awesome phone", 
+            "date": "October 16, 2014", 
+            "stars": "5", 
+            "author": "Kevin Berger"
+        }, 
+        {
+            "comment": "Great product", 
+            "date": "October 9, 2014", 
+            "stars": "5", 
+            "author": "D. Lacoste Perozo Luis"
+        }, 
+        {
+            "comment": "I love it! Meets my needs and is simple to master. Would recommend it to anyone needing a quality phone.", 
+            "date": "June 29, 2015", 
+            "stars": "5", 
+            "author": "Faith Muchubi"
+        }, 
+        {
+            "comment": "For the price, this is a great phone. I bought this as a gift and have heard nothing negative about it.", 
+            "date": "June 11, 2015", 
+            "stars": "5", 
+            "author": "Catmando007"
+        }, 
+        {
+            "comment": "Great phone, ridiculous price. Battery runs out a little faster than I would like, but totally worth it", 
+            "date": "May 14, 2015", 
+            "stars": "5", 
+            "author": "D. Q. V"
+        }, 
+        {
+            "comment": "Good low price high spec phone, next step up would be the Nexus 5 for me in terms of price=preformance.", 
+            "date": "April 20, 2015", 
+            "stars": "5", 
+            "author": "Johnathon"
+        }, 
+        {
+            "comment": "It's a nice device for this price, but i think the first generation was builded using better materials.", 
+            "date": "February 22, 2015", 
+            "stars": "4", 
+            "author": "Brailer Cuevas"
+        }, 
+        {
+            "comment": "Overall ok phone, but the battery is really not good. It barely last 12 hours if I am barely calling...", 
+            "date": "January 7, 2015", 
+            "stars": "3", 
+            "author": "Andrea Candelli"
+        }, 
+        {
+            "comment": "I bought this phone as a gift..Looks great, decent size, works perfect,The price is awesome", 
+            "date": "December 30, 2014", 
+            "stars": "5", 
+            "author": "Vanessa M."
+        }, 
+        {
+            "comment": "It is a nice phone. I had to return it because my carrier said they couldn't supply a SIM card for it.", 
+            "date": "June 30, 2015", 
+            "stars": "5", 
+            "author": "Mary Reed"
+        }, 
+        {
+            "comment": "Skullcandy headphones don't work on it, so I had to get cheaper, lower quality earbuds for it to work.", 
+            "date": "January 1, 2015", 
+            "stars": "3", 
+            "author": "Garon Fok"
+        }, 
+        {
+            "comment": "i have problem whit this phone because this phone is locked for a red and i cant use, you can help me", 
+            "date": "August 11, 2015", 
+            "stars": "2", 
+            "author": "Ivan Tochon"
+        }, 
+        {
+            "comment": "My wife uses this phone and loves it.  Used it for several months now on T-Mobile and it works great.", 
+            "date": "May 22, 2015", 
+            "stars": "5", 
+            "author": "Ryan"
+        }, 
+        {
+            "comment": "Love this phone!! It's really easy to use and comfortable, pretty nice for the price. Love all of it!", 
+            "date": "March 10, 2015", 
+            "stars": "5", 
+            "author": "Jaqueline Gavotti"
+        }, 
+        {
+            "comment": "Quite impressive for the budget. Got everything that android provides. Wish higher GB and LTE models.", 
+            "date": "December 28, 2014", 
+            "stars": "4", 
+            "author": "Rajasekhar Allu"
+        }, 
+        {
+            "comment": "I love this phone, it's pretty awesome! It was delivered in perfect condition, everything went well.", 
+            "date": "March 13, 2015", 
+            "stars": "5", 
+            "author": "Christine Palmer"
+        }, 
+        {
+            "comment": "Very good all, the product Motorola Moto G 2014 it`s fine, the free shipping is excellent and speed!", 
+            "date": "February 23, 2015", 
+            "stars": "5", 
+            "author": "David Aguirre"
+        }, 
+        {
+            "comment": "Great phone. Has micro sandisk to put music  photos videos on. I have Cricket and  overage is great.", 
+            "date": "January 22, 2015", 
+            "stars": "5", 
+            "author": "Gary Vincent O'Malley"
+        }, 
+        {
+            "comment": "This is my phone.....  Haas been a good pal and will soon be upgrading to the 2015 version with LTE", 
+            "date": "August 20, 2015", 
+            "stars": "5", 
+            "author": "Gary A. Lee"
+        }, 
+        {
+            "comment": "Excellent! Good price for this product, the only disadvantage I see is the battery isn't removable.", 
+            "date": "July 6, 2015", 
+            "stars": "4", 
+            "author": "Pablo Lopez de Calle"
+        }, 
+        {
+            "comment": "I liked the smaller size of the E. Basically it works great. It seems the screen flickers. My eyes?", 
+            "date": "May 25, 2015", 
+            "stars": "4", 
+            "author": "David B. Riggs"
+        }, 
+        {
+            "comment": "After 4 months a fully charged battery lasts 4 hours and I am not running a lot of background apps.", 
+            "date": "May 18, 2015", 
+            "stars": "1", 
+            "author": "J. Adams"
+        }, 
+        {
+            "comment": "Very useful, cheap, and with the new Andriod O.S. update (lollipop 5.0.2) is the best phone to use.", 
+            "date": "January 25, 2015", 
+            "stars": "5", 
+            "author": "Jose"
+        }, 
+        {
+            "comment": "This is a well built, all around really nice phone, which is hard to beat in value for your dollar.", 
+            "date": "January 23, 2015", 
+            "stars": "5", 
+            "author": "Sjeng"
+        }, 
+        {
+            "comment": "finally ... i got robbed so i need a new cellphone i hope no to get robbed again ... #LivingTheLife", 
+            "date": "January 22, 2015", 
+            "stars": "5", 
+            "author": "Hector"
+        }, 
+        {
+            "comment": "This is probably the most intuitive phone I've ever owned.  Excellent product and reasonably priced", 
+            "date": "January 6, 2015", 
+            "stars": "5", 
+            "author": "C. Dan"
+        }, 
+        {
+            "comment": "Great phone at a great price. HSPA+ on AT&T which gives good speed for normal use, don't need LTE.", 
+            "date": "March 3, 2015", 
+            "stars": "5", 
+            "author": "K. Lai"
+        }, 
+        {
+            "comment": "This isn't a very expensive phone, but it is really really good. I got a lot more than I expected.", 
+            "date": "January 4, 2015", 
+            "stars": "5", 
+            "author": "Ahmed"
+        }, 
+        {
+            "comment": "Great phone but the top speaker start giving problems, when making calls. But otherwise I love it.", 
+            "date": "December 28, 2014", 
+            "stars": "4", 
+            "author": "Brad Franklyn"
+        }, 
+        {
+            "comment": "1st class experience for such a cheap phone! I give it 5 stars from Venezuela. Well done Motorola.", 
+            "date": "December 21, 2014", 
+            "stars": "5", 
+            "author": "David Ricardo Mart\u00ednez"
+        }, 
+        {
+            "comment": "great phone!", 
+            "date": "December 4, 2014", 
+            "stars": "5", 
+            "author": "luis"
+        }, 
+        {
+            "comment": "Its perfect!", 
+            "date": "November 18, 2014", 
+            "stars": "5", 
+            "author": "marcos"
+        }, 
+        {
+            "comment": "Working good", 
+            "date": "October 20, 2014", 
+            "stars": "5", 
+            "author": "Gor"
+        }, 
+        {
+            "comment": "Fantastic phone for the price. I liked it so much after a couple of months that I bought another.", 
+            "date": "July 20, 2015", 
+            "stars": "5", 
+            "author": "Silvernic"
+        }, 
+        {
+            "comment": "My 14 year old loves hers. Screen is bright and pictures are great. Update OS and be on your way.", 
+            "date": "April 7, 2015", 
+            "stars": "5", 
+            "author": "Shimelj"
+        }, 
+        {
+            "comment": "I really wasn't expecting much from this phone considering the price..boy was I blown away!  This is quite possibly the best budget Smartphone to date!  I just upgraded from an HTC One X which I really did not consider an upgrade at first.  This Moto G is an amazing close 2nd to the HTC!  Believe it or not the dual speakers on the front actually provide louder sound than the HTC I had.  If you're debating on buying this phone I suggest you stop thinking about it and go ahead with the purchase!  Thumbs up Motorola", 
+            "date": "December 18, 2014", 
+            "stars": "5", 
+            "author": "George A. Greaves"
+        }, 
+        {
+            "comment": "Great phone, good price.  8GB is actually 5GB of available space.  Otherwise really great phone.", 
+            "date": "July 18, 2015", 
+            "stars": "4", 
+            "author": "Brandon Waugh"
+        }, 
+        {
+            "comment": "This phone rocks.Does what all the current flagship models do but for a fraction of the price...", 
+            "date": "February 24, 2015", 
+            "stars": "5", 
+            "author": "Lon Jennon"
+        }, 
+        {
+            "comment": "Tends to lag if you have too many apps running in the background which didn't happen with gen 1", 
+            "date": "June 20, 2015", 
+            "stars": "4", 
+            "author": "Ruel"
+        }, 
+        {
+            "comment": "For the Price its worth it. Better models will come after it but this fits the bill for now. ;)", 
+            "date": "April 17, 2015", 
+            "stars": "4", 
+            "author": "Jo von Nuding"
+        }, 
+        {
+            "comment": "Hi, I am interested in the phone but would like to know if it worked in Peru.Best regards", 
+            "date": "March 30, 2015", 
+            "stars": "5", 
+            "author": "orlando"
+        }, 
+        {
+            "comment": "The phone is good for the price. It gets a bit hot at times, and camera has more to be desired.", 
+            "date": "March 10, 2015", 
+            "stars": "4", 
+            "author": "MB"
+        }, 
+        {
+            "comment": "Works perfectly, excellent screen, incredible price. I love it! Oh, and it arrived really quick", 
+            "date": "February 11, 2015", 
+            "stars": "5", 
+            "author": "Isaias Marini"
+        }, 
+        {
+            "comment": "Very good product, estoyen awaiting your arrival, are safe shopping with amazon.com recommend.", 
+            "date": "January 14, 2015", 
+            "stars": "5", 
+            "author": "OMAR MEDINA"
+        }, 
+        {
+            "comment": "It was working great from last December until a few weeks earlier when the Android OS asked for an upgrade.Downloaded the upgrade and installed it but when the phone restarted it never worked again. Took it to a few technicians but the phone is completely dead. As I am in Guatemala there is no Motorola customer service and it is too expensive send the phone to the US. So, basically lost the whole phone due to an upgrade.", 
+            "date": "January 10, 2015", 
+            "stars": "1", 
+            "author": "Merino Rodas Manuel Antonio"
+        }, 
+        {
+            "comment": "Excellent no-contract option. Great specs for the price. The perfect option for a replacement.", 
+            "date": "January 5, 2015", 
+            "stars": "4", 
+            "author": "Ariel Dejos"
+        }, 
+        {
+            "comment": "First class experience for such a cheap phone, totally recommended for People with low Cash :D", 
+            "date": "December 21, 2014", 
+            "stars": "5", 
+            "author": "dixio robles"
+        }, 
+        {
+            "comment": "I am completely satisfied with this phone. It did everything I wanted to and more, good job!", 
+            "date": "October 20, 2015", 
+            "stars": "5", 
+            "author": "Virginia LeDuc"
+        }, 
+        {
+            "comment": "I bought it for Christmas for my wife. She loves it. Excellent camera, pictures are awesome.", 
+            "date": "March 4, 2015", 
+            "stars": "5", 
+            "author": "Edilberto Serrano"
+        }, 
+        {
+            "comment": "Everything I expected and a bit more. Definitely a massive upgrade over the Gen 1 moto G =)", 
+            "date": "October 16, 2015", 
+            "stars": "5", 
+            "author": "Amazon Customer"
+        }, 
+        {
+            "comment": "A great phone for the price. But lags if you do to much. The camera is great with sunlight.", 
+            "date": "August 5, 2015", 
+            "stars": "4", 
+            "author": "Prabu Ravi"
+        }, 
+        {
+            "comment": "Delighted with this very good, fast , good camera equipment, excellent recommended 100% ...", 
+            "date": "April 20, 2015", 
+            "stars": "5", 
+            "author": "Gerard"
+        }, 
+        {
+            "comment": "Bought 2 of these for my sons and they're extremely happy with them.  Best deal out there!!", 
+            "date": "December 26, 2014", 
+            "stars": "5", 
+            "author": "arctic ice"
+        }, 
+        {
+            "comment": "Very Good phone. I have been using this phone for last three months. awesome performance !", 
+            "date": "July 8, 2015", 
+            "stars": "5", 
+            "author": "Ripon Saha"
+        }, 
+        {
+            "comment": "I found this phone really handy and usable. It has 2 front speaker which are just awesome.", 
+            "date": "June 10, 2015", 
+            "stars": "4", 
+            "author": "Ankush"
+        }, 
+        {
+            "comment": "Awsome phone for the price,I used on Telcel here in Mexico and work perfectly even the 3G.", 
+            "date": "May 30, 2015", 
+            "stars": "5", 
+            "author": "antonio"
+        }, 
+        {
+            "comment": "Nice phone, good value The description said it comes with dual SIM ports. It only has one.", 
+            "date": "April 26, 2015", 
+            "stars": "4", 
+            "author": "Anton Nichta"
+        }, 
+        {
+            "comment": "Great phone", 
+            "date": "July 22, 2015", 
+            "stars": "5", 
+            "author": "Mike Joseph"
+        }, 
+        {
+            "comment": "great phone", 
+            "date": "July 19, 2015", 
+            "stars": "5", 
+            "author": "zulayguess"
+        }, 
+        {
+            "comment": "great phone", 
+            "date": "December 14, 2014", 
+            "stars": "5", 
+            "author": "Hector Ratti"
+        }, 
+        {
+            "comment": "Excelente!!", 
+            "date": "December 14, 2014", 
+            "stars": "5", 
+            "author": "Osmerys"
+        }, 
+        {
+            "comment": "as expected", 
+            "date": "December 3, 2014", 
+            "stars": "5", 
+            "author": "Solaris"
+        }, 
+        {
+            "comment": "Excellent!!", 
+            "date": "December 2, 2014", 
+            "stars": "5", 
+            "author": "Alexander C."
+        }, 
+        {
+            "comment": "Excellent!!", 
+            "date": "November 16, 2014", 
+            "stars": "5", 
+            "author": "Angel Lopez"
+        }, 
+        {
+            "comment": "great value", 
+            "date": "November 2, 2014", 
+            "stars": "5", 
+            "author": "Emilio L. D. Ovidio"
+        }, 
+        {
+            "comment": "Niche phone", 
+            "date": "October 28, 2014", 
+            "stars": "5", 
+            "author": "Mauricio"
+        }, 
+        {
+            "comment": "Great Phone", 
+            "date": "October 28, 2014", 
+            "stars": "5", 
+            "author": "jayuco"
+        }, 
+        {
+            "comment": "phone failed 3 months in had to send it back to motorola still waiting for my replacement", 
+            "date": "September 2, 2015", 
+            "stars": "2", 
+            "author": "Martin Meade"
+        }, 
+        {
+            "comment": "Amazing phone, better than expected! I had the Razr XT910 and this was an amazing change.", 
+            "date": "May 19, 2015", 
+            "stars": "5", 
+            "author": "Salvador A."
+        }, 
+        {
+            "comment": "Is a powerfull phone and work perfectly with movistar in Venezuela with android lollipop.", 
+            "date": "March 19, 2015", 
+            "stars": "5", 
+            "author": "Ibraham Jose"
+        }, 
+        {
+            "comment": "Best value in a phone - great battery life and speakers on the front is so much better!!!", 
+            "date": "January 16, 2015", 
+            "stars": "5", 
+            "author": "J. Trimboli"
+        }, 
+        {
+            "comment": "Amazing phone for the price point. This is perfect for anyone wanting to go off contract.", 
+            "date": "January 9, 2015", 
+            "stars": "5", 
+            "author": "Nathan Smith"
+        }, 
+        {
+            "comment": "This warehouse Item was not satisfactory since phone was missing in my delivered package.", 
+            "date": "January 7, 2015", 
+            "stars": "2", 
+            "author": "Tamilselvan Srinivasan"
+        }, 
+        {
+            "comment": "I never thought I'd abandon Apple, but when it came time to upgrade, I'm glad I went with this phone. My wife had the first gen and talked me into this one. It is much kinder to the wallet than an iPhone and it does everything my iPhone 4 did. The screen is even bigger. I love the Android OS. I use it all the time, and though I like Apple, I won't go back to an iPhone.", 
+            "date": "November 5, 2014", 
+            "stars": "5", 
+            "author": "R. Matthews"
+        }, 
+        {
+            "comment": "This is really an incredible value.  The only limiting thing here is the storage on the phone, which is more of a challenge for us than we anticipated (even moving everything we could off to the sdcard).  Either way, the phone is very well built, and is really a work of art for the price paid.  We are very happy with this purchase!", 
+            "date": "November 3, 2014", 
+            "stars": "5", 
+            "author": "Clinton Wasylishen"
+        }, 
+        {
+            "comment": "I have been the proud owner of a moto g (1st gen) for the last year. Ive tried this (Moto G 2nd generation) for a few days and I still can say that this is the best value u can get for your money. very similar to the first moto G, but with larger display and microsd slots. No LTE, but this isnt a problem for me right now.", 
+            "date": "September 30, 2014", 
+            "stars": "5", 
+            "author": "Israel A."
+        }, 
+        {
+            "comment": "Motog 2gen having problem with external SD card. I have my data in it, even with SD card I'm , the phone reads as SD card is removed and it says to insert a new one. Now I don't know how to replace my phone and the replacement time is also over. This problem started exactly after a month since I bought the new phone.", 
+            "date": "June 1, 2015", 
+            "stars": "1", 
+            "author": "Syed Tabreez"
+        }, 
+        {
+            "comment": "Amazing phone, worth every penny. Work on Venezuela 3G.Diferences between moto G 1st gen vs 2gen:-Screen size: 5\" display, 720p.-Memory slot for micro sd-Dual speakers on front of the device.-Come with wall charger-Soft back cover-8mp cameraGreat device.", 
+            "date": "January 15, 2015", 
+            "stars": "5", 
+            "author": "Andres Ruiz"
+        }, 
+        {
+            "comment": "The Moto G 2014 has consistantly recieved the reviews as one of the best of the budget smart phones.  I have the phone set up to use WIFI data exclusivley, so the absence of LTE is not a factor.  WIFI woks great, even at some of the free WIFI sites (McDonalds,ect.).. This phone has met or exceeded my expectations.", 
+            "date": "November 5, 2014", 
+            "stars": "5", 
+            "author": "tsquareh"
+        }, 
+        {
+            "comment": "I've owned Samsung and HTC phones, and while I love those phones, Motorola has become my new favorite. They stay true to the original android and don't put any bloatware on it. The sound is clear and it does what it needs to do. If you are a minimalist like myself, I would recommend this phone.", 
+            "date": "April 13, 2015", 
+            "stars": "5", 
+            "author": "Nirav P."
+        }, 
+        {
+            "comment": "I don't need a $400 -- $600+ fashion statement, or reconfirmation of my self-image.  I can also do without a few megapixels on the camera, when they do little more than clog the upload pipes.So far (less than two weeks), this is exactly what I was looking for - a reasonably-priced, updated replacement for my increasingly unstable Google Nexus 4 (N4).  This 2nd gen  Moto G's Android Lollipop version may not be quite up to the same revision as the Nexus, but it also doesn't shut-down or freeze frequently, yet,  Given the current state of the art of enforced obsolescence and controlled lack of quality, I expect this will soon start.  But, I'm still hoping for a good 6-8 months or so.Display is nice - better & brighter than the N4, and certainly good enough.  Touch response better than the N4, but I haven't put a screen protector on, yet.  I love an abundance of power in nearly everything, but I don't yet find a need for an excessive amount in a typical smartphone (at least not without enterprise-level MDMs and VPNs).  While I would have liked to have kept NFC, and added LTE, so far, I don't miss either.  If I wanted better security, I'd get a new Blackberry or (yes, I never thought I'd say it) Windows 8 or 10 phone (don't troll me about SE Android - let alone iOS).  Android app response it better with this Moto - the processor speed seems to be a significant improvement over the N4.  I lost 8 gb of internal memory compared to my N4, but the micro-SD memory expansion slot will probably be better for my needs. USB to go seems to function well (limited testing, so far)Speed, sensitivity and network functionality on T-Mobile's network seems to be at least as good as the N4 - I still get 3G+ in all the places I used to, and probably a few more. (I may miss lack of LTE someday) .  Voice clarity might be a touch better on the Moto (I still think smartphones are the stupidest way to talk on a telephone yet invented - kind of like talking into a board on the side of your face during an intercontinental HF Ham radio telephone relay to Africa during the cold war).  I find the same network dead spots and extended registration times in a particular urban area that I've been complaining about for years, but they may be slightly smaller.  I'm not often a video streamer, but when I do it's pretty heavy - this phone is head and shoulders better than the N4.  My home doesn't have good cell signal from anyone, so I rely on Wi-Fi there for bandwidth.  This seems to work better than he N4; better range and slightly higher speed using 802.11n.  I'll probably miss not having 802.11ac capability soon, but not yet.Yes, the case is plastic.  You can support the PRC economy and try all the Moto shells you like, if that's an issue.Bottom line: Maybe not perfect, but very good and excellent value.  Highly recommended, so far.", 
+            "date": "July 1, 2015", 
+            "stars": "5", 
+            "author": "Gringo"
+        }, 
+        {
+            "comment": "This is an excellent phone and it is the best android phone under the $200 range.Pro:----- Excellent reception and call quality.----- Big 5\", gorgeous, bright and crisp 294ppi screen (gorilla glass)----- Very fast and responsive. 1GB Ram is typical for this price range and it actually works really well with Lollipop 5.0.2. I have a ton of apps and had plenty of background apps running and the phone is still very fast and lag free. I do recommend Clean Master app with 1 tap boost button. It is an excellent app that frees some of the RAM.----- Lollipop 5.0.2 came with my phone. It is an awesome operating system that is fast, looks great and is easy to use. I really think it is a big improvement over kitkat with all the new features. I heard some people complain about lag but I haven't experienced any of that. Last time I checked, I even had 18 apps running in the background and the phone was still very fast and responsive.----- Very nice 8mp camera with flash. It gets the job done for me but I am not the type of person who takes a ton of pictures or considered a \"camera expert\". The pictures and video footage look great and the user interface is user friendly with plenty of options for more advanced user.----- Speakers sound loud and clear with good bass. With the headphones, music even sounds better. Very happy with the sound.----- Unlocked phone! It gives me options.----- Accepts Micro SD card. Even though 8gb is too little of storage, Motorola fixed the problem by letting the phone accept Micro SD card. I put a 32gb Micro SD card in mine.Con----- Battery life! This is my first \"large screen\" smartphone so I am not used to short term battery life. With my smaller screen Windows Lumia phone, I can easily go couple days without charging. I think windows operating system is just more efficient than android when it comes to using RAM and battery power. I think with the large 5\" screen and the lollipop system with so many running background apps, it uses a lot of unnecessary RAM and battery power. I noticed the \"Power through your day with the all-day battery\" in the description as if that is something to brag about. In my opinion, every phone better last a full day and they should last 2 days on one charge with regular use. I'm using Clean Master app and disabled lot of unnecessay app notifications so I may squeeze a \"One and half day\" battery power now. Maybe in the future I will get Lollipop 5.1 or another update that will improve battery life. I will look into getting a cheap portable battery charger too.----- Not 4G LTE capable.... Not a big deal for me though.Conclusion: Amazing phone with a bargain price, great specs, awesome features and an impressive Lollipop 5.0.2 operating system. All the pros easily compensates for the lackluster battery life. If you are a lesser user, you may get a day and a half battery use. I highly recommend this phone and I would rate it a 4.5 out of 5 stars.", 
+            "date": "June 27, 2015", 
+            "stars": "5", 
+            "author": "BAH"
+        }, 
+        {
+            "comment": "Just to preface this, I came to this mobile after owning a carrier branded Galaxy S3 for just over 2 years.This mobile. Oh gosh this mobile. I think the best way to discribe it is indeed, the highest of the low end. However, don't let that push you away. For the price it's hard to find a better android experience, even more so if you manage to find a used (but in good condition) or refurbished model for cheaper. It is however not all sunshine and rainbows.Let's start with the bad. The worst part of this device for me is the internal storage. Eight gigabites is just, abysmaly small for most these days. Yes you can work around it, and Motorola does alow you to move some apps to a micro SD card (which this will handle up to 32gigs of aditional storage* but I cannot find a way to install directly to the SD card from the app market. This means going through a rather annoying process of juggling apps around to get everything installed, and I find that apps will be transfered back over to the internal storage whenever there's an update. Very frustrating. I also found that the handset feels just a little bulky in the hand. Not neccissarily big, it's no Galaxy Note, but just a little more sizeable than I'd appreciate. The memory also can be a problem from time to time. This is not a mobile for the heavy multitasker, and I find it being a bit more agressive about closing apps if I switch around just barely too much. (This does depend on the apps used of course, as some will have no issue with this while others will be notoriously bad)However, that's about all I can really complain about. Aside from the lean storage, memory, and perhaps needing to go on a diet, I'm very happy with everything else. The diplay is plenty sharp and and bright, the camera takes good qulity stills and videos, both rear and front facing, but by far my favorite part is the speakers. No, they're not great speakers but just the fact that they're front facing, and yes you get two of them by the way, make them so much louder and clearer than most other devices I've seen. They may not be Boom Sound or Beats, but for under 200 USD I'd argue they're still hard to beat. I also love how close to stock the android experience feels on this mobile. Motorola have quickly become one of my favorite OEMs for android handsets just by how little they mess with the operating system. Very light skinning, a few custom apps which you do not have to use if you don't want to (and can even disable so you don't have to so much as see them) and that's your lot. Call quality has been great, and even though it may not have LTE, I find that HSPA works plenty fast enough for my needs. I'm currently going through Simple Mobile for my plan and data speeds have never been an issue with this mobile.In short, if you're looking for a mobile on the cheaper end of the spectrum but still want something nice, and you don't mind taking a hit on internal storage or memory, I cannot recomend the Moto G 2014 more", 
+            "date": "June 11, 2015", 
+            "stars": "5", 
+            "author": "Zach Countryman"
+        }, 
+        {
+            "comment": "It's a beautiful phone. The software and hardware is perfect with the price the midrange.", 
+            "date": "December 28, 2014", 
+            "stars": "5", 
+            "author": "Douglas Arnulfo Ixtecoc"
+        }, 
+        {
+            "comment": "I ordered this for my mom. She loves it, but some times it goes kinda slow at heavy use.", 
+            "date": "October 17, 2015", 
+            "stars": "4", 
+            "author": "Juan G."
+        }, 
+        {
+            "comment": "Beautiful phone! Excellent camera. I've took beautiful pictures. I really like my phone.", 
+            "date": "March 9, 2015", 
+            "stars": "5", 
+            "author": "Dominique."
+        }, 
+        {
+            "comment": "An excellent smart phone. I am very happy with the purchase. Highly recommend this phone", 
+            "date": "January 10, 2015", 
+            "stars": "4", 
+            "author": "Pedro"
+        }, 
+        {
+            "comment": "I love this phone, works great and the camera is incredible, for a simple phone camera!", 
+            "date": "September 3, 2015", 
+            "stars": "5", 
+            "author": "Terry Lee"
+        }, 
+        {
+            "comment": "Very satisfied. Very good definition, good camera, better voice quality than old phone.", 
+            "date": "August 12, 2015", 
+            "stars": "5", 
+            "author": "Augie"
+        }, 
+        {
+            "comment": "Fantastic phone for the price. I would highly recommend. IPhone users have completed it", 
+            "date": "February 9, 2015", 
+            "stars": "5", 
+            "author": "Rob"
+        }, 
+        {
+            "comment": "Great phone, nice features comparable to the Nexus 4 or better but the price is a steal", 
+            "date": "December 29, 2014", 
+            "stars": "5", 
+            "author": "D. Hooker"
+        }, 
+        {
+            "comment": "It such a great phone, for an amazing price! I bought this for my sister, she loves it.", 
+            "date": "December 20, 2014", 
+            "stars": "5", 
+            "author": "Simonas"
+        }, 
+        {
+            "comment": "Stopped working after couple of month of use!  Just cannot reboot in any possible way.", 
+            "date": "October 17, 2015", 
+            "stars": "1", 
+            "author": "Irina"
+        }, 
+        {
+            "comment": "After 2 iPhones, I love this Android!  Easier to use, bigger buttons and better sound.", 
+            "date": "June 8, 2015", 
+            "stars": "5", 
+            "author": "Will Tarleton"
+        }, 
+        {
+            "comment": "I love the phone very good build quality and user-friendly with a very good price tag.", 
+            "date": "April 26, 2015", 
+            "stars": "5", 
+            "author": "brian hodges"
+        }, 
+        {
+            "comment": "without many words the best in these unique quality time price motorola moto g 1 and 2", 
+            "date": "February 10, 2015", 
+            "stars": "5", 
+            "author": "DOHKO"
+        }, 
+        {
+            "comment": "It is an excellent product I loved it and am very happy with it.nice smartphone", 
+            "date": "April 27, 2015", 
+            "stars": "4", 
+            "author": "Alexander Chacon"
+        }, 
+        {
+            "comment": "Bigger, lighter, Crystal clear screen. Updated to lollipop right after configuration.", 
+            "date": "March 8, 2015", 
+            "stars": "5", 
+            "author": "jerry"
+        }, 
+        {
+            "comment": "Excellent phone a little bulky and with minimal accessories, but overall good value.", 
+            "date": "July 15, 2015", 
+            "stars": "4", 
+            "author": "Amazon Customer"
+        }, 
+        {
+            "comment": "We already do have three of these so we bought another one to complete family fleet.", 
+            "date": "July 3, 2015", 
+            "stars": "5", 
+            "author": "Silvio Schuler"
+        }, 
+        {
+            "comment": "The best functional android ever own.  All functions work well and are fast to load.", 
+            "date": "March 26, 2015", 
+            "stars": "5", 
+            "author": "David"
+        }, 
+        {
+            "comment": "Can't beat this phone for the money. Fast performance, nice screen and good battery.", 
+            "date": "December 23, 2014", 
+            "stars": "5", 
+            "author": "Adam Wingert"
+        }, 
+        {
+            "comment": "This phone has worked very well for me. I am an average phone user, mostly browsing.", 
+            "date": "December 17, 2014", 
+            "stars": "5", 
+            "author": "NA"
+        }, 
+        {
+            "comment": "Worse smartphone I ever had. It's slower than the nexus 4 I bought two years ago...", 
+            "date": "October 7, 2015", 
+            "stars": "2", 
+            "author": "amit meir"
+        }, 
+        {
+            "comment": "Very happy when ever I get what is expected from an online purchase... got it here!", 
+            "date": "September 11, 2015", 
+            "stars": "5", 
+            "author": "kurt"
+        }, 
+        {
+            "comment": "The phone is great, met all my expectations. Works great in Venezuela with Movilnet", 
+            "date": "August 21, 2015", 
+            "stars": "5", 
+            "author": "Andrea"
+        }, 
+        {
+            "comment": "Pretty good phone. A bit buggy at times and the screen was smaller than I expected.", 
+            "date": "July 14, 2015", 
+            "stars": "3", 
+            "author": "conan"
+        }, 
+        {
+            "comment": "Great phone, I really like Motorola phones and this Moto G, it has been a great buy", 
+            "date": "June 30, 2015", 
+            "stars": "5", 
+            "author": "Heriberto Ceniceros"
+        }, 
+        {
+            "comment": "OMG,  I cannot stop smiling and talking about this cell. Best value for money ever.", 
+            "date": "April 21, 2015", 
+            "stars": "5", 
+            "author": "Karen Lequay-Charles"
+        }, 
+        {
+            "comment": "decent for the price, but not an upgrade from the 1st generation.  bad battery life", 
+            "date": "April 8, 2015", 
+            "stars": "4", 
+            "author": "Ryan M Azarko"
+        }, 
+        {
+            "comment": "i like the phone, but the one sent to me has a defective speaker, need to return it", 
+            "date": "January 10, 2015", 
+            "stars": "4", 
+            "author": "JERI H."
+        }, 
+        {
+            "comment": "I'm still learning about the phone; but, it is a big iimprovement over what I had.", 
+            "date": "July 13, 2015", 
+            "stars": "5", 
+            "author": "James"
+        }, 
+        {
+            "comment": "Great prize, great phone. I've had it for a week now and no problems what so ever.", 
+            "date": "May 7, 2015", 
+            "stars": "5", 
+            "author": "Jesus Castro Rodriguez"
+        }, 
+        {
+            "comment": "Upgraded to Lollipop and that makes it a great phone.  Lollipop is a huge step up.", 
+            "date": "March 31, 2015", 
+            "stars": "5", 
+            "author": "Larry J. Guthrie"
+        }, 
+        {
+            "comment": "Perfect for anyone who is on a budget and needs a really good and functional phone", 
+            "date": "March 26, 2015", 
+            "stars": "5", 
+            "author": "Collette Simmons"
+        }, 
+        {
+            "comment": "I bought this phone for a nephew in Brazil and it works perfectly!!! Very happy!!!", 
+            "date": "March 19, 2015", 
+            "stars": "5", 
+            "author": "Marcelo Chaves"
+        }, 
+        {
+            "comment": "Great phone - this is my second Moto g.  Great sound, features, price and quality.  On my Moto g 2nd Gen. with Lollipop OS when I put the brightness of the display on automatic (adaptive display) the screen will go dark when I am indoors with low light..  One cannot see anything on the screen - the phone is useless.  If one goes outside in daylight the screen is readable.  I have other phones and tablets with automatic display adjustment and the screen dims in indoors or low light - but the screen is clearly readable and usable.  A search of the internet indicates that others have the same problem with their Moto g 2nd Gen.  I have read several professional reviews of the Moto g 2nd Gen. and no one has discusses a problem the the adaptive display adjustment; how is this possible.  How many others have the same problem.  Is Motorola planning a bug fix for this automatic display brightness?", 
+            "date": "March 3, 2015", 
+            "stars": "4", 
+            "author": "JSeidel"
+        }, 
+        {
+            "comment": "Brilliant, works perfectly, came early, fantastic bargain don't hesitate to buy it", 
+            "date": "January 20, 2015", 
+            "stars": "5", 
+            "author": "Ciaran laffey"
+        }, 
+        {
+            "comment": "No crapware. Good performance. Lovely screen. Solid build. Android's great to use.", 
+            "date": "January 4, 2015", 
+            "stars": "5", 
+            "author": "Jim Hill"
+        }, 
+        {
+            "comment": "Nice phone", 
+            "date": "December 15, 2014", 
+            "stars": "5", 
+            "author": "john williams"
+        }, 
+        {
+            "comment": "Muy bueno!", 
+            "date": "December 1, 2014", 
+            "stars": "5", 
+            "author": "Mart\u00edn M. Guti\u00e9rrez"
+        }, 
+        {
+            "comment": "Excelente!", 
+            "date": "November 30, 2014", 
+            "stars": "5", 
+            "author": "LUIS CASTILLO"
+        }
+    ]
+}
