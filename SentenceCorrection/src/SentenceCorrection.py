@@ -1,10 +1,11 @@
 __author__ = 'vijay'
 from textblob import Word
+import os
 
 class SentenceCorrection:
     def __init__(self,fileName,outputfile):
         self.fileName = fileName
-        self.features = ['battery','screen','touch','multi touch','moto','motog','flipkart']
+        self.features = ['battery','screen','touch','multi touch','moto','moto g','flipkart',"screen" , "graphics", "touch","brightness" , "headset" , "head set", "charger","charger" , "ports","data cable","cable","headphone" ,  "headphone jack" , "headphones jack","lcd","gorrila","touch","memory" , "upgradable", "RAM","battery" , "temperature", "heating","standby" , "stand by","camera" , "cam", "front cam","rear cam" , "picture" , "picture quality" , "image quality" ,"video","photos","software" , "ui", "os updates","os" , "os features","os compatibility","file manager","gaming" ,  "android experience","responsive" , "speed", "lag","hang" , "freeze" , "processor"]
         self.output_file = outputfile
 
     def load_sentences(self):
@@ -44,7 +45,10 @@ class SentenceCorrection:
                     break
             correction_line = correction_line +str(' ')+ result
         return correction_line
-
-obj =  SentenceCorrection("/home/vijay/PycharmProjects/SentenceCorrection/input/processed.txt","/home/vijay/PycharmProjects/SentenceCorrection/output/result.txt")
-obj.load_sentences()
+folder = "../input"
+op="../output"
+files = os.listdir(folder)
+for file in files:
+    obj =  SentenceCorrection(folder+"/"+file,op+"/"+file)
+    obj.load_sentences()
 
