@@ -1,0 +1,23 @@
+from ..items.items import AragogItem
+from scrapy.exceptions import DropItem
+from scrapy.selector import Selector
+
+
+class FilterCraigsListListing(object):
+	def isValidLocation(self,item):
+		valid = False
+		
+		htmlTxt =item["body"]
+		
+		if not item["url"].find("/tix/") >= 0 :
+			return False
+		bizSubHeader=Selector(text=htmlTxt).xpath('//h2[@class="postingtitle"]')
+		postingbody = Selector(text=htmlTxt).xpath('//section[@class="userbody"]/section[@id="postingbody"]')
+		if len(bizSubHeader) > 0 and len(postingbody) >0 :
+			valid = True
+		return valid
+	def process_item(self, item, spider):
+		if self.isValidLocation(item) :
+			return item
+		else :
+			raise DropItem("[DROP] Page did not meet Business Location Criteria - Dropping")

@@ -1,0 +1,16 @@
+from aragog.items import AragogItem
+from scrapy.exceptions import DropItem
+
+
+class Hw1Pipeline(object):
+
+	def isValidPage(item) :
+		valid = True
+		# Check validity of item
+		return valid
+
+	def process_item(self, item, spider):
+		if isValidPage(item) :
+        		return item
+		else :
+			raise DropItem("Dropping Item")

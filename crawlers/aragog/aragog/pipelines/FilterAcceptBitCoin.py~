@@ -1,0 +1,27 @@
+from ..items.items import AragogItem
+from scrapy.exceptions import DropItem
+from scrapy.selector import Selector
+
+
+class FilterLocationPipeline(object):
+
+	def isValidPage(self,item) :
+		valid = False
+		htmlTxt =item["body"]
+		header = Selector(text=htmlTxt).xpath('//div[@class="biz-page-subheader"]')
+		if len(header) > 0 :
+			addressRegion  = header.xpath('//div[@class="mapbox-text"]/ul/li[@class="address"]/strong/address/span[@itemprop="addressRegion"]/text()').extract()
+			fileName = "crawlerResults/urls.txt"
+			
+			if addressRegion[0] == "CA":
+				with open(fileName,'a') as f:
+					f.write("ACCEPTED\t"+ str(addressRegion[0]) + "\t" + item["url"] +"\n")			
+				valid = True
+		return valid
+
+	def process_item(self, item, spider):
+		if self.isValidPage(item) :
+			print "Accepting Item"
+        		return item
+		else :
+			raise DropItem("Dropping Item")

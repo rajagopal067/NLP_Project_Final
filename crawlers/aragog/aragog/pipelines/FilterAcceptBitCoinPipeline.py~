@@ -1,0 +1,30 @@
+from ..items.items import AragogItem
+from scrapy.exceptions import DropItem
+from scrapy.selector import Selector
+
+
+class FilterAcceptBitCoinPipeline(object):
+
+	def isValidPage(self,item) :
+		valid = False
+		htmlTxt =item["body"]
+		business = Selector(text=htmlTxt).xpath('//div[@class="biz-page-subheader"]')
+		
+		if len(business) > 0 :
+			deets  = Selector(text=htmlTxt).xpath('//div[@class="column column-beta sidebar"]/div[@class="bordered-rail"]/div[@class="ywidget"]/ul[@class="ylist"]/li/div//dl')
+			k = map(lambda x: x.strip() , deets.xpath(".//dt/text()").extract())
+			v = map(lambda X : X.strip() , deets.xpath(".//dd/text()").extract())
+			d = dict(zip(k, v))
+
+			if d.has_key("Take-out") and d["Take-out"]=="Yes" :
+				valid = True
+	
+		return valid
+
+	def process_item(self, item, spider):
+		print "[DEBUG] PAGE 3 Pipeline filter Bitcoin"
+		if self.isValidPage(item) :
+			print "[DEBUG] Accepting Item " , item["url"]
+        		return item
+		else :
+			raise DropItem("Dropping Item")
