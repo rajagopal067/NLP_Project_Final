@@ -125,7 +125,7 @@ public class ReviewAnalyzer {
 		BufferedWriter outputFile = new BufferedWriter(newFile);
 
 		JSONArray reviewsArray = (JSONArray) object.get("reviews");
-		MaxentTagger tagger = new MaxentTagger("taggers/wsj-0-18-left3words-distsim.tagger");
+//		MaxentTagger tagger = new MaxentTagger("taggers/wsj-0-18-left3words-distsim.tagger");
 
 		//regex pattern for number matching
 		String regex="(.)*(\\d)(.)*";
