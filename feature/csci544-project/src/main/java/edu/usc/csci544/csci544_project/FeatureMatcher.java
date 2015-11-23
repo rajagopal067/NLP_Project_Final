@@ -103,17 +103,22 @@ public class FeatureMatcher {
 			for (CoreLabel token: document.get(TokensAnnotation.class)) {
 				tokens.add(token.get(TextAnnotation.class).toLowerCase());
 			}
-			String feat = getFeat(tokens);
-			if(feat!=NO_FEAT_FOUND)
+			List<String> feat = getFeat(tokens);
+			if(feat.size()!=0)
 			{
-				if (!featureSentenes.containsKey(feat))
-					featureSentenes.put(feat, new HashMap<String, List<String>>());
-				if(!(featureSentenes.get(feat)).containsKey(reviewID))
+				for(String f : feat)
 				{
-					featureSentenes.get(feat).put(reviewID, new ArrayList<String>());
+					if (!featureSentenes.containsKey(f))
+						featureSentenes.put(f, new HashMap<String, List<String>>());
+					if(!(featureSentenes.get(f)).containsKey(reviewID))
+					{
+						featureSentenes.get(f).put(reviewID, new ArrayList<String>());
 
+					}
+					featureSentenes.get(f).get(reviewID).add(sentence); 			
 				}
-				featureSentenes.get(feat).get(reviewID).add(sentence); 			    			    	  
+				
+				    			    	  
 
 
 			}
@@ -123,17 +128,18 @@ public class FeatureMatcher {
 	}
 
 
-	public static String getFeat(List<String> tokens)
+	public static List<String> getFeat(List<String> tokens)
 	{
+		List<String> res = new ArrayList<String>();
 		for(String key : synonyms.keySet())
 		{
 			for(String token: tokens)
 			{
 				if(synonyms.get(key).contains(token))
-					return key;
+					res.add(key);
 			}
 		}
-		return NO_FEAT_FOUND;
+		return res;
 	}
 	public static void main(String[] args) throws IOException {
 
