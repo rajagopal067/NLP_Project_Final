@@ -7,6 +7,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
@@ -135,61 +136,74 @@ public class FeatureMatcher {
 	public static void main(String[] args) throws IOException {
 
 		FeatureMatcher fm = new FeatureMatcher();
-		String folderName = "/home/lk/Desktop/github/NLP_PROJECT/SentenceCorrection/input/";
+		String IPfolderName = "/home/lk/Desktop/github/NLP_PROJECT/SentenceCorrection/output/";
+		String OPfolderName = "/home/lk/Desktop/github/NLP_PROJECT/SentenceCorrection/output_features/";
 		
-		String fileName = "processed.txt";
 		HashMap<String,List<String>> sentences = new HashMap();
 		String line;
 		
-		int cnt = 0;
-		try {
-			FileReader fileReader = new FileReader(folderName+fileName);
-			BufferedReader bufferedReader = new BufferedReader(fileReader);
-			String reviewID = "";
-			ArrayList<String> reviewSenetnces = null ;
-			while((line = bufferedReader.readLine()) != null) {
-				
-				System.out.println(line);
-				if (line.equals("{"))
-					cnt++;
-				else if(cnt==1)
-				{
-					cnt++;
-					reviewID = line;
-					reviewSenetnces  =  new ArrayList<String>();
-				}
-				else if(!line.equals("}"))
-				{
-					Annotation document = new Annotation(line);
-					fm.pipeline.annotate(document);
-					line = line.replaceAll("\\.+","\\.");
-					for (CoreMap sentense: document.get(SentencesAnnotation.class)) {
-						reviewSenetnces.add(sentense.get(TextAnnotation.class).toLowerCase());
-					}
-				}
-				else
-				{
-					cnt = 0;
-					sentences.put(reviewID, reviewSenetnces);
-				}
-			}   
-			bufferedReader.close();         
-		}
-		catch(FileNotFoundException ex) {
-			System.out.println("Unable to open file '" + 	fileName + "'");                
-		}
-		catch(IOException ex) {
-			System.out.println("Error reading file '" + fileName + "'");                  
-			}
+		File folder = new File(IPfolderName);
+		File[] listOfFiles = folder.listFiles();
 
-		for(String key : sentences.keySet())
-		{
-			fm.mapFeatures(key,sentences.get(key));
-		}
-		
-		
-		
-		fm.persist(folderName);
+		    for (int i = 0; i < listOfFiles.length; i++)
+		    {
+		      if (listOfFiles[i].isFile()) {
+		    
+		  		String fileName =listOfFiles[i].getName();
+
+		    	  //System.out.println("File " + listOfFiles[i].getName());
+		    	  
+		  		int cnt = 0;
+				try {
+					FileReader fileReader = new FileReader(IPfolderName+listOfFiles[i].getName());
+					BufferedReader bufferedReader = new BufferedReader(fileReader);
+					String reviewID = "";
+					ArrayList<String> reviewSenetnces = null ;
+					while((line = bufferedReader.readLine()) != null) {
+						
+						System.out.println(line);
+						if (line.equals("{"))
+							cnt++;
+						else if(cnt==1)
+						{
+							cnt++;
+							reviewID = line;
+							reviewSenetnces  =  new ArrayList<String>();
+						}
+						else if(!line.equals("}"))
+						{
+							
+							line = line.replaceAll("[^\\p{ASCII}]", "").replaceAll("\\.+","\\.");
+							Annotation document = new Annotation(line);
+							fm.pipeline.annotate(document);
+							
+							for (CoreMap sentense: document.get(SentencesAnnotation.class)) {
+								reviewSenetnces.add(sentense.get(TextAnnotation.class).toLowerCase());
+							}
+						}
+						else
+						{
+							cnt = 0;
+							sentences.put(reviewID, reviewSenetnces);
+						}
+					}   
+					bufferedReader.close();         
+				}
+				catch(FileNotFoundException ex) {
+					System.out.println("Unable to open file '" + 	fileName + "'");                
+				}
+				catch(IOException ex) {
+					System.out.println("Error reading file '" + fileName + "'");                  
+					}
+
+				for(String key : sentences.keySet())
+				{
+					fm.mapFeatures(key,sentences.get(key));
+				}
+		      
+		      } 
+		    }
+		fm.persist(OPfolderName);
 
 	}
 	
