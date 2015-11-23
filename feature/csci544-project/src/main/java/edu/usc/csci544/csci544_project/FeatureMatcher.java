@@ -78,6 +78,8 @@ public class FeatureMatcher {
 				for (String line: featureSentenes.get(feature).get(user))
 				{
 					reviewLine.append(line);
+					if(!line.trim().endsWith("."))
+						reviewLine.append(".");
 				}
 				bw.write(reviewLine.toString()+"\n");
 						
@@ -139,7 +141,7 @@ public class FeatureMatcher {
 		String IPfolderName = "/home/lk/Desktop/github/NLP_PROJECT/SentenceCorrection/output/";
 		String OPfolderName = "/home/lk/Desktop/github/NLP_PROJECT/SentenceCorrection/output_features/";
 		
-		HashMap<String,List<String>> sentences = new HashMap();
+	
 		String line;
 		
 		File folder = new File(IPfolderName);
@@ -147,10 +149,11 @@ public class FeatureMatcher {
 
 		    for (int i = 0; i < listOfFiles.length; i++)
 		    {
+		    	HashMap<String,List<String>> sentences = new HashMap();
 		      if (listOfFiles[i].isFile()) {
 		    
 		  		String fileName =listOfFiles[i].getName();
-
+		  		System.out.println(fileName);
 		    	  //System.out.println("File " + listOfFiles[i].getName());
 		    	  
 		  		int cnt = 0;
@@ -161,7 +164,7 @@ public class FeatureMatcher {
 					ArrayList<String> reviewSenetnces = null ;
 					while((line = bufferedReader.readLine()) != null) {
 						
-						System.out.println(line);
+						//System.out.println(line);
 						if (line.equals("{"))
 							cnt++;
 						else if(cnt==1)
@@ -174,6 +177,7 @@ public class FeatureMatcher {
 						{
 							
 							line = line.replaceAll("[^\\p{ASCII}]", "").replaceAll("\\.+","\\.");
+							line = line.toLowerCase();
 							Annotation document = new Annotation(line);
 							fm.pipeline.annotate(document);
 							
