@@ -1,0 +1,39 @@
+{
+    "vis": [
+        {
+            "NEG": 1842, 
+            "feature": "battery", 
+            "POS": 630
+        }, 
+        {
+            "NEG": 557, 
+            "feature": "accessories", 
+            "POS": 59
+        }, 
+        {
+            "NEG": 321, 
+            "feature": "memory", 
+            "POS": 125
+        }, 
+        {
+            "NEG": 876, 
+            "feature": "screen", 
+            "POS": 666
+        }, 
+        {
+            "NEG": 725, 
+            "feature": "camera", 
+            "POS": 851
+        }, 
+        {
+            "NEG": 2618, 
+            "feature": "software", 
+            "POS": 811
+        }, 
+        {
+            "NEG": 637, 
+            "feature": "responsive", 
+            "POS": 310
+        }
+    ]
+}
