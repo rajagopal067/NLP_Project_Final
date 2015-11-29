@@ -1,124 +1,248 @@
-POS TOK_phone POS_NN TOK_fast POS_RB TOK_and POS_CC TOK_responsive POS_JJ 
+POS	TOK_phone	POS_NN	TOK_fast	POS_RB	TOK_and	POS_CC	TOK_responsive	POS_JJ
 
-POS TOK_good POS_JJ TOK_speed POS_NN TOK_lag POS_NN TOK_sons POS_NNS TOK_good POS_JJ TOK_speed POS_NN TOK_lag POS_NN TOK_sons POS_NNS 
 
-POS TOK_processor POS_NN TOK_never POS_RB TOK_buckles POS_NNS TOK_and POS_CC TOK_full POS_JJ TOK_support POS_NN TOK_so POS_RB TOK_many POS_JJ TOK_parallel POS_JJ TOK_running POS_NN 
 
-POS TOK_awesome POS_JJ TOK_mobile POS_JJ TOK_lot POS_NN TOK_features POS_NNS TOK_and POS_CC TOK_course POS_NN TOK_stunning POS_JJ TOK_speed POS_NN TOK_and POS_CC TOK_cool POS_JJ TOK_looks POS_NNS TOK_sure POS_RB TOK_smartphone POS_NN TOK_capable POS_JJ TOK_mid-range POS_JJ TOK_smartphones POS_NNS TOK_mobile POS_JJ TOK_market POS_NN TOK_giant POS_NN TOK_flipkart POS_NN TOK_and POS_CC TOK_guns POS_NNS TOK_flipkart POS_NN TOK_awesome POS_JJ TOK_service POS_NN TOK_channel POS_NN TOK_delivery POS_NN TOK_or POS_CC TOK_customer POS_NN TOK_service POS_NN TOK_flipkart POS_NN TOK_never POS_RB TOK_compromise POS_NN TOK_quality POS_NN 
+POS	TOK_good	POS_JJ	TOK_speed	POS_NN	TOK_lag	POS_NN	TOK_sons	POS_NNS	TOK_good	POS_JJ	TOK_speed	POS_NN	TOK_lag	POS_NN	TOK_sons	POS_NNS
 
-POS TOK_speed POS_NN TOK_river POS_NN TOK_u POS_NN TOK_speed POS_NN TOK_u POS_NN TOK_not POS_RB TOK_speed POS_NN TOK_opening POS_NN TOK_lot POS_NN TOK_time POS_NN TOK_use POS_NN TOK_nearly POS_RB TOK_days POS_NNS TOK_river POS_NN TOK_u POS_NN TOK_speed POS_NN TOK_u POS_NN TOK_not POS_RB TOK_speed POS_NN TOK_opening POS_NN TOK_lot POS_NN TOK_time POS_NN TOK_use POS_NN TOK_nearly POS_RB TOK_days POS_NNS 
 
-NEG TOK_mobile POS_JJ TOK_months POS_NNS TOK_back POS_RB TOK_but POS_CC TOK_and POS_CC TOK_again POS_RB TOK_offer POS_NN TOK_rs POS_NNS TOK_pp POS_NN TOK_but POS_CC TOK_experience POS_NN TOK_new POS_JJ TOK_mobile POS_JJ TOK_very POS_RB TOK_bad POS_JJ TOK_mobile POS_JJ TOK_times POS_NNS TOK_and POS_CC TOK_also POS_RB TOK_heavy POS_JJ TOK_applications POS_NNS TOK_not POS_RB TOK_or POS_CC 
 
-POS TOK_interest POS_NN TOK_quickly POS_RB TOK_and POS_CC TOK_max POS_NN TOK_speed POS_NN TOK_isp POS_NN 
+POS	TOK_processor	POS_NN	TOK_never	POS_RB	TOK_buckles	POS_NNS	TOK_and	POS_CC	TOK_full	POS_JJ	TOK_support	POS_NN	TOK_so	POS_RB	TOK_many	POS_JJ	TOK_parallel	POS_JJ	TOK_running	POS_NN
 
-POS TOK_core POS_JJ TOK_speed POS_NN 
 
-NEG TOK_house POS_NN TOK_brightness POS_NN TOK_screen POS_NN TOK_timeout POS_NN TOK_performance POS_NN TOK_phone POS_NN TOK_lag POS_NN TOK_free POS_JJ TOK_and POS_CC TOK_very POS_RB TOK_fast POS_RB 
 
-POS TOK_speed POS_NN 
+POS	TOK_awesome	POS_JJ	TOK_mobile	POS_JJ	TOK_lot	POS_NN	TOK_features	POS_NNS	TOK_and	POS_CC	TOK_course	POS_NN	TOK_stunning	POS_JJ	TOK_speed	POS_NN	TOK_and	POS_CC	TOK_cool	POS_JJ	TOK_looks	POS_NNS	TOK_sure	POS_RB	TOK_smartphone	POS_NN	TOK_capable	POS_JJ	TOK_mid-range	POS_JJ	TOK_smartphones	POS_NNS	TOK_mobile	POS_JJ	TOK_market	POS_NN	TOK_giant	POS_NN	TOK_flipkart	POS_NN	TOK_and	POS_CC	TOK_guns	POS_NNS	TOK_flipkart	POS_NN	TOK_awesome	POS_JJ	TOK_service	POS_NN	TOK_channel	POS_NN	TOK_delivery	POS_NN	TOK_or	POS_CC	TOK_customer	POS_NN	TOK_service	POS_NN	TOK_flipkart	POS_NN	TOK_never	POS_RB	TOK_compromise	POS_NN	TOK_quality	POS_NN
 
-POS TOK_kind POS_NN TOK_application POS_NN TOK_or POS_CC TOK_games POS_NNS TOK_os POS_NNS TOK_os POS_NNS TOK_or POS_CC TOK_runs POS_NNS TOK_fast POS_RB TOK_sons POS_NNS TOK_well POS_RB TOK_not POS_RB TOK_really POS_RB TOK_but POS_CC TOK_bit POS_NN TOK_battery POS_NN TOK_issue POS_NN TOK_very POS_RB TOK_army POS_NN TOK_or POS_CC TOK_social POS_JJ TOK_media POS_NNS 
 
-POS TOK_well POS_RB TOK_little POS_JJ TOK_exchange POS_NN TOK_carbon POS_NN TOK_happy POS_JJ TOK_phone POS_NN TOK_but POS_CC TOK_data POS_NNS TOK_cable POS_NN TOK_box POS_NN TOK_and POS_CC TOK_overall POS_JJ TOK_phone POS_NN TOK_good POS_JJ TOK_and POS_CC TOK_responsive POS_JJ TOK_and POS_CC TOK_good POS_JJ TOK_interface POS_NN TOK_and POS_CC TOK_and POS_CC TOK_mostly POS_RB TOK_andriod POS_NN TOK_lollipop POS_NN TOK_also POS_RB TOK_fast POS_RB TOK_ever POS_RB TOK_before POS_RB TOK_and POS_CC TOK_really POS_RB TOK_user POS_NN TOK_friendly POS_JJ TOK_and POS_CC TOK_conclusion POS_NN 
 
-NEG TOK_gameplay POS_NN 
+POS	TOK_speed	POS_NN	TOK_river	POS_NN	TOK_u	POS_NN	TOK_speed	POS_NN	TOK_u	POS_NN	TOK_not	POS_RB	TOK_speed	POS_NN	TOK_opening	POS_NN	TOK_lot	POS_NN	TOK_time	POS_NN	TOK_use	POS_NN	TOK_nearly	POS_RB	TOK_days	POS_NNS	TOK_river	POS_NN	TOK_u	POS_NN	TOK_speed	POS_NN	TOK_u	POS_NN	TOK_not	POS_RB	TOK_speed	POS_NN	TOK_opening	POS_NN	TOK_lot	POS_NN	TOK_time	POS_NN	TOK_use	POS_NN	TOK_nearly	POS_RB	TOK_days	POS_NNS
 
-POS TOK_os POS_NNS TOK_everything POS_NN TOK_exceptional POS_JJ TOK_phone POS_NN TOK_camera POS_NN TOK_processor POS_NN TOK_speed POS_NN TOK_os POS_NNS TOK_everything POS_NN TOK_exceptional POS_JJ TOK_phone POS_NN TOK_camera POS_NN TOK_processor POS_NN TOK_speed POS_NN 
 
-NEG TOK_never POS_RB TOK_ever POS_RB TOK_really POS_RB TOK_speed POS_NN TOK_onee POS_JJ TOK_!!!! POS_NN 
 
-POS TOK_gros POS_NNS TOK_premium POS_JJ TOK_look POS_NN TOK_os POS_NNS TOK_dual POS_JJ TOK_speakers POS_NNS TOK_loud POS_JJ TOK_n POS_NN TOK_clear POS_JJ TOK_mp POS_NN TOK_camera POS_NN TOK_amazing POS_JJ TOK_pictures POS_NNS TOK_hdr POS_NN TOK_mode POS_NN TOK_os POS_NNS TOK_day POS_NN TOK_battery POS_NN TOK_back POS_RB TOK_g POS_NN TOK_network POS_NN TOK_fast POS_RB TOK_and POS_CC TOK_shutdown POS_NN TOK_smooth POS_JJ TOK_user POS_NN TOK_interface POS_NN TOK_voice POS_NN TOK_grip POS_NN TOK_and POS_CC TOK_easy POS_JJ TOK_bones POS_NNS TOK_earphone POS_JJ TOK_quality POS_NN TOK_not POS_RB TOK_good POS_JJ TOK_only POS_RB TOK_slot POS_NN TOK_support POS_NN TOK_os POS_NNS TOK_network POS_NN 
+NEG	TOK_mobile	POS_JJ	TOK_months	POS_NNS	TOK_back	POS_RB	TOK_but	POS_CC	TOK_and	POS_CC	TOK_again	POS_RB	TOK_offer	POS_NN	TOK_rs	POS_NNS	TOK_pp	POS_NN	TOK_but	POS_CC	TOK_experience	POS_NN	TOK_new	POS_JJ	TOK_mobile	POS_JJ	TOK_very	POS_RB	TOK_bad	POS_JJ	TOK_mobile	POS_JJ	TOK_times	POS_NNS	TOK_and	POS_CC	TOK_also	POS_RB	TOK_heavy	POS_JJ	TOK_applications	POS_NNS	TOK_not	POS_RB	TOK_or	POS_CC
 
-POS TOK_blu POS_NN TOK_life POS_NN TOK_os POS_NNS TOK_year POS_NN TOK_so POS_RB TOK_more POS_RBR TOK_reputable POS_JJ TOK_company POS_NN TOK_motorola POS_NN 
 
-POS TOK_great POS_JJ TOK_very POS_RB TOK_responsive POS_JJ TOK_touch POS_NN TOK_screen POS_NN 
 
-POS TOK_good POS_NN TOK_speed POS_NN 
+POS	TOK_interest	POS_NN	TOK_quickly	POS_RB	TOK_and	POS_CC	TOK_max	POS_NN	TOK_speed	POS_NN	TOK_isp	POS_NN
 
-POS TOK_plans POS_NNS TOK_and POS_CC TOK_great POS_JJ TOK_connection POS_NN TOK_speed POS_NN TOK_needs POS_NNS 
 
-NEG TOK_games POS_NNS TOK_and POS_CC TOK_os POS_NNS TOK_video POS_NN 
 
-POS TOK_price POS_NN TOK_range POS_NN TOK_moto POS_NN TOK_best POS_JJS TOK_and POS_CC TOK_very POS_RB TOK_satisfied POS_JJ TOK_processor POS_NN TOK_features POS_NNS TOK_mobile POS_JJ TOK_camera POS_NN TOK_good POS_JJ TOK_front POS_NN TOK_camera POS_NN TOK_also POS_RB TOK_good POS_JJ TOK_touch POS_NN TOK_nice POS_JJ TOK_and POS_CC TOK_smooth POS_JJ TOK_dual POS_JJ TOK_speakers POS_NNS TOK_perfect POS_JJ TOK_battery POS_NN TOK_back POS_NN TOK_good POS_JJ TOK_quality POS_NN TOK_superb POS_JJ 
+POS	TOK_core	POS_JJ	TOK_speed	POS_NN
 
-POS TOK_good POS_JJ TOK_form POS_NN TOK_factor POS_NN TOK_adequate POS_JJ TOK_weight POS_NN TOK_size POS_NN TOK_very POS_RB TOK_responsive POS_JJ TOK_touch-screen POS_NN TOK_lovely POS_JJ TOK_camera POS_NN TOK_primary POS_NN TOK_and POS_CC TOK_secondary POS_JJ TOK_and POS_CC TOK_flash POS_NN TOK_n't POS_RB TOK_pitch POS_NN TOK_1gb POS_JJ TOK_ram POS_NN TOK_normal POS_JJ TOK_work POS_NN TOK_not POS_RB TOK_games POS_NNS TOK_16gb POS_JJ TOK_internal POS_JJ TOK_memory POS_NN TOK_inclusion POS_NN TOK_expandable POS_JJ TOK_micro POS_NN TOK_os POS_NNS 
 
-POS TOK_processor POS_NN TOK_version POS_NN TOK_previous POS_JJ TOK_version POS_NN TOK_snapdragon POS_NN TOK_and POS_CC TOK_quand POS_JJ TOK_core POS_NN TOK_ghz POS_NN TOK_phone POS_NN TOK_not POS_RB TOK_games POS_NNS TOK_shalt POS_NN TOK_os POS_NNS TOK_trigger POS_NN TOK_nova POS_NN 
 
-POS TOK_speed POS_NN 
+NEG	TOK_house	POS_NN	TOK_brightness	POS_NN	TOK_screen	POS_NN	TOK_timeout	POS_NN	TOK_performance	POS_NN	TOK_phone	POS_NN	TOK_lag	POS_NN	TOK_free	POS_JJ	TOK_and	POS_CC	TOK_very	POS_RB	TOK_fast	POS_RB
 
-POS TOK_great POS_JJ TOK_processor POS_NN 
 
-NEG TOK_os POS_NNS TOK_unable POS_JJ TOK_access POS_NN TOK_ratification POS_NN TOK_war POS_NN TOK_top POS_NN TOK_screen POS_NN TOK_os POS_NNS TOK_bottom POS_NN TOK_really POS_RB TOK_responsive POS_JJ 
 
-POS TOK_os POS_NNS TOK_ghz POS_NN TOK_quand POS_NN TOK_core POS_NN TOK_processor POS_NN TOK_mighty POS_JJ TOK_beast POS_NN TOK_multiple POS_JJ TOK_apes POS_NNS TOK_last POS_JJ 
+POS	TOK_speed	POS_NN
 
-POS TOK_great POS_JJ TOK_processor POS_NN 
 
-POS TOK_last POS_JJ TOK_processor POS_NN TOK_excellent POS_JJ TOK_wife POS_NN TOK_conductivity POS_NN TOK_good POS_JJ TOK_battery POS_NN TOK_back POS_RB TOK_up POS_RB TOK_camera POS_NN TOK_clarity POS_NN TOK_and POS_CC TOK_video POS_NN TOK_graphics POS_NNS TOK_just POS_RB TOK_superb POS_JJ TOK_never POS_RB 
 
-NEG TOK_mitka POS_NN TOK_lot POS_NN TOK_battery POS_NN TOK_issue POS_NN TOK_now POS_RB TOK_bath POS_NN TOK_issue POS_NN TOK_but POS_CC TOK_lot POS_NN TOK_due POS_JJ 
+POS	TOK_kind	POS_NN	TOK_application	POS_NN	TOK_or	POS_CC	TOK_games	POS_NNS	TOK_os	POS_NNS	TOK_os	POS_NNS	TOK_or	POS_CC	TOK_runs	POS_NNS	TOK_fast	POS_RB	TOK_sons	POS_NNS	TOK_well	POS_RB	TOK_not	POS_RB	TOK_really	POS_RB	TOK_but	POS_CC	TOK_bit	POS_NN	TOK_battery	POS_NN	TOK_issue	POS_NN	TOK_very	POS_RB	TOK_army	POS_NN	TOK_or	POS_CC	TOK_social	POS_JJ	TOK_media	POS_NNS
 
-POS TOK_mobile POS_JJ TOK_overall POS_NN TOK_excellent POS_JJ TOK_matters POS_NNS TOK_happy POS_JJ TOK_screen POS_NN TOK_excellent POS_JJ TOK_camera POS_NN TOK_superb POS_NN TOK_sound POS_JJ TOK_quality POS_NN TOK_good POS_JJ TOK_ram POS_NN TOK_speed POS_NN TOK_good POS_JJ TOK_yet POS_RB TOK_lag POS_NN TOK_months POS_NNS TOK_mobile POS_JJ TOK_overall POS_NN TOK_excellent POS_JJ TOK_matters POS_NNS TOK_happy POS_JJ TOK_screen POS_NN TOK_excellent POS_JJ TOK_camera POS_NN TOK_superb POS_NN TOK_sound POS_JJ TOK_quality POS_NN TOK_good POS_JJ TOK_ram POS_NN TOK_speed POS_NN TOK_good POS_JJ TOK_yet POS_RB TOK_lag POS_NN TOK_months POS_NNS 
 
-POS TOK_review POS_NN TOK_month POS_NN TOK_now POS_RB TOK_simple POS_JJ TOK_lag POS_NN TOK_free POS_JJ TOK_ui POS_NN TOK_ota POS_JJ TOK_lolipop POS_NN TOK_soon POS_RB TOK_way POS_RB TOK_better POS_JJR TOK_asus POS_NN TOK_zenfone POS_NN TOK_great POS_JJ TOK_voice POS_NN TOK_clarity POS_NN TOK_awesome POS_JJ TOK_dual POS_JJ TOK_speakers POS_NNS TOK_front POS_JJ TOK_premium POS_NN TOK_nice POS_JJ TOK_finish POS_NN TOK_back POS_JJ TOK_wonderful POS_JJ TOK_camera POS_NN TOK_front POS_NN TOK_and POS_CC TOK_back POS_RB TOK_battery POS_NN TOK_good POS_JJ TOK_enough POS_RB TOK_usage POS_NN TOK_day POS_NN TOK_mixed POS_JJ TOK_usage POS_NN TOK_sons POS_NNS TOK_symmetric POS_JJ TOK_design POS_NN TOK_difficult POS_JJ TOK_upside POS_RB TOK_down POS_RB TOK_verdict POS_NN TOK_bet POS_NN TOK_regret POS_NN 
 
-NEG TOK_p POS_NN TOK_video POS_NN TOK_also POS_RB TOK_lag POS_NN TOK_phone POS_NN TOK_internet POS_NN TOK_fast POS_RB TOK_and POS_CC TOK_wife POS_NN TOK_perfectly POS_RB 
+POS	TOK_well	POS_RB	TOK_little	POS_JJ	TOK_exchange	POS_NN	TOK_carbon	POS_NN	TOK_happy	POS_JJ	TOK_phone	POS_NN	TOK_but	POS_CC	TOK_data	POS_NNS	TOK_cable	POS_NN	TOK_box	POS_NN	TOK_and	POS_CC	TOK_overall	POS_JJ	TOK_phone	POS_NN	TOK_good	POS_JJ	TOK_and	POS_CC	TOK_responsive	POS_JJ	TOK_and	POS_CC	TOK_good	POS_JJ	TOK_interface	POS_NN	TOK_and	POS_CC	TOK_and	POS_CC	TOK_mostly	POS_RB	TOK_andriod	POS_NN	TOK_lollipop	POS_NN	TOK_also	POS_RB	TOK_fast	POS_RB	TOK_ever	POS_RB	TOK_before	POS_RB	TOK_and	POS_CC	TOK_really	POS_RB	TOK_user	POS_NN	TOK_friendly	POS_JJ	TOK_and	POS_CC	TOK_conclusion	POS_NN
 
-NEg TOK_speed POS_NN 
 
-NEG TOK_not POS_RB 
 
-NEG TOK_low POS_JJ TOK_time POS_NN TOK_u POS_JJ TOK_use POS_NN TOK_facebook POS_NN TOK_and POS_CC TOK_other POS_JJ TOK_heavy POS_JJ TOK_apes POS_NNS TOK_games POS_NNS TOK_smooth POS_JJ TOK_but POS_CC TOK_lag POS_NN TOK_sometime POS_RB 
+NEG	TOK_gameplay	POS_NN
 
-POS TOK_processor POS_NN TOK_same POS_JJ TOK_moto POS_NN TOK_os POS_NNS TOK_so POS_RB TOK_moto POS_NN TOK_g POS_NN TOK_then POS_RB TOK_u POS_NN TOK_skin POS_NN TOK_next POS_JJ TOK_point POS_NN TOK_processor POS_NN TOK_smooth POS_JJ TOK_and POS_CC TOK_dint POS_JJ TOK_lag POS_NN TOK_bit POS_NN TOK_now POS_RB TOK_processor POS_NN TOK_smooth POS_JJ TOK_and POS_CC TOK_dint POS_JJ TOK_lag POS_NN TOK_bit POS_NN TOK_now POS_RB 
 
-POS TOK_there POS_RB TOK_lag POS_NN TOK_gaming POS_NN TOK_or POS_CC TOK_other POS_JJ TOK_applications POS_NNS 
 
-POS TOK_first POS_RB TOK_review POS_NN TOK_first POS_JJ TOK_congratulate POS_NN TOK_flipkart POS_NN TOK_delivery POS_NN TOK_speed POS_NN TOK_product POS_NN TOK_just POS_RB TOK_day POS_NN TOK_os POS_NNS TOK_now POS_RB TOK_phone POS_NN TOK_best POS_JJS TOK_price POS_NN TOK_range POS_NN TOK_stylish POS_JJ TOK_and POS_CC TOK_user POS_NN TOK_and POS_CC TOK_user POS_NN TOK_interface POS_NN TOK_display POS_NN TOK_loud POS_JJ TOK_and POS_CC TOK_good POS_JJ TOK_quality POS_NN TOK_front POS_NN TOK_loudspeakers POS_NNS TOK_amazing POS_JJ TOK_camera POS_NN TOK_quality POS_NN TOK_and POS_CC TOK_also POS_RB TOK_very POS_RB TOK_good POS_JJ TOK_front POS_NN TOK_cam POS_NN TOK_amazing POS_JJ TOK_series POS_NN TOK_os POS_NNS TOK_lightning POS_NN TOK_speed POS_NN TOK_processor POS_NN TOK_lag POS_NN TOK_or POS_CC TOK_os POS_NNS TOK_os POS_NNS TOK_external POS_JJ TOK_memory POS_NN TOK_expandable POS_JJ TOK_unto POS_JJ TOK_32gb POS_JJ TOK_even POS_RB TOK_16gb POS_JJ TOK_internal POS_JJ TOK_bones POS_NNS TOK_pretty POS_RB TOK_average POS_JJ TOK_or POS_CC TOK_par POS_JJ TOK_battery POS_NN TOK_difficult POS_JJ TOK_accessories POS_NNS TOK_product POS_NN TOK_new POS_JJ TOK_market POS_NN TOK_but POS_CC TOK_sure POS_RB TOK_matter POS_NN TOK_weeks POS_NNS TOK_os POS_NNS TOK_poor POS_JJ TOK_quality POS_NN TOK_headphones POS_NNS TOK_stylish POS_JJ TOK_and POS_CC TOK_user POS_NN TOK_and POS_CC TOK_user POS_NN TOK_interface POS_NN TOK_display POS_NN TOK_loud POS_JJ TOK_and POS_CC TOK_good POS_JJ TOK_quality POS_NN TOK_front POS_NN TOK_loudspeakers POS_NNS TOK_amazing POS_JJ TOK_camera POS_NN TOK_quality POS_NN TOK_and POS_CC TOK_also POS_RB TOK_very POS_RB TOK_good POS_JJ TOK_front POS_NN TOK_cam POS_NN TOK_amazing POS_JJ TOK_series POS_NN TOK_os POS_NNS TOK_lightning POS_NN TOK_speed POS_NN TOK_processor POS_NN TOK_lag POS_NN TOK_or POS_CC TOK_os POS_NNS TOK_os POS_NNS TOK_external POS_JJ TOK_memory POS_NN TOK_expandable POS_JJ TOK_unto POS_JJ TOK_32gb POS_JJ TOK_even POS_RB TOK_16gb POS_JJ TOK_internal POS_JJ TOK_bones POS_NNS TOK_pretty POS_RB TOK_average POS_JJ TOK_or POS_CC TOK_par POS_JJ TOK_battery POS_NN TOK_difficult POS_JJ TOK_accessories POS_NNS TOK_product POS_NN TOK_new POS_JJ TOK_market POS_NN TOK_but POS_CC TOK_sure POS_RB TOK_matter POS_NN TOK_weeks POS_NNS TOK_os POS_NNS TOK_poor POS_JJ TOK_quality POS_NN TOK_headphones POS_NNS TOK_stylish POS_JJ TOK_and POS_CC TOK_user POS_NN TOK_and POS_CC TOK_user POS_NN TOK_interface POS_NN TOK_display POS_NN TOK_loud POS_JJ TOK_and POS_CC TOK_good POS_JJ TOK_quality POS_NN TOK_front POS_NN TOK_loudspeakers POS_NNS TOK_amazing POS_JJ TOK_camera POS_NN TOK_quality POS_NN TOK_and POS_CC TOK_also POS_RB TOK_very POS_RB TOK_good POS_JJ TOK_front POS_NN TOK_cam POS_NN TOK_amazing POS_JJ TOK_series POS_NN TOK_os POS_NNS TOK_lightning POS_NN TOK_speed POS_NN TOK_processor POS_NN TOK_lag POS_NN TOK_or POS_CC TOK_os POS_NNS TOK_os POS_NNS TOK_external POS_JJ TOK_memory POS_NN TOK_expandable POS_JJ TOK_unto POS_JJ TOK_32gb POS_JJ TOK_even POS_RB TOK_16gb POS_JJ TOK_internal POS_JJ TOK_bones POS_NNS TOK_pretty POS_RB TOK_average POS_JJ TOK_or POS_CC TOK_par POS_JJ TOK_battery POS_NN TOK_difficult POS_JJ TOK_accessories POS_NNS TOK_product POS_NN TOK_new POS_JJ TOK_market POS_NN TOK_but POS_CC TOK_sure POS_RB TOK_matter POS_NN TOK_weeks POS_NNS TOK_os POS_NNS TOK_poor POS_JJ TOK_quality POS_NN TOK_headphones POS_NNS TOK_stylish POS_JJ TOK_and POS_CC TOK_user POS_NN TOK_and POS_CC TOK_user POS_NN TOK_interface POS_NN TOK_display POS_NN TOK_loud POS_JJ TOK_and POS_CC TOK_good POS_JJ TOK_quality POS_NN TOK_front POS_NN TOK_loudspeakers POS_NNS TOK_amazing POS_JJ TOK_camera POS_NN TOK_quality POS_NN TOK_and POS_CC TOK_also POS_RB TOK_very POS_RB TOK_good POS_JJ TOK_front POS_NN TOK_cam POS_NN TOK_amazing POS_JJ TOK_series POS_NN TOK_os POS_NNS TOK_lightning POS_NN TOK_speed POS_NN TOK_processor POS_NN TOK_lag POS_NN TOK_or POS_CC TOK_os POS_NNS TOK_os POS_NNS TOK_external POS_JJ TOK_memory POS_NN TOK_expandable POS_JJ TOK_unto POS_JJ TOK_32gb POS_JJ TOK_even POS_RB TOK_16gb POS_JJ TOK_internal POS_JJ TOK_bones POS_NNS TOK_pretty POS_RB TOK_average POS_JJ TOK_or POS_CC TOK_par POS_JJ TOK_battery POS_NN TOK_difficult POS_JJ TOK_accessories POS_NNS TOK_product POS_NN TOK_new POS_JJ TOK_market POS_NN TOK_but POS_CC TOK_sure POS_RB TOK_matter POS_NN TOK_weeks POS_NNS TOK_os POS_NNS TOK_poor POS_JJ TOK_quality POS_NN TOK_headphones POS_NNS 
+POS	TOK_os	POS_NNS	TOK_everything	POS_NN	TOK_exceptional	POS_JJ	TOK_phone	POS_NN	TOK_camera	POS_NN	TOK_processor	POS_NN	TOK_speed	POS_NN	TOK_os	POS_NNS	TOK_everything	POS_NN	TOK_exceptional	POS_JJ	TOK_phone	POS_NN	TOK_camera	POS_NN	TOK_processor	POS_NN	TOK_speed	POS_NN
 
-POS TOK_speed POS_NN TOK_great POS_JJ TOK_laws POS_NNS TOK_and POS_CC TOK_many POS_JJ TOK_games POS_NNS TOK_phone POS_NN TOK_and POS_CC TOK_glitch POS_NN 
 
-POS TOK_gameplay POS_NN 
 
-POS TOK_excellent POS_JJ TOK_piece POS_NN TOK_performance POS_NN TOK_smartphone POS_NN TOK_speed POS_NN TOK_operations POS_NNS TOK_camera POS_NN TOK_quality POS_NN TOK_and POS_CC TOK_network POS_NN TOK_as POS_RB TOK_well POS_RB TOK_battery POS_NN TOK_back POS_RB TOK_day POS_NN TOK_functions POS_NNS TOK_ease POS_NN 
+NEG	TOK_never	POS_RB	TOK_ever	POS_RB	TOK_really	POS_RB	TOK_speed	POS_NN	TOK_onee	POS_JJ	TOK_!!!!	POS_NN
 
-POS TOK_speed POS_NN TOK_superb POS_JJ 
 
-POS TOK_phone POS_NN TOK_and POS_CC TOK_speed POS_NN TOK_moto POS_NN TOK_g POS_NN TOK_processor POS_NN TOK_micro POS_NN TOK_os POS_NNS TOK_card POS_NN TOK_slot POS_NN TOK_beautiful POS_JJ TOK_os POS_NNS TOK_display POS_NN TOK_and POS_CC TOK_8mp POS_JJ TOK_camera POS_NN 
 
-POS TOK_os POS_NNS TOK_ghz POS_NN TOK_quand POS_NN TOK_core POS_NN TOK_processor POS_NN TOK_mighty POS_JJ TOK_beast POS_NN TOK_multiple POS_JJ TOK_apes POS_NNS TOK_last POS_JJ 
+POS	TOK_gros	POS_NNS	TOK_premium	POS_JJ	TOK_look	POS_NN	TOK_os	POS_NNS	TOK_dual	POS_JJ	TOK_speakers	POS_NNS	TOK_loud	POS_JJ	TOK_n	POS_NN	TOK_clear	POS_JJ	TOK_mp	POS_NN	TOK_camera	POS_NN	TOK_amazing	POS_JJ	TOK_pictures	POS_NNS	TOK_hdr	POS_NN	TOK_mode	POS_NN	TOK_os	POS_NNS	TOK_day	POS_NN	TOK_battery	POS_NN	TOK_back	POS_RB	TOK_g	POS_NN	TOK_network	POS_NN	TOK_fast	POS_RB	TOK_and	POS_CC	TOK_shutdown	POS_NN	TOK_smooth	POS_JJ	TOK_user	POS_NN	TOK_interface	POS_NN	TOK_voice	POS_NN	TOK_grip	POS_NN	TOK_and	POS_CC	TOK_easy	POS_JJ	TOK_bones	POS_NNS	TOK_earphone	POS_JJ	TOK_quality	POS_NN	TOK_not	POS_RB	TOK_good	POS_JJ	TOK_only	POS_RB	TOK_slot	POS_NN	TOK_support	POS_NN	TOK_os	POS_NNS	TOK_network	POS_NN
 
-POS TOK_problem POS_NN TOK_option POS_NN TOK_sometimes POS_RB TOK_switch POS_NN TOK_otherwise POS_RB TOK_prone POS_JJ TOK_god POS_NN TOK_camera POS_NN TOK_quality POS_NN 
 
-POS TOK_phone POS_NN TOK_fast POS_RB TOK_and POS_CC TOK_responsive POS_JJ 
 
-POS TOK_great POS_JJ TOK_processor POS_NN TOK_cool POS_JJ TOK_video POS_NN TOK_and POS_CC TOK_graphics POS_NNS TOK_resolution POS_NN TOK_acceptable POS_JJ TOK_memory POS_NN 
+POS	TOK_blu	POS_NN	TOK_life	POS_NN	TOK_os	POS_NNS	TOK_year	POS_NN	TOK_so	POS_RB	TOK_more	POS_RBR	TOK_reputable	POS_JJ	TOK_company	POS_NN	TOK_motorola	POS_NN
 
-POS TOK_phone POS_NN TOK_neatly POS_RB TOK_phone POS_NN TOK_crisp POS_JJ TOK_screen POS_NN TOK_and POS_CC TOK_display POS_NN TOK_good POS_JJ TOK_performance POS_NN TOK_also POS_RB TOK_free POS_JJ TOK_camera POS_NN TOK_decent POS_JJ TOK_photo POS_NN 
 
-POS TOK_pp POS_NN TOK_good POS_JJ TOK_running POS_NN TOK_& POS_CC TOK_speed POS_NN TOK_very POS_RB TOK_fast POS_RB TOK_very POS_RB TOK_time POS_NN 
 
-POS TOK_vice POS_NN TOK_shone POS_NN TOK_& POS_CC TOK_battery POS_NN TOK_back POS_RB TOK_& POS_CC TOK_problem POS_NN TOK_good POS_JJ TOK_camera POS_NN TOK_quality POS_NN TOK_even POS_RB TOK_low POS_JJ TOK_light POS_NN TOK_specially POS_RB 
+POS	TOK_great	POS_JJ	TOK_very	POS_RB	TOK_responsive	POS_JJ	TOK_touch	POS_NN	TOK_screen	POS_NN
 
-POS TOK_run POS_NN TOK_totally POS_RB TOK_free POS_JJ 
 
-POS TOK_moto POS_NN TOK_g POS_NN TOK_wont POS_NN TOK_good POS_JJ TOK_ram POS_NN TOK_capacity POS_NN TOK_and POS_CC TOK_also POS_RB TOK_upgradable POS_JJ TOK_kitkat POS_NN 
 
-POS TOK_processor POS_NN TOK_pretty POS_RB TOK_quick POS_JJ TOK_most POS_JJS TOK_everything POS_NN TOK_phone POS_NN TOK_nice POS_JJ TOK_array POS_NN TOK_features POS_NNS TOK_and POS_CC TOK_doesn POS_NN TOK_much POS_JJ TOK_bloatware POS_NN TOK_average POS_JJ TOK_phone POS_NN 
+POS	TOK_good	POS_NN	TOK_speed	POS_NN
 
-POS TOK_price POS_NN TOK_moto POS_NN TOK_g POS_NN TOK_second POS_JJ TOK_gen POS_NN TOK_lots POS_NNS TOK_good POS_JJ TOK_phone POS_NN TOK_available POS_JJ TOK_and POS_CC TOK_much POS_RB TOK_better POS_JJR TOK_camera POS_NN TOK_interface POS_NN TOK_but POS_CC TOK_sick POS_JJ TOK_well POS_RB TOK_lag POS_NN TOK_free POS_JJ TOK_phone POS_NN TOK_slow POS_JJ TOK_many POS_JJ TOK_upgrade POS_JJ TOK_moto POS_NN TOK_g POS_NN TOK_second POS_JJ TOK_gen POS_NN TOK_good POS_JJ TOK_choice POS_NN 
 
-POS TOK_awesome POS_JJ TOK_camera POS_NN TOK_smooth POS_JJ TOK_processor POS_NN TOK_vice POS_NN TOK_touch POS_NN TOK_awesome POS_JJ TOK_sound POS_NN TOK_value POS_NN TOK_money POS_NN 
 
-POS TOK_mobile POS_JJ TOK_looks POS_NNS TOK_good POS_JJ TOK_os POS_NNS TOK_word POS_NN TOK_better POS_JJR TOK_then POS_RB TOK_htc POS_JJ TOK_desire POS_NN TOK_models POS_NNS TOK_os POS_NNS TOK_gros POS_NNS TOK_camera POS_NN TOK_quality POS_NN TOK_marvelous POS_JJ TOK_speed POS_NN TOK_good POS_JJ TOK_too POS_RB TOK_os POS_JJ TOK_rest POS_NN TOK_other POS_JJ TOK_review POS_NN TOK_guys POS_NNS 
+POS	TOK_plans	POS_NNS	TOK_and	POS_CC	TOK_great	POS_JJ	TOK_connection	POS_NN	TOK_speed	POS_NN	TOK_needs	POS_NNS
 
-POS TOK_play POS_NN TOK_shalt POS_NN TOK_much POS_JJ TOK_lag POS_NN TOK_almost POS_RB TOK_smooth POS_JJ TOK_medium POS_NN TOK_graphics POS_NNS 
 
-POS TOK_speed POS_NN TOK_phone POS_NN TOK_good POS_JJ 
 
-POS TOK_fantastic POS_JJ TOK_and POS_CC TOK_wonderful POS_JJ TOK_manner POS_NN TOK_motorola POS_NN TOK_always POS_RB TOK_rocky POS_JJ TOK_very POS_RB TOK_sound POS_JJ TOK_screen POS_NN TOK_processor POS_NN TOK_speed POS_NN TOK_everything POS_NN TOK_fantastic POS_JJ TOK_fantastic POS_JJ TOK_and POS_CC TOK_wonderful POS_JJ TOK_manner POS_NN TOK_motorola POS_NN TOK_always POS_RB TOK_rocky POS_JJ TOK_very POS_RB TOK_sound POS_JJ TOK_screen POS_NN TOK_processor POS_NN TOK_speed POS_NN TOK_everything POS_NN TOK_fantastic POS_JJ 
+NEG	TOK_games	POS_NNS	TOK_and	POS_CC	TOK_os	POS_NNS	TOK_video	POS_NN
 
-NEG TOK_moto POS_NN TOK_g POS_NN TOK_and POS_CC TOK_gen POS_NN TOK_January POS_NNP TOK_many POS_JJ TOK_times POS_NNS TOK_applications POS_NNS TOK_and POS_CC TOK_now POS_RB TOK_hardware POS_NN TOK_issues POS_NNS TOK_service POS_NN TOK_motorola POS_NN TOK_not POS_RB TOK_good POS_JJ TOK_June POS_NNP 
+
+
+POS	TOK_price	POS_NN	TOK_range	POS_NN	TOK_moto	POS_NN	TOK_best	POS_JJS	TOK_and	POS_CC	TOK_very	POS_RB	TOK_satisfied	POS_JJ	TOK_processor	POS_NN	TOK_features	POS_NNS	TOK_mobile	POS_JJ	TOK_camera	POS_NN	TOK_good	POS_JJ	TOK_front	POS_NN	TOK_camera	POS_NN	TOK_also	POS_RB	TOK_good	POS_JJ	TOK_touch	POS_NN	TOK_nice	POS_JJ	TOK_and	POS_CC	TOK_smooth	POS_JJ	TOK_dual	POS_JJ	TOK_speakers	POS_NNS	TOK_perfect	POS_JJ	TOK_battery	POS_NN	TOK_back	POS_NN	TOK_good	POS_JJ	TOK_quality	POS_NN	TOK_superb	POS_JJ
+
+
+
+POS	TOK_good	POS_JJ	TOK_form	POS_NN	TOK_factor	POS_NN	TOK_adequate	POS_JJ	TOK_weight	POS_NN	TOK_size	POS_NN	TOK_very	POS_RB	TOK_responsive	POS_JJ	TOK_touch-screen	POS_NN	TOK_lovely	POS_JJ	TOK_camera	POS_NN	TOK_primary	POS_NN	TOK_and	POS_CC	TOK_secondary	POS_JJ	TOK_and	POS_CC	TOK_flash	POS_NN	TOK_n't	POS_RB	TOK_pitch	POS_NN	TOK_1gb	POS_JJ	TOK_ram	POS_NN	TOK_normal	POS_JJ	TOK_work	POS_NN	TOK_not	POS_RB	TOK_games	POS_NNS	TOK_16gb	POS_JJ	TOK_internal	POS_JJ	TOK_memory	POS_NN	TOK_inclusion	POS_NN	TOK_expandable	POS_JJ	TOK_micro	POS_NN	TOK_os	POS_NNS
+
+
+
+POS	TOK_processor	POS_NN	TOK_version	POS_NN	TOK_previous	POS_JJ	TOK_version	POS_NN	TOK_snapdragon	POS_NN	TOK_and	POS_CC	TOK_quand	POS_JJ	TOK_core	POS_NN	TOK_ghz	POS_NN	TOK_phone	POS_NN	TOK_not	POS_RB	TOK_games	POS_NNS	TOK_shalt	POS_NN	TOK_os	POS_NNS	TOK_trigger	POS_NN	TOK_nova	POS_NN
+
+
+
+POS	TOK_speed	POS_NN
+
+
+
+POS	TOK_great	POS_JJ	TOK_processor	POS_NN
+
+
+
+NEG	TOK_os	POS_NNS	TOK_unable	POS_JJ	TOK_access	POS_NN	TOK_ratification	POS_NN	TOK_war	POS_NN	TOK_top	POS_NN	TOK_screen	POS_NN	TOK_os	POS_NNS	TOK_bottom	POS_NN	TOK_really	POS_RB	TOK_responsive	POS_JJ
+
+
+
+POS	TOK_os	POS_NNS	TOK_ghz	POS_NN	TOK_quand	POS_NN	TOK_core	POS_NN	TOK_processor	POS_NN	TOK_mighty	POS_JJ	TOK_beast	POS_NN	TOK_multiple	POS_JJ	TOK_apes	POS_NNS	TOK_last	POS_JJ
+
+
+
+POS	TOK_great	POS_JJ	TOK_processor	POS_NN
+
+
+
+POS	TOK_last	POS_JJ	TOK_processor	POS_NN	TOK_excellent	POS_JJ	TOK_wife	POS_NN	TOK_conductivity	POS_NN	TOK_good	POS_JJ	TOK_battery	POS_NN	TOK_back	POS_RB	TOK_up	POS_RB	TOK_camera	POS_NN	TOK_clarity	POS_NN	TOK_and	POS_CC	TOK_video	POS_NN	TOK_graphics	POS_NNS	TOK_just	POS_RB	TOK_superb	POS_JJ	TOK_never	POS_RB
+
+
+
+NEG	TOK_mitka	POS_NN	TOK_lot	POS_NN	TOK_battery	POS_NN	TOK_issue	POS_NN	TOK_now	POS_RB	TOK_bath	POS_NN	TOK_issue	POS_NN	TOK_but	POS_CC	TOK_lot	POS_NN	TOK_due	POS_JJ
+
+
+
+POS	TOK_mobile	POS_JJ	TOK_overall	POS_NN	TOK_excellent	POS_JJ	TOK_matters	POS_NNS	TOK_happy	POS_JJ	TOK_screen	POS_NN	TOK_excellent	POS_JJ	TOK_camera	POS_NN	TOK_superb	POS_NN	TOK_sound	POS_JJ	TOK_quality	POS_NN	TOK_good	POS_JJ	TOK_ram	POS_NN	TOK_speed	POS_NN	TOK_good	POS_JJ	TOK_yet	POS_RB	TOK_lag	POS_NN	TOK_months	POS_NNS	TOK_mobile	POS_JJ	TOK_overall	POS_NN	TOK_excellent	POS_JJ	TOK_matters	POS_NNS	TOK_happy	POS_JJ	TOK_screen	POS_NN	TOK_excellent	POS_JJ	TOK_camera	POS_NN	TOK_superb	POS_NN	TOK_sound	POS_JJ	TOK_quality	POS_NN	TOK_good	POS_JJ	TOK_ram	POS_NN	TOK_speed	POS_NN	TOK_good	POS_JJ	TOK_yet	POS_RB	TOK_lag	POS_NN	TOK_months	POS_NNS
+
+
+
+POS	TOK_review	POS_NN	TOK_month	POS_NN	TOK_now	POS_RB	TOK_simple	POS_JJ	TOK_lag	POS_NN	TOK_free	POS_JJ	TOK_ui	POS_NN	TOK_ota	POS_JJ	TOK_lolipop	POS_NN	TOK_soon	POS_RB	TOK_way	POS_RB	TOK_better	POS_JJR	TOK_asus	POS_NN	TOK_zenfone	POS_NN	TOK_great	POS_JJ	TOK_voice	POS_NN	TOK_clarity	POS_NN	TOK_awesome	POS_JJ	TOK_dual	POS_JJ	TOK_speakers	POS_NNS	TOK_front	POS_JJ	TOK_premium	POS_NN	TOK_nice	POS_JJ	TOK_finish	POS_NN	TOK_back	POS_JJ	TOK_wonderful	POS_JJ	TOK_camera	POS_NN	TOK_front	POS_NN	TOK_and	POS_CC	TOK_back	POS_RB	TOK_battery	POS_NN	TOK_good	POS_JJ	TOK_enough	POS_RB	TOK_usage	POS_NN	TOK_day	POS_NN	TOK_mixed	POS_JJ	TOK_usage	POS_NN	TOK_sons	POS_NNS	TOK_symmetric	POS_JJ	TOK_design	POS_NN	TOK_difficult	POS_JJ	TOK_upside	POS_RB	TOK_down	POS_RB	TOK_verdict	POS_NN	TOK_bet	POS_NN	TOK_regret	POS_NN
+
+
+
+NEG	TOK_p	POS_NN	TOK_video	POS_NN	TOK_also	POS_RB	TOK_lag	POS_NN	TOK_phone	POS_NN	TOK_internet	POS_NN	TOK_fast	POS_RB	TOK_and	POS_CC	TOK_wife	POS_NN	TOK_perfectly	POS_RB
+
+
+
+NEg	TOK_speed	POS_NN
+
+
+
+NEG	TOK_not	POS_RB
+
+
+
+NEG	TOK_low	POS_JJ	TOK_time	POS_NN	TOK_u	POS_JJ	TOK_use	POS_NN	TOK_facebook	POS_NN	TOK_and	POS_CC	TOK_other	POS_JJ	TOK_heavy	POS_JJ	TOK_apes	POS_NNS	TOK_games	POS_NNS	TOK_smooth	POS_JJ	TOK_but	POS_CC	TOK_lag	POS_NN	TOK_sometime	POS_RB
+
+
+
+POS	TOK_processor	POS_NN	TOK_same	POS_JJ	TOK_moto	POS_NN	TOK_os	POS_NNS	TOK_so	POS_RB	TOK_moto	POS_NN	TOK_g	POS_NN	TOK_then	POS_RB	TOK_u	POS_NN	TOK_skin	POS_NN	TOK_next	POS_JJ	TOK_point	POS_NN	TOK_processor	POS_NN	TOK_smooth	POS_JJ	TOK_and	POS_CC	TOK_dint	POS_JJ	TOK_lag	POS_NN	TOK_bit	POS_NN	TOK_now	POS_RB	TOK_processor	POS_NN	TOK_smooth	POS_JJ	TOK_and	POS_CC	TOK_dint	POS_JJ	TOK_lag	POS_NN	TOK_bit	POS_NN	TOK_now	POS_RB
+
+
+
+POS	TOK_there	POS_RB	TOK_lag	POS_NN	TOK_gaming	POS_NN	TOK_or	POS_CC	TOK_other	POS_JJ	TOK_applications	POS_NNS
+
+
+
+POS	TOK_first	POS_RB	TOK_review	POS_NN	TOK_first	POS_JJ	TOK_congratulate	POS_NN	TOK_flipkart	POS_NN	TOK_delivery	POS_NN	TOK_speed	POS_NN	TOK_product	POS_NN	TOK_just	POS_RB	TOK_day	POS_NN	TOK_os	POS_NNS	TOK_now	POS_RB	TOK_phone	POS_NN	TOK_best	POS_JJS	TOK_price	POS_NN	TOK_range	POS_NN	TOK_stylish	POS_JJ	TOK_and	POS_CC	TOK_user	POS_NN	TOK_and	POS_CC	TOK_user	POS_NN	TOK_interface	POS_NN	TOK_display	POS_NN	TOK_loud	POS_JJ	TOK_and	POS_CC	TOK_good	POS_JJ	TOK_quality	POS_NN	TOK_front	POS_NN	TOK_loudspeakers	POS_NNS	TOK_amazing	POS_JJ	TOK_camera	POS_NN	TOK_quality	POS_NN	TOK_and	POS_CC	TOK_also	POS_RB	TOK_very	POS_RB	TOK_good	POS_JJ	TOK_front	POS_NN	TOK_cam	POS_NN	TOK_amazing	POS_JJ	TOK_series	POS_NN	TOK_os	POS_NNS	TOK_lightning	POS_NN	TOK_speed	POS_NN	TOK_processor	POS_NN	TOK_lag	POS_NN	TOK_or	POS_CC	TOK_os	POS_NNS	TOK_os	POS_NNS	TOK_external	POS_JJ	TOK_memory	POS_NN	TOK_expandable	POS_JJ	TOK_unto	POS_JJ	TOK_32gb	POS_JJ	TOK_even	POS_RB	TOK_16gb	POS_JJ	TOK_internal	POS_JJ	TOK_bones	POS_NNS	TOK_pretty	POS_RB	TOK_average	POS_JJ	TOK_or	POS_CC	TOK_par	POS_JJ	TOK_battery	POS_NN	TOK_difficult	POS_JJ	TOK_accessories	POS_NNS	TOK_product	POS_NN	TOK_new	POS_JJ	TOK_market	POS_NN	TOK_but	POS_CC	TOK_sure	POS_RB	TOK_matter	POS_NN	TOK_weeks	POS_NNS	TOK_os	POS_NNS	TOK_poor	POS_JJ	TOK_quality	POS_NN	TOK_headphones	POS_NNS	TOK_stylish	POS_JJ	TOK_and	POS_CC	TOK_user	POS_NN	TOK_and	POS_CC	TOK_user	POS_NN	TOK_interface	POS_NN	TOK_display	POS_NN	TOK_loud	POS_JJ	TOK_and	POS_CC	TOK_good	POS_JJ	TOK_quality	POS_NN	TOK_front	POS_NN	TOK_loudspeakers	POS_NNS	TOK_amazing	POS_JJ	TOK_camera	POS_NN	TOK_quality	POS_NN	TOK_and	POS_CC	TOK_also	POS_RB	TOK_very	POS_RB	TOK_good	POS_JJ	TOK_front	POS_NN	TOK_cam	POS_NN	TOK_amazing	POS_JJ	TOK_series	POS_NN	TOK_os	POS_NNS	TOK_lightning	POS_NN	TOK_speed	POS_NN	TOK_processor	POS_NN	TOK_lag	POS_NN	TOK_or	POS_CC	TOK_os	POS_NNS	TOK_os	POS_NNS	TOK_external	POS_JJ	TOK_memory	POS_NN	TOK_expandable	POS_JJ	TOK_unto	POS_JJ	TOK_32gb	POS_JJ	TOK_even	POS_RB	TOK_16gb	POS_JJ	TOK_internal	POS_JJ	TOK_bones	POS_NNS	TOK_pretty	POS_RB	TOK_average	POS_JJ	TOK_or	POS_CC	TOK_par	POS_JJ	TOK_battery	POS_NN	TOK_difficult	POS_JJ	TOK_accessories	POS_NNS	TOK_product	POS_NN	TOK_new	POS_JJ	TOK_market	POS_NN	TOK_but	POS_CC	TOK_sure	POS_RB	TOK_matter	POS_NN	TOK_weeks	POS_NNS	TOK_os	POS_NNS	TOK_poor	POS_JJ	TOK_quality	POS_NN	TOK_headphones	POS_NNS	TOK_stylish	POS_JJ	TOK_and	POS_CC	TOK_user	POS_NN	TOK_and	POS_CC	TOK_user	POS_NN	TOK_interface	POS_NN	TOK_display	POS_NN	TOK_loud	POS_JJ	TOK_and	POS_CC	TOK_good	POS_JJ	TOK_quality	POS_NN	TOK_front	POS_NN	TOK_loudspeakers	POS_NNS	TOK_amazing	POS_JJ	TOK_camera	POS_NN	TOK_quality	POS_NN	TOK_and	POS_CC	TOK_also	POS_RB	TOK_very	POS_RB	TOK_good	POS_JJ	TOK_front	POS_NN	TOK_cam	POS_NN	TOK_amazing	POS_JJ	TOK_series	POS_NN	TOK_os	POS_NNS	TOK_lightning	POS_NN	TOK_speed	POS_NN	TOK_processor	POS_NN	TOK_lag	POS_NN	TOK_or	POS_CC	TOK_os	POS_NNS	TOK_os	POS_NNS	TOK_external	POS_JJ	TOK_memory	POS_NN	TOK_expandable	POS_JJ	TOK_unto	POS_JJ	TOK_32gb	POS_JJ	TOK_even	POS_RB	TOK_16gb	POS_JJ	TOK_internal	POS_JJ	TOK_bones	POS_NNS	TOK_pretty	POS_RB	TOK_average	POS_JJ	TOK_or	POS_CC	TOK_par	POS_JJ	TOK_battery	POS_NN	TOK_difficult	POS_JJ	TOK_accessories	POS_NNS	TOK_product	POS_NN	TOK_new	POS_JJ	TOK_market	POS_NN	TOK_but	POS_CC	TOK_sure	POS_RB	TOK_matter	POS_NN	TOK_weeks	POS_NNS	TOK_os	POS_NNS	TOK_poor	POS_JJ	TOK_quality	POS_NN	TOK_headphones	POS_NNS	TOK_stylish	POS_JJ	TOK_and	POS_CC	TOK_user	POS_NN	TOK_and	POS_CC	TOK_user	POS_NN	TOK_interface	POS_NN	TOK_display	POS_NN	TOK_loud	POS_JJ	TOK_and	POS_CC	TOK_good	POS_JJ	TOK_quality	POS_NN	TOK_front	POS_NN	TOK_loudspeakers	POS_NNS	TOK_amazing	POS_JJ	TOK_camera	POS_NN	TOK_quality	POS_NN	TOK_and	POS_CC	TOK_also	POS_RB	TOK_very	POS_RB	TOK_good	POS_JJ	TOK_front	POS_NN	TOK_cam	POS_NN	TOK_amazing	POS_JJ	TOK_series	POS_NN	TOK_os	POS_NNS	TOK_lightning	POS_NN	TOK_speed	POS_NN	TOK_processor	POS_NN	TOK_lag	POS_NN	TOK_or	POS_CC	TOK_os	POS_NNS	TOK_os	POS_NNS	TOK_external	POS_JJ	TOK_memory	POS_NN	TOK_expandable	POS_JJ	TOK_unto	POS_JJ	TOK_32gb	POS_JJ	TOK_even	POS_RB	TOK_16gb	POS_JJ	TOK_internal	POS_JJ	TOK_bones	POS_NNS	TOK_pretty	POS_RB	TOK_average	POS_JJ	TOK_or	POS_CC	TOK_par	POS_JJ	TOK_battery	POS_NN	TOK_difficult	POS_JJ	TOK_accessories	POS_NNS	TOK_product	POS_NN	TOK_new	POS_JJ	TOK_market	POS_NN	TOK_but	POS_CC	TOK_sure	POS_RB	TOK_matter	POS_NN	TOK_weeks	POS_NNS	TOK_os	POS_NNS	TOK_poor	POS_JJ	TOK_quality	POS_NN	TOK_headphones	POS_NNS
+
+
+
+POS	TOK_speed	POS_NN	TOK_great	POS_JJ	TOK_laws	POS_NNS	TOK_and	POS_CC	TOK_many	POS_JJ	TOK_games	POS_NNS	TOK_phone	POS_NN	TOK_and	POS_CC	TOK_glitch	POS_NN
+
+
+
+POS	TOK_gameplay	POS_NN
+
+
+
+POS	TOK_excellent	POS_JJ	TOK_piece	POS_NN	TOK_performance	POS_NN	TOK_smartphone	POS_NN	TOK_speed	POS_NN	TOK_operations	POS_NNS	TOK_camera	POS_NN	TOK_quality	POS_NN	TOK_and	POS_CC	TOK_network	POS_NN	TOK_as	POS_RB	TOK_well	POS_RB	TOK_battery	POS_NN	TOK_back	POS_RB	TOK_day	POS_NN	TOK_functions	POS_NNS	TOK_ease	POS_NN
+
+
+
+POS	TOK_speed	POS_NN	TOK_superb	POS_JJ
+
+
+
+POS	TOK_phone	POS_NN	TOK_and	POS_CC	TOK_speed	POS_NN	TOK_moto	POS_NN	TOK_g	POS_NN	TOK_processor	POS_NN	TOK_micro	POS_NN	TOK_os	POS_NNS	TOK_card	POS_NN	TOK_slot	POS_NN	TOK_beautiful	POS_JJ	TOK_os	POS_NNS	TOK_display	POS_NN	TOK_and	POS_CC	TOK_8mp	POS_JJ	TOK_camera	POS_NN
+
+
+
+POS	TOK_os	POS_NNS	TOK_ghz	POS_NN	TOK_quand	POS_NN	TOK_core	POS_NN	TOK_processor	POS_NN	TOK_mighty	POS_JJ	TOK_beast	POS_NN	TOK_multiple	POS_JJ	TOK_apes	POS_NNS	TOK_last	POS_JJ
+
+
+
+POS	TOK_problem	POS_NN	TOK_option	POS_NN	TOK_sometimes	POS_RB	TOK_switch	POS_NN	TOK_otherwise	POS_RB	TOK_prone	POS_JJ	TOK_god	POS_NN	TOK_camera	POS_NN	TOK_quality	POS_NN
+
+
+
+POS	TOK_phone	POS_NN	TOK_fast	POS_RB	TOK_and	POS_CC	TOK_responsive	POS_JJ
+
+
+
+POS	TOK_great	POS_JJ	TOK_processor	POS_NN	TOK_cool	POS_JJ	TOK_video	POS_NN	TOK_and	POS_CC	TOK_graphics	POS_NNS	TOK_resolution	POS_NN	TOK_acceptable	POS_JJ	TOK_memory	POS_NN
+
+
+
+POS	TOK_phone	POS_NN	TOK_neatly	POS_RB	TOK_phone	POS_NN	TOK_crisp	POS_JJ	TOK_screen	POS_NN	TOK_and	POS_CC	TOK_display	POS_NN	TOK_good	POS_JJ	TOK_performance	POS_NN	TOK_also	POS_RB	TOK_free	POS_JJ	TOK_camera	POS_NN	TOK_decent	POS_JJ	TOK_photo	POS_NN
+
+
+
+POS	TOK_pp	POS_NN	TOK_good	POS_JJ	TOK_running	POS_NN	TOK_&	POS_CC	TOK_speed	POS_NN	TOK_very	POS_RB	TOK_fast	POS_RB	TOK_very	POS_RB	TOK_time	POS_NN
+
+
+
+POS	TOK_vice	POS_NN	TOK_shone	POS_NN	TOK_&	POS_CC	TOK_battery	POS_NN	TOK_back	POS_RB	TOK_&	POS_CC	TOK_problem	POS_NN	TOK_good	POS_JJ	TOK_camera	POS_NN	TOK_quality	POS_NN	TOK_even	POS_RB	TOK_low	POS_JJ	TOK_light	POS_NN	TOK_specially	POS_RB
+
+
+
+POS	TOK_run	POS_NN	TOK_totally	POS_RB	TOK_free	POS_JJ
+
+
+
+POS	TOK_moto	POS_NN	TOK_g	POS_NN	TOK_wont	POS_NN	TOK_good	POS_JJ	TOK_ram	POS_NN	TOK_capacity	POS_NN	TOK_and	POS_CC	TOK_also	POS_RB	TOK_upgradable	POS_JJ	TOK_kitkat	POS_NN
+
+
+
+POS	TOK_processor	POS_NN	TOK_pretty	POS_RB	TOK_quick	POS_JJ	TOK_most	POS_JJS	TOK_everything	POS_NN	TOK_phone	POS_NN	TOK_nice	POS_JJ	TOK_array	POS_NN	TOK_features	POS_NNS	TOK_and	POS_CC	TOK_doesn	POS_NN	TOK_much	POS_JJ	TOK_bloatware	POS_NN	TOK_average	POS_JJ	TOK_phone	POS_NN
+
+
+
+POS	TOK_price	POS_NN	TOK_moto	POS_NN	TOK_g	POS_NN	TOK_second	POS_JJ	TOK_gen	POS_NN	TOK_lots	POS_NNS	TOK_good	POS_JJ	TOK_phone	POS_NN	TOK_available	POS_JJ	TOK_and	POS_CC	TOK_much	POS_RB	TOK_better	POS_JJR	TOK_camera	POS_NN	TOK_interface	POS_NN	TOK_but	POS_CC	TOK_sick	POS_JJ	TOK_well	POS_RB	TOK_lag	POS_NN	TOK_free	POS_JJ	TOK_phone	POS_NN	TOK_slow	POS_JJ	TOK_many	POS_JJ	TOK_upgrade	POS_JJ	TOK_moto	POS_NN	TOK_g	POS_NN	TOK_second	POS_JJ	TOK_gen	POS_NN	TOK_good	POS_JJ	TOK_choice	POS_NN
+
+
+
+POS	TOK_awesome	POS_JJ	TOK_camera	POS_NN	TOK_smooth	POS_JJ	TOK_processor	POS_NN	TOK_vice	POS_NN	TOK_touch	POS_NN	TOK_awesome	POS_JJ	TOK_sound	POS_NN	TOK_value	POS_NN	TOK_money	POS_NN
+
+
+
+POS	TOK_mobile	POS_JJ	TOK_looks	POS_NNS	TOK_good	POS_JJ	TOK_os	POS_NNS	TOK_word	POS_NN	TOK_better	POS_JJR	TOK_then	POS_RB	TOK_htc	POS_JJ	TOK_desire	POS_NN	TOK_models	POS_NNS	TOK_os	POS_NNS	TOK_gros	POS_NNS	TOK_camera	POS_NN	TOK_quality	POS_NN	TOK_marvelous	POS_JJ	TOK_speed	POS_NN	TOK_good	POS_JJ	TOK_too	POS_RB	TOK_os	POS_JJ	TOK_rest	POS_NN	TOK_other	POS_JJ	TOK_review	POS_NN	TOK_guys	POS_NNS
+
+
+
+POS	TOK_play	POS_NN	TOK_shalt	POS_NN	TOK_much	POS_JJ	TOK_lag	POS_NN	TOK_almost	POS_RB	TOK_smooth	POS_JJ	TOK_medium	POS_NN	TOK_graphics	POS_NNS
+
+
+
+POS	TOK_speed	POS_NN	TOK_phone	POS_NN	TOK_good	POS_JJ
+
+
+
+POS	TOK_fantastic	POS_JJ	TOK_and	POS_CC	TOK_wonderful	POS_JJ	TOK_manner	POS_NN	TOK_motorola	POS_NN	TOK_always	POS_RB	TOK_rocky	POS_JJ	TOK_very	POS_RB	TOK_sound	POS_JJ	TOK_screen	POS_NN	TOK_processor	POS_NN	TOK_speed	POS_NN	TOK_everything	POS_NN	TOK_fantastic	POS_JJ	TOK_fantastic	POS_JJ	TOK_and	POS_CC	TOK_wonderful	POS_JJ	TOK_manner	POS_NN	TOK_motorola	POS_NN	TOK_always	POS_RB	TOK_rocky	POS_JJ	TOK_very	POS_RB	TOK_sound	POS_JJ	TOK_screen	POS_NN	TOK_processor	POS_NN	TOK_speed	POS_NN	TOK_everything	POS_NN	TOK_fantastic	POS_JJ
+
+
+
+NEG	TOK_moto	POS_NN	TOK_g	POS_NN	TOK_and	POS_CC	TOK_gen	POS_NN	TOK_January	POS_NNP	TOK_many	POS_JJ	TOK_times	POS_NNS	TOK_applications	POS_NNS	TOK_and	POS_CC	TOK_now	POS_RB	TOK_hardware	POS_NN	TOK_issues	POS_NNS	TOK_service	POS_NN	TOK_motorola	POS_NN	TOK_not	POS_RB	TOK_good	POS_JJ	TOK_June	POS_NNP
+
+
 
