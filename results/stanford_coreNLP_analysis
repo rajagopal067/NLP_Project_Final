@@ -1,0 +1,31 @@
+accessories:
+74 say good
+655 say bad
+89.8 % say bad
+
+
+battery:
+897 - POS
+2454 - NEG
+73.23% say bad
+
+camera:
+1386 - POS
+1364 - NEG
+49.6% say bad
+
+screen
+865 - POS
+1173 - NEG
+57.55% say bad
+
+responsive:
+391 - POS
+866 - NEG
+68.8% say bad
+
+
+software:
+816 - POS
+2666 - NEG
+76.5% say bad
