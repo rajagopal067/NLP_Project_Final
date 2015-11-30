@@ -1,0 +1,12 @@
+CRF : 
+Macro-average precision, recall, F1: (0.486111, 0.486111, 0.486111)
+Item accuracy: (0.7308)
+Instance accuracy: (0.7308)
+
+MegaM:
+precision, recall, F1: (0.526, 0.461, 0.506)
+Accuracy : 70.34
+
+Stanford CoreNLP:
+precision, recall, F1: (0.45, 0.41, 0.43)
+Accuracy : 55.32
